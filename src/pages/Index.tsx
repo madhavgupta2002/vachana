@@ -146,6 +146,8 @@ const Index = () => {
             characterMap={languageData.characterMap}
             isDarkMode={isDarkMode}
             isMobile={isMobile}
+            onPrevious={isSequentialMode ? goToPrevious : undefined}
+            onNext={isSequentialMode ? goToNext : undefined}
           />
 
           <ControlPanel

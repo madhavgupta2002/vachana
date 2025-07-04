@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef, TouchEvent } from 'react';
 import { Card } from '@/components/ui/card';
 import { Word, CharacterMap } from '@/data/types';
 
@@ -7,9 +7,48 @@ interface WordDisplayProps {
   characterMap: CharacterMap;
   isDarkMode?: boolean;
   isMobile?: boolean;
+  onPrevious?: () => void;
+  onNext?: () => void;
 }
 
-const WordDisplay: React.FC<WordDisplayProps> = ({ word, characterMap, isDarkMode = false, isMobile = false }) => {
+const WordDisplay: React.FC<WordDisplayProps> = ({
+  word,
+  characterMap,
+  isDarkMode = false,
+  isMobile = false,
+  onPrevious,
+  onNext
+}) => {
+  const touchStartX = useRef<number | null>(null);
+  const touchEndX = useRef<number | null>(null);
+
+  const handleTouchStart = (e: TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+  };
+
+  const handleTouchMove = (e: TouchEvent) => {
+    touchEndX.current = e.touches[0].clientX;
+  };
+
+  const handleTouchEnd = () => {
+    if (!touchStartX.current || !touchEndX.current) return;
+
+    const diff = touchStartX.current - touchEndX.current;
+    const threshold = 50; // Minimum swipe distance in pixels
+
+    if (diff > threshold && onNext) {
+      // Swiped left, go to next
+      onNext();
+    } else if (diff < -threshold && onPrevious) {
+      // Swiped right, go to previous
+      onPrevious();
+    }
+
+    // Reset values
+    touchStartX.current = null;
+    touchEndX.current = null;
+  };
+
   const getCharacterBreakdown = (nativeWord: string) => {
     const characters = Array.from(nativeWord);
     const breakdown: Array<{ char: string; sound: string; description: string }> = [];
@@ -53,7 +92,12 @@ const WordDisplay: React.FC<WordDisplayProps> = ({ word, characterMap, isDarkMod
   const breakdown = getCharacterBreakdown(word.native);
 
   return (
-    <div className="w-full max-w-6xl mx-auto space-y-4 sm:space-y-6">
+    <div
+      className="w-full max-w-6xl mx-auto space-y-4 sm:space-y-6"
+      onTouchStart={handleTouchStart}
+      onTouchMove={handleTouchMove}
+      onTouchEnd={handleTouchEnd}
+    >
       {/* Main Word Display */}
       <Card className={`p-4 sm:p-8 text-center border-0 shadow-lg ${isDarkMode
         ? 'bg-gradient-to-br from-gray-800 to-gray-700'
