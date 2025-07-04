@@ -1,0 +1,973 @@
+s.no,kannada,romanized,translation
+1,ಅಮ್ಮ,amma,mother
+2,ಹಸು,hasu,cow
+3,ಮನೆ,mane,house
+4,ನೊಣ,noṇa,fly
+5,ಅಳಿಲು,aḷilu,squirrel
+6,ತೂಗುಯ್ಯಾಲೆ,tūguyyāle,cradle
+7,ಋಷಿ,ṛṣi,sage
+8,ಇಲಿ,ili,rat
+9,ಆನೆ,āne,elephant
+10,ಐದು,aidu,five
+11,ಒಂಟೆ,oṇṭe,camel
+12,ಹಡಗು,haḍagu,ship
+13,ಔಷಧ,auṣadha,medicine
+14,ಅಂಬರ,ambara,sky
+15,ದುಃಖ,duḥkha,grief
+16,ಕದಿರು,kadiru,spike
+17,ಖಡ್ಗ,khaḍga,sword
+18,ಬುಟ್ಟಿ,buṭṭi,basket
+19,ಘಟ,ghaṭa,vessel
+20,ವಾಙ್ಮಯ,vāṅmaya,literature
+21,ಚಳಿ,caḷi,chill
+22,ಛತ್ರಿ,chatri,umbrella
+23,ಜಡೆ,jaḍe,plait
+24,ಮೀನು,meenu,fish
+25,ಯಜ್ಞ,yajña,ritual
+26,ಟಪಾ,ṭapā,post
+27,ಕಂಠ,kaṇṭha,throat
+28,ಡಬ್ಬ,ḍabba,box
+29,ಡ್ರಮ್,ḍram,drum
+30,ವೀಣೆ,veeṇe,musical instrument
+31,ತಲೆ,tale,head
+32,ರಥ,ratha,chariot
+33,ದಂಡೆ,daṇḍe,garland
+34,ಧನಸ್ಸು,dhanassu,bow
+35,ಬಸವನಹುಳು,basavanahuḷu,snail
+36,ಹಲಗೆ,halage,slate
+37,ಹಣ್ಣು,haṇṇu,fruit
+38,ಬಂಡಿ,baṇḍi,cart
+39,ಭಟ,bhaṭa,soldier
+40,ಜ್ವಾಲೆ,jvāle,flame
+41,ಯಂತ್ರ,yantra,machine
+42,ರತ್ನ,ratna,gem
+43,ಲತೆ,late,creeper
+44,ತಾಳ,tāḷa,lock
+45,ಬಲೆ,bale,net
+46,ಶಂಖ,śaṅkha,conch
+47,ಮೇಕೆ,mēke,goat
+48,ಚೀಲ,cheela,bag
+49,ಹಂಸ,haṁsa,swan
+50,ವೃಕ್ಷ,vṛkṣa,tree
+51,ಗರಗಸ,garagasa,saw
+52,ಅಲೆ,ale,wave
+53,ಹಲಗೆ,halage,shelf
+54,ಅಡವಿ,aḍavi,forest
+55,ಅನಾನಸ್,anānas,pineapple
+56,ಬಾಳೆಹಣ್ಣು,bāḷehaṇṇu,plantain
+57,ಸುಸ್ತು,sustu,tiresome
+58,ಅನುಮತಿ,anumati,permission
+59,ಆಟ,āṭa,game
+60,ಆರು,āru,six
+61,ಎಲೆಗಳು,eḷegaḷu,leaves
+62,ಹಸಿವು,hasivu,hunger
+63,ಆಸೆ,āse,desire
+64,ಆಕಾಶ,ākāśa,sky
+65,ಆಲಯ,āḷaya,temple
+66,ಭೂಮಿ,bhoomi,earth
+67,ಸ್ತ್ರೀ,stree,lady
+68,ಇಟ್ಟಿಗೆ,iṭṭige,brick
+69,ಮರಳು,maraḷu,sand
+70,ಕಬ್ಬಿಣ,kabbaṇa,iron
+71,ಇತ್ತೀಚೆಗೆ,ittīcege,recently
+72,ಈ ಕಡೆ,ee kaḍe,this side
+73,ಈಜು,eeju,swim
+74,ಗರಿಗಳು,garigaḷu,feathers
+75,ಈಟಿ,eeṭi,spear
+76,ಇಂದು,indu,today
+77,ಈಶ್ವರ,eeśvara,God Siva
+78,ತಾಳೆಮರ,tāḷemara,toddy tree
+79,ಸಿಳ್ಳೆ ಹಾಡು,siḷḷe hāḍu,whistling
+80,ಉಳಿ,uḷi,chistle
+81,ಉಕ್ಕು,ukku,steel
+82,ತೊಳೆಯು,toḷeyu,wash
+83,ಗುಡುಗು,guḍugu,thunder
+84,ಹುರುಳಿ,huruḷi,horsegram
+85,ಬೆಳಿಗ್ಗೆ,beḷiggge,morning
+86,ಊರು,ūru,village
+87,ಊಟ,ūṭa,spring
+88,ಊಡಲು,ūḍalu,ariel roots
+89,ಉಸಿರು,usiru,breath
+90,ಊಹೆ,ūhe,guess
+91,ಉಪ್ಪಿನಕಾಯಿ,uppinakaayi,pickle
+92,ಸಮಾಧಾನ,samādhāna,consolation
+93,ಋಷಿ,ṛṣi,sage
+94,ಮಂತ್ರ,mantra,mantra
+95,ವೃಷಭ,vṛṣabha,bull
+96,ರುಜುವಾತು,rujuvātu,proof
+97,ಋತು,ṛtu,season
+98,ಋಣ,ṛṇa,debt
+99,ಬಲೆ,bale,bait
+100,ಹಾರಲು,hāralu,fly
+101,ಮೂಳೆ,mūḷe,bone
+102,ಮರುಭೂಮಿ,marubhūmi,desert
+103,ಕೆಂಪು,kempu,red
+104,ರಫ್ತು,raphthu,export
+105,ಎಕರೆ,ekare,acre of land
+106,ಏಳು,ēḷu,seven
+107,ಹಳ್ಳ,haḷḷa,river
+108,ಆನೆ,āne,elephant
+109,ಆಡಳಿತಗಾರ,āḍaḷitagāra,ruler
+110,ಎತ್ತಿಕೊಳ್ಳುವುದು,ettikoḷḷuvudu,picking up
+111,ಇಳಿಜಾರು,iḷijāru,slant
+112,ಏಲಕ್ಕಿ,ēḷakki,cardamom
+113,ಆದರೆ,ādare,but
+114,ಐಕ್ಯತೆ,aikyate,unity
+115,ಐದು ರೂಪಾಯಿ,aidu rūpāyi,five rupees
+116,ಐಶ್ವರ್ಯ,aiśvarya,wealth
+117,ಐಹಿಕ,aihika,worldliness
+118,ಐರಾವತ,airāvata,white elephant
+119,ಒಂದು,ondu,one
+120,ಒಂಟೆ,oṇṭe,camel
+121,ಮಡಿಲು,maḍilu,lap
+122,ಹೊಂದಾಣಿಕೆ,hondāṇike,adjust
+123,ಒಬ್ಬ ಮನುಷ್ಯ,obba manuṣya,one man
+124,ಏಕಾಂಗಿ,ēkāṅgi,lonely person
+125,ಘರ್ಷಣೆ,gharṣaṇe,friction
+126,ಸೋಲು,solu,defeat
+127,ಸಹಿಸು,sahisu,bear
+128,ಮತ,mata,vote
+129,ತಾಳ್ಮೆ,tāḷme,patience
+130,ಔಷಧಿ,auṣadhi,medicine
+131,ಬಂದರು,bandaru,harbour
+132,ಅಕ್ಷರಮಾಲೆ,akṣaramāle,alphabet
+133,ಬಾಂಬ್,bāmb,bomb
+134,ಹೌದು,haudu,yes
+135,ಅಲ್ಲವೇ,allavē,is it
+136,ಔಚಿತ್ಯ,aucitya,aptness
+137,ಔದಾರ್ಯ,audārya,magnanimity
+138,ಪೂರ್ಣ,poorṇa,whole
+139,ಅಂದ,anda,beauty
+140,ಅಂಚು,anchu,border
+141,ಅಂತ್ಯ,antya,end
+142,ಅಂಕಿಥ,aṅkitha,dedication
+143,ಅಂಬುಜ,ambuja,lotus
+144,ಅಂತಃಪುರ,antaḥpura,inner chamber
+145,ಆಂತರಿಕ ಶತ್ರು,āntarika śatru,internal enemy
+146,ಆಂತರಿಕ ಚಟುವಟಿಕೆ,āntarika caṭuvaṭike,inner activity
+147,ಆಂತರಿಕ ಕೋನ,āntarika kōna,inner angle
+148,ಗೆಣಸು,geṇasu,yam
+149,ಲೇಖನಿ,lēkhani,pen
+150,ಕಡವ,kaḍava,pot
+151,ಸಮುದ್ರ,samudra,sea
+152,ಹೊಟ್ಟೆ,hoṭṭe,stomach
+153,ಚಿನ್ನ,chinna,gold
+154,ಅವಳಿಗಳು,avaḷigaḷu,twins
+155,ಖನಿ,khani,mine
+156,ಕತ್ತೆ,katte,ass
+157,ಬೆಲೆ,bele,price
+158,ಪಕ್ಷಿ,pakṣi,bird
+159,ಖರ್ಜೂರ,kharjūra,date
+160,ಖನಿಜ,khanija,mineral
+161,ಕೋಣೆ,kōṇe,room
+162,ಹೊಸ್ತಿಲು,hostilu,threshold
+163,ಗದೆ,gade,club
+164,ಗರಿಕೆ,garike,grass
+165,ಆನೆ,āne,elephant
+166,ವಿಷ,viṣa,poison
+167,ಆಕಾಶ,ākāśa,sky
+168,ಘಟನೆ,ghaṭane,incident
+169,ಘನ,ghana,solid
+170,ಘಂಟಾನಾದ,ghaṇṭānāda,sound of the bell
+171,ಝೇಂಕರಿಸು,jhēnkarisu,ringing
+172,ಸಾಮರ್ಥ್ಯವುಳ್ಳ ವ್ಯಕ್ತಿ,sāmarthyavuḷḷa vyakti,capable person
+173,ಘರ್ಷಣೆ,gharṣaṇe,friction
+174,ಸರಸ್ವತಿ,sarasvati,Goddess Saraswati
+175,ಸಾಹಿತ್ಯ,sāhitya,literature
+176,ಸಾಹಿತಿ,sāhiti,litterateur
+177,ಚಳಿ,caḷi,chill
+178,ಚಾಕು,cāku,pen knife
+179,ಚಕ್ರ,cakra,wheel
+180,ಚಂದನ,candana,sandalwood
+181,ಓದು,ōdu,read
+182,ಚಂಪಕ,campaka,flower
+183,ಚಕೋರ,cakōra,square
+184,ಛಂದಸ್ಸು,chandassu,prosody
+185,ಶಿವಾಜಿ,śivāji,śivāji
+186,ಛಾಯೆ,chāye,shadow
+187,ಹಾಸ್ಯ,hāsya,repartee
+188,ಅಣಬೆ,aṇabe,mushroom
+189,ಜತೆ,jate,pair
+190,ಪೇರಲ,pērala,guava
+191,ಜಲ,jala,water
+192,ಜಯ,jaya,triumph
+193,ಜಗಳ,jagaḷa,quarrel
+194,ಜನನ,janana,birth
+195,ಸಮಯ,samaya,time
+196,ಮೀನು,meenu,fish
+197,ಝೇಂಕಾರ,jhaṁkāra,humming
+198,ಪರ್ವತದ ತೊರೆ,parvatada tore,mountain stream
+199,ಚಂಡಮಾರುತ,chaṇḍamāruta,storm
+200,ಆಜ್ಞೆ,ājñe,command
+201,ಸಂಜ್ಞೆ,saṁjñe,symbol
+202,ಜ್ಞಾನ,jñāna,knowledge
+203,ವಿಜ್ಞಾಪನ,vijñāpana,request
+204,ಟಪಾ,ṭapā,post
+205,ಟ್ರಿಕ್,ṭrik,trick
+206,ಪಟಾಕಿ,paṭāki,crackers
+207,ಕುತಂತ್ರಿ,kutantri,cunning fellow
+208,ಟಂಕಸಾಲೆ,ṭaṅkasāle,mint
+209,ಠಾಣೆ,ṭhāṇe,police station
+210,ಶೈಲಿ,śaili,style
+211,ಪಾಠ,pāṭha,lesson
+212,ಸಿಹಿ,sihi,sweet
+213,ಪಾಠಶಾಲೆ,pāṭhaśāle,school
+214,ಕಂಠ,kaṇṭha,throat
+215,ನಗದು,nagadu,cash
+216,ಗುರಾಣಿ,gurāṇi,shield
+217,ಡಮರುಕ,ḍamaruka,small drum
+218,ದರ್ಪ,darpa,boasting
+219,ಡಜನ್,ḍajan,12 pieces
+220,ಘರ್ಷಣೆ,ghaṭṭaṇe,clash
+221,ಗುರಾಣಿ,gurāṇi,shield
+222,ದೊಡ್ಡ ಡ್ರಮ್,doḍḍa ḍram,big drum
+223,ಬ್ಲಾಸ್ಟ್,blāsṭ,blast
+224,ಧರಣಿ,dharaṇi,earth
+225,ಕರುಣೆ,karuṇe,compassion
+226,ವೇಣು,vēṇu,flute
+227,ಕಲ್ಯಾಣ,kalyāṇa,marriage
+228,ಆಭರಣ,ābharaṇa,ornament
+229,ಬಾಗಿಲು,bāgilu,door
+230,ಹಗ್ಗ,hagga,rope
+231,ಅಜ್ಜ,ajja,grandfather
+232,ಮರ,mara,tree
+233,ಮಗಳು,magaḷu,daughter
+234,ತರಗತಿ,taragati,class
+235,ಅಲೆ,ale,wave
+236,ಅತಿಥಿ,atithi,guest
+237,ಪಥ,patha,way
+238,ಕಥೆ,kathe,story
+239,ರಥ,ratha,chariot
+240,ಶಪಥ,śapatha,vow
+241,ಮಂಥನ,manthana,churning
+242,ದಂತ,danta,tooth
+243,ಬೇಲಿ,bēli,fence
+244,ದಾರಿಯ,dāriya,way
+245,ದಂಡೆ,daṇḍe,garland
+246,ದಾನ,dāna,donation
+247,ಶಿಕ್ಷೆ,śikṣe,punishment
+248,ಬೆಲೆ,bele,price
+249,ಬಿಲ್ಲು,billu,bow
+250,ಧಾರಾ,dhārā,stream
+251,ಧಮನಿ,dhamani,vein
+252,ಧನ,dhana,money
+253,ಬಿಳಿ,biḷi,white
+254,ಮಿನುಗುವ,minuguva,glittering
+255,ನಾರಿ,nāri,woman
+256,ನಟಿ,naṭi,actress
+257,ಆಭರಣಗಳು,ābharaṇagaḷu,jewelry
+258,ನಡಿಗೆ,naḍige,walk
+259,ನಡುವೆ,naḍuve,middle
+260,ನಡವಳಿಕೆ,naḍavaḷike,conduct
+261,ಮಧ್ಯರಾತ್ರಿ,madhyarātri,midnight
+262,ಕೆಲಸ,kelasa,work
+263,ಹಾಸಿಗೆ,hāsige,bed
+264,ದೋಣಿ,dōṇi,boat
+265,ಹಲಗೆ,halage,slate
+266,ಹಗಲು,hagalu,day
+267,ಪವಳ,pavaḷa,coral
+268,ಹಾವು,hāvu,snake
+269,ಫಲಿತಾಂಶ,phalitāṁśa,result
+270,ಫಲಕ,phalaka,plate
+271,ಅರ್ಜುನ,arjuna,arjuna
+272,ಸೀತಾಫಲ,seetāphala,custard apple
+273,ಉಪಹಾರ,upahāra,tiffin
+274,ಶಾಲೆ,śāle,school
+275,ವಸತಿ,vasati,accomodation
+276,ಚೆಂಡು,cheṇḍu,ball
+277,ಬಲ,bala,strength
+278,ಕೊಕ್ಕು,kokku,crane
+279,ಬಂಡಿ,baṇḍi,cart
+280,ಬಲಪ,balapa,slate pencil
+281,ಭವನ,bhavana,building
+282,ಭಕ್ತಿ,bhakti,devotion
+283,ಚೆನ್ನಾಗಿ ಮಾಡಿದೆ,chennāgi māḍide,well done
+284,ಭಯ,bhaya,fear
+285,ಸಹಿಸು,sahisu,bear
+286,ಅವಮಾನ,avamāna,insult
+287,ತಿರುಪು,tirupu,screw
+288,ಔಷಧಿ,auṣadhi,medicine
+289,ಮಂಚ,manca,cot
+290,ಮನುಷ್ಯ,manuṣya,man
+291,ಮನವಿ,manavi,appeal
+292,ಕಿರೀಟ,kirīṭa,crown
+293,ನವಿಲು,navilu,peacock
+294,ಯಾಗ,yāga,ritual
+295,ಯತಿ,yati,sage
+296,ರಾತ್ರಿ,rātri,night
+297,ಯಮುನಾ,yamunā,river Yamuna
+298,ಪ್ರಯತ್ನ,prayatna,effort
+299,ಯಂತ್ರ,yantra,machine
+300,ಮಾಲೀಕ,mālīka,master
+301,ಸೂರ್ಯ,sūrya,sun
+302,ರಾಣಿ,rāṇi,queen
+303,ರಾಜ,rāja,king
+304,ರಣ,raṇa,battle
+305,ರಸ,rasa,juice
+306,ಹೆದ್ದಾರಿ,heddāri,high way
+307,ಲವಂಗ,lavanga,clove
+308,ಲಾಖಾ,lākhā,lac
+309,ದಪ್ಪ,dappa,fatty
+310,ಲಲನೆ,lalane,woman
+311,ಲಂಚ,lancha,bribe
+312,ಲವಣ,lavaṇa,salt
+313,ಲಂಗರು,langaru,anchor
+314,ವೇಳೆ,vēḷe,time
+315,ಗಂಟಲು,gaṇṭalu,throat
+316,ತಟ್ಟೆಗಳು,taṭṭegaḷu,plates
+317,ಕಲೆಗಳು,kalegaḷu,fine arts
+318,ನಾಳ,nāḷa,tube
+319,ಕೀಲಿ,keeli,key
+320,ಸರಳ,saraḷa,simple
+321,ಭತ್ತ,bhatta,paddy
+322,ಮಳೆ,maḷe,rain
+323,ವನ,vana,forest
+324,ವಜ್ರ,vajra,diamond
+325,ಬದನೆಕಾಯಿ,badanekāyi,brinjal
+326,ವಸಂತ,vasanta,spring
+327,ಅಡುಗೆ,aḍuge,dish
+328,ಶನಿ,śani,saturn
+329,ಬಾಣ,bāṇa,arrow
+330,ಚಂದ್ರ,chandra,moon
+331,ಶಕ,śaka,era
+332,ಶರೀರ,śareera,body
+333,ಶತಕ,śataka,hundred verses
+334,ಷಡ್ಭುಜ,ṣaḍbhuja,hexagon
+335,ಷಷ್ಟಿ,ṣaṣṭi,sixty
+336,ಷಟ್ಕ,ṣaṭka,six folded
+337,ಷಣ್ಮುಖ,ṣaṇmukha,six faced lord
+338,ಷಡ್ಡಕ,ṣaḍḍaka,co-brother
+339,ಷಟ್ಪದ,ṣaṭpada,insect
+340,ಸಭೆ,sabhe,court
+341,ಸರಿ,sari,equal
+342,ಅರ್ಧ,ardha,half
+343,ಸಂತೆ,sante,market
+344,ಸಮರ,samara,war
+345,ಸಹಜ,sahaja,natural
+346,ಸಮಾಜ,samāja,society
+347,ನೇಗಿಲು,nēgilu,plough
+348,ಹಾನಿ,hāni,harm
+349,ಹಂಸ,haṁsa,swan
+350,ಹರಿಣಿ,hariṇi,deer
+351,ಹಾಸ್ಯ,hāsya,humour
+352,ಹಸಿರು,hasiru,green
+353,ಕ್ಷಮ,kṣama,patience
+354,ಕ್ಷಣ,kṣaṇa,moment
+355,ಕ್ಷಯ,kṣaya,decrease
+356,ಗಾಯ,gāya,wound
+357,ಭಿಕ್ಷುಕ,bhikṣuka,beggar
+358,ಆಲದ ಮರ,ālada mara,banyan tree
+359,ಅರಿವು,arivu,knowledge
+360,ಕಬ್ಬು,kabbu,sugarcane
+361,ಕೆರೆ,kere,pond
+362,ಕೆಂಪು ಕಲ್ಲು,kempu kallu,red stone
+363,ಕುರಿ ಹಾಲು,kuri hālu,ewe milk
+364,ಸಿಂಸೆ,siṁse,torture
+365,ಕುದುರೆ,kudure,horse
+366,ವಾಸನೆ,vāsane,smell
+367,ಭಯಾನಕ,bhayānaka,awful
+368,ತುಪ್ಪ,tuppa,ghee
+369,ಘೀಂಕರಿಸು,ghīṁkarisu,trumpet
+370,ಸಾಹಿತಿ,sāhiti,litterateur
+371,ಬ್ರಹ್ಮದೇವರು,brahmadēvaru,Lord Brahma
+372,ಚರ್ಮಕಾರ,carmakāra,cobler
+373,ಪುಡಿ,puḍi,powder
+374,ಹಾಸ್ಯ,hāsya,repartee
+375,ಕತ್ತರಿಸುವುದು,kattarisuvaḍu,cutting
+376,ಛಿದ್ರವಿಚ್ಛಿದ್ರ,chidravichchidra,helter-skelter
+377,ಜೀರ್ಣ,jeerṇa,digestion
+378,ಜನ್ಮಭೂಮಿ,janmabhūmi,native place
+379,ಜೀವನೋಪಾಯ,jeevanōpāya,livelihood
+380,ಜೀವಶಾಸ್ತ್ರ,jeevaśāstra,biology
+381,ಕಾಮದೇವರು,kāmadēvaru,cupid
+382,ಚಂಡಮಾರುತದ ಗಾಳಿ,chaṇḍamārutada gāḷi,stormy wind
+383,ಪ್ರತಿಜ್ಞೆ,pratijñe,vow
+384,ಪ್ರಾಜ್ಞ,prājña,learned man
+385,ಮಹಾರಾಣಿ,mahārāṇi,queen
+386,ಮನೋಜ್ಞ,manōjña,delight
+387,ಓದು,ōdu,read
+388,ತೆಂಗಿನಕಾಯಿ,teṅginakāyi,coconut
+389,ಕುತಂತ್ರಿ,kutantri,cunning
+390,ಟಿಪ್ಪು ಸುಲ್ತಾನ್,ṭippu sulṭān,tippusultan
+391,ಟಿಪ್ಪಣಿ,ṭippaṇi,commentary
+392,ಕಠಿಣ,kaṭhiṇa,hard
+393,ಪ್ರತಿಷ್ಠೆ,pratiṣṭhe,reputation
+394,ಕಾಗದದ ಹಾಳೆ,kāgadada hāḷe,sheet of paper
+395,ನಿಷ್ಪ್ರಯೋಜಕ,niṣprayōjaka,useless
+396,ಹೊಟ್ಟೊಳ್ಳ,hoṭṭoḷḷa,hallow
+397,ಡಮರುಕ,ḍamaruka,drum
+398,ಅಲುಗಾಡುವಿಕೆ,alugāḍuvike,wavering
+399,ಗಾಢನಿದ್ರೆ,gāḍhanidre,sound sleep
+400,ಆಷಾಢ,āṣāḍha,name of a month
+401,ಗುಪ್ತ,gupta,hidden
+402,ದೃಢತೆ,dṛḍhate,sturdiness
+403,ರಕ್ಷಣೆ,rakṣaṇe,defence
+404,ಗ್ರಹಣ,grahaṇa,eclipse
+405,ವಾಣಿಜ್ಯ,vāṇijya,commerce
+406,ಕ್ಷಣ,kṣaṇa,moment
+407,ತಿರಸ್ಕಾರ,tiraskāra,rejection
+408,ತೀರ್ಥಯಾತ್ರೆ,teerthayātre,pilgrimage
+409,ತಪ್ಪು,tappu,mistake
+410,ತತ್ವ,tatva,philosophy
+411,ಶಿಥಿಲವಾದ,śithilavāda,dilapidated
+412,ಬುದ್ಧ,buddha,Lord Buddha
+413,ನಕ್ಷತ್ರಪಥ,nakṣatrapatha,zodiac
+414,ಯಥಾಸ್ಥಿತಿ,yathāsthiti,as it is
+415,ದಾತೃತ್ವ,dātṛtva,generosity
+416,ದಿಗ್ಬಂಧನ,digbandhana,beleaguering
+417,ದೀರ್ಘಾಯುಷ್ಯ,deerghāyuṣya,long life
+418,ದುರದೃಷ್ಟ,duradṛṣṭa,misfortune
+419,ಧಾನ್ಯ,dhānya,grain
+420,ಧರ್ಮಛತ್ರ,dharmachatra,choultry
+421,ಧ್ಯಾನ,dhyāna,meditation
+422,ಧ್ವನ್ಯನುಕರಣೆ,dhvanyanukaraṇe,mimicry
+423,ತಡೆಯಿರಿ,taḍeyiri,obstruct
+424,ನೃತ್ಯ,nṛtya,dance
+425,ನಮಸ್ಕಾರ,namaskāra,salutation
+426,ನಿರ್ಣಯ,nirṇaya,decision
+427,ಪರಮಾತ್ಮ,paramātma,Supreme Spirit
+428,ಪರಿಹಾರ,parihāra,settlement
+429,ಕೃಷ್ಣ,kṛṣṇa,Lord Krishna
+430,ಪಶ್ಚಾತ್ತಾಪ,paścāttāpa,repentance
+431,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
+432,ಹಣೆಗಣ್ಣು,haṇegaṇṇu,the eye on forehead
+433,ಅರಳಿದ,araḷida,blossom
+434,ಫಲಿತಾಂಶ,phalitāṁśa,result
+435,ಬುದ್ಧಿವಂತ ವ್ಯಕ್ತಿ,buddhivanta vyakti,wise person
+436,ಬೌದ್ಧಧರ್ಮ,bauddhādharma,buddhism
+437,ಬ್ರಹ್ಮಾನಂದ,brahmānanda,ecstasy
+438,ಬಹಿಷ್ಕಾರ,bahiṣkāra,expulsion
+439,ಕರಡಿ,karaḍi,bear
+440,ಸೂರ್ಯ,sūrya,Sun
+441,ಖಜಾನೆ,khajāne,treasury
+442,ಶ್ರೀಮಂತ ವ್ಯಕ್ತಿ,śreemanta vyakti,rich man
+443,ಮೀನು,meenu,fish
+444,ಮಿದುಳು,miduḷu,brain
+445,ಇಂದ್ರ,indra,Lord Indra
+446,ಮಧ್ಯಾಹ್ನ,madhyāhna,midday
+447,ಯೌವನ,yauvana,youth
+448,ಯೋಗ್ಯತೆ,yōgyate,eligibility
+449,ಯಥಾ ಪ್ರಕಾರ,yathā prakāra,as usual
+450,ಯಜುರ್ವೇದ,yajurvēda,one of the vēdās
+451,ಅನಾರೋಗ್ಯ,anārōgya,illness
+452,ರದ್ದುಗೊಳಿಸಿ,raddagoḷisi,cancel
+453,ಕರ್ಣ,karṇa,Karna
+454,ಅರಮನೆ,aramane,palace
+455,ಗಾದೆ,gāde,proverb
+456,ಕಾಳಜಿ ವಹಿಸಿ,kāḷaji vahisi,care
+457,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
+458,ವಿಶಿಷ್ಟ ವೈಶಿಷ್ಟ್ಯ,viśiṣṭa vaiśiṣṭya,elegant feature
+459,ಬೋಲ್ಟ್,bōlṭ,bolt
+460,ಲಗಾಮು,lagāmu,rein
+461,ಸುಗಂಧ,sugandha,fragrance
+462,ಕಾಳರಾತ್ರಿ,kāḷarātri,nightmare
+463,ಸತ್ಯ,satya,truth
+464,ಸಿಟ್ಟುಬರಿಸು,siṭṭubarisu,enrage
+465,ವಾರ್ಧಕ್ಯ,vārdhakya,old age
+466,ಇಂದ್ರನ ಆಯುಧ,indrana āyudha,indra's weapon
+467,ಶತ್ರು,śatru,enemy
+468,ತಲೆ,tale,head
+469,ಶುದ್ಧತೆ,śuddhate,purity
+470,ಶರತ್ಕಾಲ,śaratkāla,autumn
+471,ಹೂವು,hoovu,flower
+472,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
+473,ಪುಷ್ಕಳ,puṣkaḷa,plenty
+474,ಕೊಳ,koḷa,pond
+475,ಸಂಘ,saṅgha,society
+476,ಸಂಗ್ರಾಮ,saṅgrāma,war
+477,ಸತ್ಕರಿಸು,satkarisu,honour
+478,ಸಂಕಲ್ಪ,saṅkalpa,determination
+479,ಹರ್ಷ,harṣa,joy
+480,ಹೃದಯ,hṛdaya,heart
+481,ಹಿಮಾಲಯ ಪರ್ವತ,himālaya parvata,Himalayan mountain
+482,ಚಿನ್ನ,chinna,gold
+483,ಕ್ಷೇತ್ರ,kṣētra,field
+484,ಹಾಲು,hālu,milk
+485,ಕ್ಷೇಮ,kṣēma,safe
+486,ದಪ್ಪ ಮೀಸೆ,dappa meese,broad moustaches
+487,ಹುಚ್ಚ,huccha,mad man
+488,ಸಿಹಿ ಕಬ್ಬು,sihi kabbu,sweet sugarcane
+489,ಕತ್ತಿವರಸೆ,kattivarase,martial art with stick
+490,ಕೆಂಪು ಸಮುದ್ರ,kempu samudra,red sea
+491,ಆಲದ ಮರ,ālada mara,banyan tree
+492,ಚೇಳು,chēḷu,centeped
+493,ಜಡೆಗಳಿರುವ ಎಮ್ಮೆ,jaḍegaḷiruva emme,yak
+494,ಕ್ಷಣ,kṣaṇa,second
+495,ನಿಮಿಷ,nimiṣa,minute
+496,ಗಂಟೆ,gaṇṭe,hour
+497,ಅಪರಾವತ,aparāvata,early morning
+498,ಬೆಳಿಗ್ಗೆ,beḷiggge,morning
+499,ಮಧ್ಯಾಹ್ನ,madhyāhna,midday
+500,ಸಾಯಂಕಾಲ,sāyaṁkāla,evening
+501,ರಾತ್ರಿ,rātri,night
+502,ಮಧ್ಯರಾತ್ರಿ,madhyarātri,midnight
+503,ಹಗಲು,hagalu,day time
+504,ದಿನ,dina,day
+505,ವಾರ,vāra,week
+506,ಪಕ್ಷ,pakṣa,fortnight
+507,ತಿಂಗಳು,tiṁgaḷu,month
+508,ಅಯನ,ayana,six month-period
+509,ವರ್ಷ,varṣa,year
+510,ಪುಷ್ಕರ,puṣkara,12 year-period
+511,ಕೃತಯುಗ,kṛtayuga,Krita Yuga
+512,ತ್ರೇತಾಯುಗ,trētāyuga,Treta Yuga
+513,ದ್ವಾಪರಯುಗ,dvāparayuga,Dwapara Yuga
+514,ಕಲಿಯುಗ,kaliyuga,Kali Yuga
+515,ವಸಂತ ಋತು,vasanta ṛtu,spring
+516,ಗ್ರೀಷ್ಮ ಋತು,grīṣma ṛtu,summer
+517,ವರ್ಷ ಋತು,varṣa ṛtu,rainy season
+518,ಶರತ್ಕಾಲ,śaratkāla,begining of winter
+519,ಹೇಮಂತ ಋತು,hēmanta ṛtu,winter
+520,ಶಿಶಿರ ಋತು,śiśira ṛtu,autumn
+521,ಪ್ರಭವ,prabhava,Year name
+522,ವಿಭವ,vibhava,Year name
+523,ಶುಕ್ಲ,śukla,Year name
+524,ಪ್ರಮೋದೂತ,pramōdūta,Year name
+525,ಪ್ರಜೋತ್ಪತ್ತಿ,prajōtpatti,Year name
+526,ಆಂಗೀರಸ,āṅgīrasa,Year name
+527,ಶ್ರೀಮುಖ,śrīmukha,Year name
+528,ಭಾವ,bhāva,Year name
+529,ಯುವ,yuva,Year name
+530,ಧಾತು,dhātu,Year name
+531,ಈಶ್ವರ,īśvara,Year name
+532,ಬಹುಧಾನ್ಯ,bahudhānya,Year name
+533,ಪ್ರಮಾದಿ,pramādi,Year name
+534,ವಿಕ್ರಮ,vikrama,Year name
+535,ವೃಷ,vṛṣa,Year name
+536,ಚಿತ್ರಭಾನು,citrabhānu,Year name
+537,ಸ್ವಭಾನು,svabhānu,Year name
+538,ತಾರಣ,tāraṇa,Year name
+539,ಪಾರ್ಥಿವ,pārthiva,Year name
+540,ವ್ಯಯ,vyaya,Year name
+541,ಸರ್ವಜಿತ್ತು,sarvajittu,Year name
+542,ಸರ್ವಧಾರಿ,sarvadhāri,Year name
+543,ವಿರೋಧಿ,virōdhi,Year name
+544,ವಿಕೃತಿ,vikṛti,Year name
+545,ಖರ,khara,Year name
+546,ನಂದನ,nandana,Year name
+547,ವಿಜಯ,vijaya,Year name
+548,ಜಯ,jaya,Year name
+549,ಮನ್ಮಥ,manmatha,Year name
+550,ದುರ್ಮುಖಿ,durmukhi,Year name
+551,ಹೇವಳಂಬಿ,hēvaḷambi,Year name
+552,ವಿಳಂಬಿ,viḷambi,Year name
+553,ವಿಕಾರಿ,vikāri,Year name
+554,ಶಾರ್ವರಿ,śārvari,Year name
+555,ಪ್ಲವ,plava,Year name
+556,ಶುಭಕೃತು,śubhakṛtu,Year name
+557,ಶೋಭಕೃತು,śōbhakṛtu,Year name
+558,ಕ್ರೋಧಿ,krōdhi,Year name
+559,ವಿಶ್ವಾವಸು,viśvāvasu,Year name
+560,ಪರಾಭವ,parābhava,Year name
+561,ಪ್ಲವಂಗ,plavaṅga,Year name
+562,ಕೀಲಕ,kīlaka,Year name
+563,ಸೌಮ್ಯ,saumya,Year name
+564,ಸಾಧಾರಣ,sādhāraṇa,Year name
+565,ವಿರೋಧಕೃತು,virōdhakṛtu,Year name
+566,ಪರೀಧಾವಿ,parīdhāvi,Year name
+567,ಪ್ರಮಾದಿಚ,pramādica,Year name
+568,ಆನಂದ,ānanda,Year name
+569,ರಾಕ್ಷಸ,rākṣasa,Year name
+570,ನಲ,nala,Year name
+571,ಪಿಂಗಳ,piṅgaḷa,Year name
+572,ಕಾಳಯುಕ್ತಿ,kāḷayukti,Year name
+573,ಸಿದ್ಧಾರ್ಥಿ,siddhārthi,Year name
+574,ರೌದ್ರಿ,raudri,Year name
+575,ದುರ್ಮತಿ,durmati,Year name
+576,ದುಂದುಭಿ,dundubhi,Year name
+577,ರುಧಿರೋದ್ಗಾರಿ,rudhirōdgāri,Year name
+578,ರಕ್ತಾಕ್ಷಿ,raktākṣi,Year name
+579,ಕ್ರೋಧನ,krōdhana,Year name
+580,ಅಕ್ಷಯ,akṣaya,Year name
+581,ಶುದ್ಧ ಪಾಡ್ಯಮಿ,śuddha pāḍyami,1st day after full moonday
+582,ಶುದ್ಧ ವಿದಿಯಾ,śuddha vidiyā,2nd day
+583,ಶುದ್ಧ ತದಿಯಾ,śuddha tadiyā,3rd day
+584,ಶುದ್ಧ ಚೌತಿ,śuddha cauṭi,4th day
+585,ಶುದ್ಧ ಪಂಚಮಿ,śuddha paṁcami,5th day
+586,ಶುದ್ಧ ಷಷ್ಠಿ,śuddha ṣaṣṭhi,6th day
+587,ಶುದ್ಧ ಸಪ್ತಮಿ,śuddha saptami,7th day
+588,ಶುದ್ಧ ಅಷ್ಟಮಿ,śuddha aṣṭami,8th day
+589,ಶುದ್ಧ ನವಮಿ,śuddha navami,9th day
+590,ಶುದ್ಧ ದಶಮಿ,śuddha daśami,10th day
+591,ಶುದ್ಧ ಏಕಾದಶಿ,śuddha ēkādaśi,11th day
+592,ಶುದ್ಧ ದ್ವಾದಶಿ,śuddha dvādaśi,12th day
+593,ಶುದ್ಧ ತ್ರಯೋದಶಿ,śuddha trayōdaśi,13th day
+594,ಶುದ್ಧ ಚತುರ್ದಶಿ,śuddha caturdaśi,14th day
+595,ಪೌರ್ಣಮಿ,paurṇami,fullmoon day
+596,ಬಹುಳ ಪಾಡ್ಯಮಿ,bahuḷa pāḍyami,1st day after newmoon day
+597,ಬಹುಳ ವಿದಿಯಾ,bahuḷa vidiyā,2nd day
+598,ಬಹುಳ ತದಿಯಾ,bahuḷa tadiyā,3rd day
+599,ಬಹುಳ ಚೌತಿ,bahuḷa cauṭi,4th day
+600,ಬಹುಳ ಪಂಚಮಿ,bahuḷa paṁcami,5th day
+601,ಬಹುಳ ಷಷ್ಠಿ,bahuḷa ṣaṣṭhi,6th day
+602,ಬಹುಳ ಸಪ್ತಮಿ,bahuḷa saptami,7th day
+603,ಬಹುಳ ಅಷ್ಟಮಿ,bahuḷa aṣṭami,8th day
+604,ಬಹುಳ ನವಮಿ,bahuḷa navami,9th day
+605,ಬಹುಳ ದಶಮಿ,bahuḷa daśami,10th day
+606,ಬಹುಳ ಏಕಾದಶಿ,bahuḷa ēkādaśi,11th day
+607,ಬಹುಳ ದ್ವಾದಶಿ,bahuḷa dvādaśi,12th day
+608,ಬಹುಳ ತ್ರಯೋದಶಿ,bahuḷa trayōdaśi,13th day
+609,ಬಹುಳ ಚತುರ್ದಶಿ,bahuḷa caturdaśi,14th day
+610,ಅಮಾವಾಸ್ಯೆ,amāvāsye,newmoon day
+611,ಜನವರಿ,janavari,january
+612,ಫೆಬ್ರವರಿ,phebravari,february
+613,ಮಾರ್ಚ್,mārch,march
+614,ಏಪ್ರಿಲ್,ēpril,april
+615,ಮೇ,mē,may
+616,ಜೂನ್,jūn,june
+617,ಜುಲೈ,julay,july
+618,ಆಗಸ್ಟ್,āgasṭ,august
+619,ಸೆಪ್ಟೆಂಬರ್,sepṭembar,september
+620,ಅಕ್ಟೋಬರ್,akṭōbar,october
+621,ನವೆಂಬರ್,navembar,november
+622,ಡಿಸೆಂಬರ್,ḍisembar,december
+623,ಭಾನುವಾರ,bhānuvāra,Sunday
+624,ಸೋಮವಾರ,sōmavāra,Monday
+625,ಮಂಗಳವಾರ,maṅgaḷavāra,Tuesday
+626,ಬುಧವಾರ,budhavāra,Wednesday
+627,ಗುರುವಾರ,guruvāra,Thursday
+628,ಶುಕ್ರವಾರ,śukravāra,Friday
+629,ಶನಿವಾರ,śanivāra,Saturday
+630,ಮೇಷ,mēṣa,Aries
+631,ವೃಷಭ,vṛṣabha,Taurus
+632,ಮಿಥುನ,mithuna,Gemini
+633,ಕರ್ಕಾಟಕ,karkāṭaka,Cancer
+634,ಸಿಂಹ,siṁha,Leo
+635,ಕನ್ಯಾ,kanyā,Virgo
+636,ತುಲಾ,tulā,Libra
+637,ವೃಶ್ಚಿಕ,vṛścika,Scorpio
+638,ಧನುಸ್ಸು,dhanussu,Sagittarius
+639,ಮಕರ,makara,Capricorn
+640,ಕುಂಭ,kumbha,Aquarius
+641,ಮೀನ,meena,Pisces
+642,ಪೂರ್ವ,poorva,east
+643,ಪಶ್ಚಿಮ,paścima,west
+644,ಉತ್ತರ,uttara,north
+645,ದಕ್ಷಿಣ,dakṣiṇa,south
+646,ಆಗ್ನೇಯ,āgnēya,southeast
+647,ನೈರುತ್ಯ,nairutya,southwest
+648,ವಾಯವ್ಯ,vāyavya,northwest
+649,ಈಶಾನ್ಯ,īśānya,northeast
+650,ಕಪ್ಪು,kappu,black
+651,ಬಿಳಿ,biḷi,white
+652,ಕೆಂಪು,kempu,red
+653,ಹಳದಿ,haḷadi,yellow
+654,ನೀಲಿ,neeli,blue
+655,ಹಸಿರು,hasiru,green
+656,ಗಿಳಿಹಸಿರು,giḷihasiru,parrot green
+657,ಬೂದಿ,būdi,ash
+658,ಗುಲಾಬಿ,gulābi,pink
+659,ಕೇಸರಿ,kēsari,saffron
+660,ನೇರಳೆ,nēraḷe,violet
+661,ಕಿತ್ತಳೆ,kittaḷe,orange
+662,ಅಶ್ವಿನಿ,aśvini,Lunar Star
+663,ಭರಣಿ,bharaṇi,Lunar Star
+664,ಕೃತ್ತಿಕಾ,kṛttikā,Lunar Star
+665,ರೋಹಿಣಿ,rōhiṇi,Lunar Star
+666,ಮೃಗಶಿರಾ,mṛgaśirā,Lunar Star
+667,ಆರುದ್ರ,ārudra,Lunar Star
+668,ಪುನರ್ವಸು,punarvasu,Lunar Star
+669,ಪುಷ್ಯಮಿ,puṣyami,Lunar Star
+670,ಆಶ್ಲೇಷ,āślēṣa,Lunar Star
+671,ಮಘಾ,maghā,Lunar Star
+672,ಪುಬ್ಬ,pubba,Lunar Star
+673,ಉತ್ತರಾ,uttarā,Lunar Star
+674,ಹಸ್ತ,hasta,Lunar Star
+675,ಚಿತ್ತ,citta,Lunar Star
+676,ಸ್ವಾತಿ,svāti,Lunar Star
+677,ವಿಶಾಖ,viśākha,Lunar Star
+678,ಅನುರಾಧ,anurādha,Lunar Star
+679,ಜ್ಯೇಷ್ಠ,jyēṣṭha,Lunar Star
+680,ಮೂಲ,mūla,Lunar Star
+681,ಪೂರ್ವಾಷಾಢ,pūrvāṣāḍha,Lunar Star
+682,ಉತ್ತರಾಷಾಢ,uttarāṣāḍha,Lunar Star
+683,ಶ್ರವಣಂ,śravaṇaṁ,Lunar Star
+684,ಧನಿಷ್ಠ,dhaniṣṭha,Lunar Star
+685,ಶತಭಿಷ,śatabhiṣa,Lunar Star
+686,ಪೂರ್ವಾಭಾಧ್ರ,pūrvābhādra,Lunar Star
+687,ಉತ್ತರಾಭಾಧ್ರ,uttarābhādra,Lunar Star
+688,ರೇವತಿ,rēvati,Lunar Star
+689,ಕಶ್ಯಪ,kaśyapa,Sage
+690,ಅತ್ರಿ,atri,Sage
+691,ಭರದ್ವಾಜ,bharadvāja,Sage
+692,ವಿಶ್ವಾಮಿತ್ರ,viśvāmitra,Sage
+693,ಗೌತಮ,gautama,Sage
+694,ಜಮದಗ್ನಿ,jamadagni,Sage
+695,ವಸಿಷ್ಠ,vasiṣṭha,Sage
+696,ಸೂರ್ಯ,sūrya,Sun
+697,ಚಂದ್ರ,chandra,Moon
+698,ಅಂಗಾರಕ,aṅgāraka,Mars
+699,ಬುಧ,budha,Mercury
+700,ಬೃಹಸ್ಪತಿ,bṛhaspati,Jupiter
+701,ಶುಕ್ರ,śukra,Venus
+702,ಶನೈಶ್ಚರ,śanaiścara,Saturn
+703,ರಾಹು,rāhu,Dragon's head
+704,ಕೇತು,kētu,Dragon's tail
+705,ವಜ್ರ,vajra,diamond
+706,ವೈಡೂರ್ಯ,vaiḍūrya,cat's eye
+707,ಗೋಮೇಧಿಕ,gōmēdhika,zirconium
+708,ಪುಷ್ಯರಾಗ,puṣyarāga,topaz
+709,ಮರಕತ,marakata,emerald
+710,ಮಾಣಿಕ್ಯ,māṇikya,ruby
+711,ನೀಲ,neela,sapphire
+712,ಹವಳ,havaḷa,coral
+713,ಮುತ್ತು,muttu,pearl
+714,ಭತ್ತ,bhatta,paddy
+715,ಹುರುಳಿ,huruḷi,horsegram
+716,ಹೆಸರುಕಾಳು,hesarukāḷu,greengram
+717,ಉದ್ದಿನಕಾಳು,uddinakāḷu,blackgram
+718,ಗೋಧಿ,gōdhi,wheat
+719,ಅನುಮೂಲ,anumoola,rajmagram
+720,ತೊಗರಿ,togari,redgram
+721,ಕಡಲೆ,kaḍale,bengalgram
+722,ಎಳ್ಳು,eḷḷu,gingili
+723,ಆನಂದ,ānanda,pleasure
+724,ದುಃಖ,duḥkha,sorrow
+725,ಅಸೂಯೆ,asūye,jealousy
+726,ದ್ವೇಷ,dvēṣa,hatred
+727,ಅನುಮಾನ,anumāna,suspicion
+728,ಕೋಪ,kōpa,anger
+729,ಆಸೆ,āse,ambition
+730,ದಯೆ,daye,kindness
+731,ಮೌನ,mauna,silence
+732,ಕೊಳಕು,koḷaku,vexation
+733,ಅಸಹ್ಯ,asahya,unbearable
+734,ಅಹಂಕಾರ,ahaṅkāra,ego
+735,ಹೋಲಿಕೆ,hōlike,comparison
+736,ಸ್ಫೂರ್ತಿ,sphūrti,inspiration
+737,ಉತ್ಸಾಹ,utsāha,spirit
+738,ಶರೀರ,śareera,body
+739,ತಲೆ,tale,head
+740,ಮುಖ,mukha,face
+741,ಕಣ್ಣು,kaṇṇu,eye
+742,ಮೂಗು,moogu,nose
+743,ಬಾಯಿ,bāyi,mouth
+744,ಕಿವಿ,kivi,ear
+745,ಕುತ್ತಿಗೆ,kuttige,neck
+746,ಗಂಟಲು,gaṇṭalu,throat
+747,ಎದೆ,ede,chest
+748,ನಾಲಿಗೆ,nālige,tongue
+749,ನಡು,naḍu,waist
+750,ಹೊಕ್ಕುಳ,hokkuḷa,navel point
+751,ಹೃದಯ,hṛdaya,heart
+752,ಕೈ,kai,hand
+753,ಹೊಟ್ಟೆ,hoṭṭe,stomach
+754,ತೊಡೆ,toḍe,thigh
+755,ಬೆನ್ನು,bennu,back
+756,ಕಾಲು,kālu,leg
+757,ಪಾದ,pāda,foot
+758,ಬೆರಳು,beraḷu,finger
+759,ಉಗುರು,uguru,nail
+760,ಅಮ್ಮ,amma,mother
+761,ಅಪ್ಪ,appa,father
+762,ಅಜ್ಜಿ,ajji,grand mother (maternal)
+763,ಅಜ್ಜ,ajja,grandfather
+764,ಮಾವ,māva,maternal uncle
+765,ಅತ್ತೆ,atte,aunt (father's sister)
+766,ಚಿಕ್ಕಪ್ಪ,chikkappa,uncle (father's younger brother)
+767,ಚಿಕ್ಕಮ್ಮ,chikkamma,aunt (mother's younger sister)
+768,ದೊಡ್ಡಪ್ಪ,doḍḍappa,uncle (father's elder brother)
+769,ದೊಡ್ಡಮ್ಮ,doḍḍamma,aunt (mother's elder sister)
+770,ಅಕ್ಕ,akka,elder sister
+771,ಭಾವ,bhāva,brother-in-law
+772,ಅಣ್ಣ,aṇṇa,elder brother
+773,ಅತ್ತಿಗೆ,attige,sister-in-law (elder brother's wife)
+774,ಸೊಸೆಯ,soseya,co-sister
+775,ಮಗ,maga,son
+776,ಸೊಸೆ,sose,daughter-in-law
+777,ಮೈದುನ,maiduna,brother-in-law (husband's younger brother)
+778,ಮೈದುನಿ,maiduni,sister-in-law (husband's younger sister)
+779,ಮೊಮ್ಮಗ,mommaga,grandson
+780,ಮೊಮ್ಮಗಳು,mommagḷu,grand daughter
+781,ಸೋದರ ಸೊಸೆ,sodara sose,niece
+782,ಷಡ್ಡಕ,ṣaḍḍaka,co-brother
+783,ಸೋದರಳಿಯ,sodaraḷiya,nephew
+784,ವಿವಿಯಪುರಳು,viviyapuraḷu,son's/daughter's mother-in-law
+785,ವಿವಿಯಂಕುಡ,viviyankuḍa,son's/daughter's father-in-law
+786,ರೈತ,raita,farmer
+787,ಕುಂಬಾರ,kumbāra,potter
+788,ಕಮ್ಮಾರ,kammāra,black smith
+789,ಕೂಲಿ ಕಾರ್ಮಿಕ,kūli kārmika,hired worker
+790,ಹಾಲಿನವ,hālinaava,milkman
+791,ನೇಕಾರ,nēkāra,weaver
+792,ಎಣ್ಣೆ ಒತ್ತುವವ,eṇṇe ottuvav,oilpresser
+793,ಕ್ಷೌರಿಕ,kṣaurika,barber
+794,ಲೆಕ್ಕಿಗ,lekkiga,accountant
+795,ಬೇಟೆಗಾರ,bēṭegāra,hunter
+796,ಬಡಗಿ,baḍagi,carpenter
+797,ಅಕ್ಕಸಾಲಿಗ,akkasāliga,goldsmith
+798,ವೈದ್ಯ,vaidya,doctor
+799,ಪೂಜಾರಿ,pūjāri,priest
+800,ಸೇವಕ,sēvaka,servant
+801,ಕಾರ್ಮಿಕ,kārmika,labourer
+802,ಧೋಬಿ,dhōbi,washerman
+803,ಚಿತ್ರಕಲಾವಿದ,citrakalāvīda,painter
+804,ಬಾಳೆಕಾಯಿ,bāḷekāyi,plantain (raw banana)
+805,ಆಲೂಗಡ್ಡೆ,āloogaḍḍe,potato
+806,ಸೊಪ್ಪು,soppu,greens
+807,ಈರುಳ್ಳಿ,īruḷḷi,onion
+808,ಹಾಗಲಕಾಯಿ,hāgalakāyi,bitter gourd
+809,ಕುಂಬಳಕಾಯಿ,kumbaḷakāyi,pumpkin
+810,ಪೊట్లಕಾಯಿ,poṭlakāyi,snake gourd
+811,ಗೋರಿಕಾಯಿ,gōrikāyi,local beans
+812,ಅವರೇಕಾಯಿ,avarēkāyi,beans
+813,ಸೌತೆಕಾಯಿ,sautekāyi,cucumber
+814,ಬೆಂಡೆಕಾಯಿ,beṇḍekāyi,lady's finger (okra)
+815,ತೊಂಡೆಕಾಯಿ,toṇḍekāyi,gherkins (tindora)
+816,ಬದನೆಕಾಯಿ,badanekāyi,brinjal (eggplant)
+817,ಟೊಮ್ಯಾಟೊ,ṭomyāṭo,tomato
+818,ಚಾಮಗಡ್ಡೆ,chāmagaḍḍe,colocacia (taro root)
+819,ಮುಳ್ಳು ಸೌತೆ,muḷḷu saute,drumstick
+820,ಮೂಲಂಗಿ,moolaṅgi,radish
+821,ಕಂದಗಡ್ಡೆ,kandagaḍḍe,elephant foot (yam)
+822,ಹೀರೆಕಾಯಿ,heerekāyi,ridge gourd
+823,ಸೋರೆಕಾಯಿ,sorekāyi,bottle gourd
+824,ಬಾಳೆಹಣ್ಣು,bāḷehaṇṇu,banana
+825,ದ್ರಾಕ್ಷಿ,drākṣi,grapes
+826,ಮಾವು,māvu,mango
+827,ಪೇರಲ,pērala,guava
+828,ನೇರಳೆಹಣ್ಣು,nēraḷehaṇṇu,cherry (jamun)
+829,ಸಪೋಟ,sapoṭa,sapota
+830,ಕಿತ್ತಳೆ,kittaḷe,orange
+831,ಪಪ್ಪಾಯಿ,pappāyi,papaya
+832,ಕಲ್ಲಂಗಡಿ,kallaṅgaḍi,water melon
+833,ದಾಳಿಂಬೆ,dāḷiṁbe,pomegranate
+834,ಬೆಲ,bela,wood apple
+835,ಖರ್ಜೂರ,kharjūra,date
+836,ಹಲಸಿನಹಣ್ಣು,halasinahaṇṇu,jackfruit
+837,ರೇಗಿಹಣ್ಣು,rēgihaṇṇu,pear (jujube fruit)
+838,ಅನಾನಸ್,anānas,pineapple
+839,ಸೀತಾಫಲ,seetāphala,custard apple
+840,ಸೇಬು,sēbu,apple
+841,ಅರಳಿ ಮರ,araḷi mara,fig tree (peepal)
+842,ಬಾದಾಮಿ ಮರ,bādāmi mara,almond tree
+843,ಹೊಂಗೆ ಮರ,hoṁge mara,Indian bunch tree (pongamia)
+844,ಆಲದ ಮರ,ālada mara,banyan tree
+845,ಬೇವು,bēvu,neem tree
+846,ಹುಣಸೆ ಮರ,huṇase mara,tamarind tree
+847,ಅಕೇಶಿಯಾ ಮರ,akēṣiyā mara,babool tree
+848,ಬಾಳೆ ಮರ,bāḷe mara,banana tree
+849,ಪೇರಲ ಮರ,pērala mara,guava tree
+850,ಮಾವಿನ ಮರ,māvina mara,mango tree
+851,ಅಶೋಕ ಮರ,aśōka mara,asoka tree
+852,ಮಲ್ಲಿಗೆ,mallige,jasmine
+853,ಕಮಲ,kamala,lotus
+854,ವಾಟರ್ ಲಿಲ್ಲಿ,vāṭar lilli,water lily
+855,ಸೇವಂತಿ,sēvanti,chrysanthemum
+856,ಗುಲಾಬಿ,gulābi,rose
+857,ಚೆಂಡು ಹೂವು,cheṇḍu hoovu,marigold
+858,ಮೊಗಲಿ ಹೂ,mogali hoo,pandarus
+859,ದವನ,davana,motherwort (artemisia)
+860,ಮರುವು,maruvu,cowhage (marjoram)
+861,ಪಾರಿವಾಳ,pārivāḷa,pigeon
+862,ಗೂಬೆ,goobe,owl
+863,ಬಕ,baka,crane
+864,ಕಾಗೆ,kāge,crow
+865,ಕೋಗಿಲೆ,kōgile,cuckoo bird
+866,ಗುಬ್ಬಚ್ಚಿ,gubbaccchi,sparrow
+867,ಹದ್ದು,haddu,eagle
+868,ಬಾವಲಿ,bāvali,bat
+869,ನವಿಲು,navilu,peacock
+870,ಬಾತುಕೋಳಿ,bātukōḷi,duck
+871,ಹಂಸ,haṁsa,swan
+872,ನಾಯಿ,nāyi,dog
+873,ನರಿ,nari,fox
+874,ಬೆಕ್ಕು,bekku,cat
+875,ಹಸು,hasu,cow
+876,ಎಮ್ಮೆ,emme,buffalo
+877,ಮೇಕೆ,mēke,goat
+878,ಕುರಿ,kuri,sheep
+879,ಕತ್ತೆ,katte,donkey
+880,ಆನೆ,āne,elephant
+881,ಹುಲಿ,huli,tiger
+882,ಸಿಂಹ,siṁha,lion
+883,ಕೋತಿ,kōti,monkey
+884,ಜಿಂಕೆ,jiṁke,deer
+885,ಒಲೆ,ole,hearth
+886,ಸೌಟು,sauṭu,ladle
+887,ಜರಡಿ,jaraḍi,sieve
+888,ಕೇಶಿ,kēśi,tongs
+889,ತುರಿ,turi,grate
+890,ಪಾತ್ರೆ,pātre,bowl
+891,ಪಾತ್ರೆ,pātre,vessel
+892,ಬೆಂಕಿಪೆಟ್ಟಿಗೆ,beṁkipeṭṭige,match box
+893,ಒನಕೆ,onake,mortar
+894,ಕವಲುಚಮಚ,kavalucamaca,fork
+895,ಜಾಡಿ,jāḍi,jar
+896,ಚಮಚ,camaca,spoon
+897,ಚಿಮಣಿ,cimaṇi,chimney
+898,ಬ್ರೂಮ್,broom,broom
+899,ತಟ್ಟೆ,taṭṭe,plate
+900,ನಲ್ಲಿ,nalli,tap
+901,ಒನಕೆ,onake,pounder
+902,ಕೂಜಾ,kūjā,flagon
+903,ಪುರಿ ರೋಲಿಂಗ್ ಪಿನ್,puri rōliṁg pin,rolling pin
+904,ಮಂತು,mantu,churner
+905,ಮೇಜು,mēju,table
+906,ಕಸದ ಬುಟ್ಟಿ,kasada buṭṭi,dustbin
+907,ಚಿನ್ನ,chinna,gold
+908,ಬೆಳ್ಳಿ,beḷḷi,silver
+909,ಹಿತ್ತಾಳೆ,hittāḷe,brass
+910,ತಾಮ್ರ,tāmra,copper
+911,ಉಕ್ಕು,ukku,steel
+912,ಕಬ್ಬಿಣ,kabbaṇa,iron
+913,ತವರ,tavara,tin
+914,ಸೀಸ,seesa,lead
+915,ಅರಿಶಿನ,ariśina,turmeric
+916,ಮೆಣಸಿನಕಾಯಿ,meṇasinakāyi,chilli
+917,ಕೊತ್ತಂಬರಿ,kottambari,coriander
+918,ಸಾಸಿವೆ,sāsive,mustard
+919,ಜೀರಿಗೆ,jeerige,cummin seeds
+920,ಖಸಖಸ,khasakhasa,poppy plant seeds
+921,ಇಂಗು,ingu,assafoetida
+922,ಮೆಂತ್ಯ,mentya,fenugreek
+923,ಲವಂಗ,lavanga,cloves
+924,ಏಲಕ್ಕಿ,ēḷakki,cardomum
+925,ಮೆಣಸು,meṇasu,pepper
+926,ಹುಣಸೆಹಣ್ಣು,huṇasehaṇṇu,tamarind
+927,ಉಪ್ಪು,uppu,salt
+928,ಖಾರದ ಪುಡಿ,khārada puḍi,mirchi powder
+929,ಬೆಲ್ಲ,bella,jaggery
+930,ಸಕ್ಕರೆ,sakkare,sugar
+931,ತೊಗರಿ ಬೇಳೆ,togari bēḷe,redgram
+932,ಉದ್ದಿನ ಬೇಳೆ,uddina bēḷe,blackgram
+933,ಕಡಲೆ ಬೇಳೆ,kaḍale bēḷe,bengalgram
+934,ಹೆಸರು ಬೇಳೆ,hesaru bēḷe,greengram
+935,ಉಂಗುರ,uṅgura,ring
+936,ಕಂಕಣ,kaṅkaṇa,bracelet
+937,ಸರಪಳಿ,sarapaḷi,chain
+938,ಬ್ರೋಚ್,brōch,brooch
+939,ಮೂಗುತಿ,mooguti,nose-ring
+940,ಕಿವಿ ಓಲೆ,kivi ōle,tops
+941,ಕೂದಲು ಕ್ಲಿಪ್,koodalu klip,hair clip
+942,ಸೈಡ್ ಪಿನ್,saiḍ pin,side pin
+943,ಬಳೆಗಳು,baḷegaḷu,bangle
+944,ಆಭರಣಗಳು,ābharaṇagaḷu,jewelry
+945,ತಲೆ ಲಾಕೆಟ್,tale lākeṭ,headlocket
+946,ಪದಕ,padaka,medal
+947,ಕಿವಿಯೋಲೆಗಳು,kiviyōlegaḷu,earstuds
+948,ಕಿರೀಟ,kirīṭa,crown
+949,ವಂಕಿ,vaṁki,armlet
+950,ಹಾರ,hāra,necklace
+951,ಪಾದದ ಕಡಗ,pādada kaḍaga,anklets
+952,ಮೂಗುತಿ,mooguti,nosestud
+953,ತೂಗಾಡುವಿಕೆಗಳು,toogāḍuvikegaḷu,hangings
+954,ಒಡ್ಯಾಣ,oḍyāṇa,waist ornament
+955,ಅಗಲ,agala,width
+956,ಉದ್ದ,udda,length
+957,ಎತ್ತರ,ettara,height
+958,ಕುಳ್ಳ,kuḷḷa,short
+959,ದೊಡ್ಡ,doḍḍa,big
+960,ಚಿಕ್ಕ,chikka,small
+961,ಭಾರ,bhāra,heavy
+962,ಗುಂಡ,guṇḍa,round
+963,ಬಾಗಿಲುಗಳು,bāgilugaḷu,doors
+964,ಪ್ರವೇಶ ದ್ವಾರ,pravēśa dvāra,entrance
+965,ಕಿಟಕಿಗಳು,kiṭakigaḷu,windows
+966,ಕೋಣೆ,kōṇe,room
+967,ವರಾಂಡ,varāṇḍa,verandah
+968,ಅಲಮಾರು,alamāru,almirah
+969,ಹೊಸ್ತಿಲು,hostilu,threshold
+970,ಛಾವಣಿ,chāvaṇi,roof
+971,ಗವಾಕ್ಷ,gavākṣa,ventilator
+972,ಮೆಟ್ಟಿಲುಗಳು,meṭṭilugaḷu,steps
