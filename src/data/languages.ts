@@ -7,13 +7,13 @@ export interface Language {
 
 export const supportedLanguages: Language[] = [
   { code: 'te', name: 'Telugu', nativeName: 'తెలుగు' },
-  { code: 'hi', name: 'Hindi', nativeName: 'हिन्दी' },
-  { code: 'ta', name: 'Tamil', nativeName: 'தமிழ்' },
   { code: 'kn', name: 'Kannada', nativeName: 'ಕನ್ನಡ' },
-  { code: 'ml', name: 'Malayalam', nativeName: 'മലയാളം' },
-  { code: 'bn', name: 'Bengali', nativeName: 'বাংলা' },
+  { code: 'hi', name: 'Hindi', nativeName: 'हिन्दी' },
+  { code: 'mr', name: 'Marathi', nativeName: 'मराठी' },
   { code: 'gu', name: 'Gujarati', nativeName: 'ગુજરાતી' },
+  { code: 'bn', name: 'Bengali', nativeName: 'বাংলা' },
   { code: 'pa', name: 'Punjabi', nativeName: 'ਪੰਜਾਬੀ' },
+  { code: 'ml', name: 'Malayalam', nativeName: 'മലയാളം' },
 ];
 
 export const getLanguageByCode = (code: string): Language | undefined => {

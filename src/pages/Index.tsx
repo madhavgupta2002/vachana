@@ -7,6 +7,7 @@ import LanguageSelector from '@/components/LanguageSelector';
 import { getLanguageData } from '@/data/languageLoader';
 import { getLanguageByCode, supportedLanguages } from '@/data/languages';
 import { Word, LanguageData } from '@/data/types';
+import { useIsMobile } from '@/hooks/use-mobile';
 
 const Index = () => {
   const [currentLanguage, setCurrentLanguage] = useState('te');
@@ -15,6 +16,7 @@ const Index = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isSequentialMode, setIsSequentialMode] = useState(true);
   const [isDarkMode, setIsDarkMode] = useState(true);
+  const isMobile = useIsMobile();
 
   useEffect(() => {
     document.documentElement.classList.add('dark');
@@ -109,14 +111,14 @@ const Index = () => {
       ? 'bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900'
       : 'bg-gradient-to-br from-indigo-100 via-purple-50 to-pink-100'
       }`}>
-      <div className="container mx-auto px-4 py-8">
-        <div className="flex justify-between items-center mb-8">
-          <div className="text-center flex-1">
-            <h1 className={`indic-title text-5xl md:text-6xl font-bold mb-4 ${isDarkMode ? 'text-white' : 'text-gray-800'}`}>
+      <div className="container mx-auto px-2 sm:px-4 py-4 sm:py-8 max-w-full overflow-hidden">
+        <div className={`flex ${isMobile ? 'flex-col' : 'justify-between'} items-center mb-4 sm:mb-8`}>
+          <div className={`text-center ${isMobile ? 'w-full mb-4' : 'flex-1'}`}>
+            <h1 className={`indic-title text-4xl sm:text-5xl md:text-6xl font-bold mb-2 sm:mb-4 ${isDarkMode ? 'text-white' : 'text-gray-800'}`}>
               Vachana
             </h1>
           </div>
-          <div className="flex items-center">
+          <div className={`flex items-center ${isMobile ? 'w-full justify-between' : ''}`}>
             <div className="mr-4">
               <LanguageSelector
                 currentLanguage={currentLanguage}
@@ -138,11 +140,12 @@ const Index = () => {
           </div>
         </div>
 
-        <div className="space-y-8">
+        <div className="space-y-4 sm:space-y-8">
           <WordDisplay
             word={currentWord}
             characterMap={languageData.characterMap}
             isDarkMode={isDarkMode}
+            isMobile={isMobile}
           />
 
           <ControlPanel
@@ -154,6 +157,7 @@ const Index = () => {
             onSequentialMode={toggleMode}
             isSequentialMode={isSequentialMode}
             isDarkMode={isDarkMode}
+            isMobile={isMobile}
           />
         </div>
       </div>

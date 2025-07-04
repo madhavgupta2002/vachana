@@ -1,973 +1,973 @@
-s.no,kannada,romanized,translation
-1,ಅಮ್ಮ,amma,mother
-2,ಹಸು,hasu,cow
-3,ಮನೆ,mane,house
-4,ನೊಣ,noṇa,fly
-5,ಅಳಿಲು,aḷilu,squirrel
-6,ತೂಗುಯ್ಯಾಲೆ,tūguyyāle,cradle
-7,ಋಷಿ,ṛṣi,sage
-8,ಇಲಿ,ili,rat
-9,ಆನೆ,āne,elephant
-10,ಐದು,aidu,five
-11,ಒಂಟೆ,oṇṭe,camel
-12,ಹಡಗು,haḍagu,ship
-13,ಔಷಧ,auṣadha,medicine
-14,ಅಂಬರ,ambara,sky
-15,ದುಃಖ,duḥkha,grief
-16,ಕದಿರು,kadiru,spike
-17,ಖಡ್ಗ,khaḍga,sword
-18,ಬುಟ್ಟಿ,buṭṭi,basket
-19,ಘಟ,ghaṭa,vessel
-20,ವಾಙ್ಮಯ,vāṅmaya,literature
-21,ಚಳಿ,caḷi,chill
-22,ಛತ್ರಿ,chatri,umbrella
-23,ಜಡೆ,jaḍe,plait
-24,ಮೀನು,meenu,fish
-25,ಯಜ್ಞ,yajña,ritual
-26,ಟಪಾ,ṭapā,post
-27,ಕಂಠ,kaṇṭha,throat
-28,ಡಬ್ಬ,ḍabba,box
-29,ಡ್ರಮ್,ḍram,drum
-30,ವೀಣೆ,veeṇe,musical instrument
-31,ತಲೆ,tale,head
-32,ರಥ,ratha,chariot
-33,ದಂಡೆ,daṇḍe,garland
-34,ಧನಸ್ಸು,dhanassu,bow
-35,ಬಸವನಹುಳು,basavanahuḷu,snail
-36,ಹಲಗೆ,halage,slate
-37,ಹಣ್ಣು,haṇṇu,fruit
-38,ಬಂಡಿ,baṇḍi,cart
-39,ಭಟ,bhaṭa,soldier
-40,ಜ್ವಾಲೆ,jvāle,flame
-41,ಯಂತ್ರ,yantra,machine
-42,ರತ್ನ,ratna,gem
-43,ಲತೆ,late,creeper
-44,ತಾಳ,tāḷa,lock
-45,ಬಲೆ,bale,net
-46,ಶಂಖ,śaṅkha,conch
-47,ಮೇಕೆ,mēke,goat
-48,ಚೀಲ,cheela,bag
-49,ಹಂಸ,haṁsa,swan
-50,ವೃಕ್ಷ,vṛkṣa,tree
-51,ಗರಗಸ,garagasa,saw
-52,ಅಲೆ,ale,wave
-53,ಹಲಗೆ,halage,shelf
-54,ಅಡವಿ,aḍavi,forest
-55,ಅನಾನಸ್,anānas,pineapple
-56,ಬಾಳೆಹಣ್ಣು,bāḷehaṇṇu,plantain
-57,ಸುಸ್ತು,sustu,tiresome
-58,ಅನುಮತಿ,anumati,permission
-59,ಆಟ,āṭa,game
-60,ಆರು,āru,six
-61,ಎಲೆಗಳು,eḷegaḷu,leaves
-62,ಹಸಿವು,hasivu,hunger
-63,ಆಸೆ,āse,desire
-64,ಆಕಾಶ,ākāśa,sky
-65,ಆಲಯ,āḷaya,temple
-66,ಭೂಮಿ,bhoomi,earth
-67,ಸ್ತ್ರೀ,stree,lady
-68,ಇಟ್ಟಿಗೆ,iṭṭige,brick
-69,ಮರಳು,maraḷu,sand
-70,ಕಬ್ಬಿಣ,kabbaṇa,iron
-71,ಇತ್ತೀಚೆಗೆ,ittīcege,recently
-72,ಈ ಕಡೆ,ee kaḍe,this side
-73,ಈಜು,eeju,swim
-74,ಗರಿಗಳು,garigaḷu,feathers
-75,ಈಟಿ,eeṭi,spear
-76,ಇಂದು,indu,today
-77,ಈಶ್ವರ,eeśvara,God Siva
-78,ತಾಳೆಮರ,tāḷemara,toddy tree
-79,ಸಿಳ್ಳೆ ಹಾಡು,siḷḷe hāḍu,whistling
-80,ಉಳಿ,uḷi,chistle
-81,ಉಕ್ಕು,ukku,steel
-82,ತೊಳೆಯು,toḷeyu,wash
-83,ಗುಡುಗು,guḍugu,thunder
-84,ಹುರುಳಿ,huruḷi,horsegram
-85,ಬೆಳಿಗ್ಗೆ,beḷiggge,morning
-86,ಊರು,ūru,village
-87,ಊಟ,ūṭa,spring
-88,ಊಡಲು,ūḍalu,ariel roots
-89,ಉಸಿರು,usiru,breath
-90,ಊಹೆ,ūhe,guess
-91,ಉಪ್ಪಿನಕಾಯಿ,uppinakaayi,pickle
-92,ಸಮಾಧಾನ,samādhāna,consolation
-93,ಋಷಿ,ṛṣi,sage
-94,ಮಂತ್ರ,mantra,mantra
-95,ವೃಷಭ,vṛṣabha,bull
-96,ರುಜುವಾತು,rujuvātu,proof
-97,ಋತು,ṛtu,season
-98,ಋಣ,ṛṇa,debt
-99,ಬಲೆ,bale,bait
-100,ಹಾರಲು,hāralu,fly
-101,ಮೂಳೆ,mūḷe,bone
-102,ಮರುಭೂಮಿ,marubhūmi,desert
-103,ಕೆಂಪು,kempu,red
-104,ರಫ್ತು,raphthu,export
-105,ಎಕರೆ,ekare,acre of land
-106,ಏಳು,ēḷu,seven
-107,ಹಳ್ಳ,haḷḷa,river
-108,ಆನೆ,āne,elephant
-109,ಆಡಳಿತಗಾರ,āḍaḷitagāra,ruler
-110,ಎತ್ತಿಕೊಳ್ಳುವುದು,ettikoḷḷuvudu,picking up
-111,ಇಳಿಜಾರು,iḷijāru,slant
-112,ಏಲಕ್ಕಿ,ēḷakki,cardamom
-113,ಆದರೆ,ādare,but
-114,ಐಕ್ಯತೆ,aikyate,unity
-115,ಐದು ರೂಪಾಯಿ,aidu rūpāyi,five rupees
-116,ಐಶ್ವರ್ಯ,aiśvarya,wealth
-117,ಐಹಿಕ,aihika,worldliness
-118,ಐರಾವತ,airāvata,white elephant
-119,ಒಂದು,ondu,one
-120,ಒಂಟೆ,oṇṭe,camel
-121,ಮಡಿಲು,maḍilu,lap
-122,ಹೊಂದಾಣಿಕೆ,hondāṇike,adjust
-123,ಒಬ್ಬ ಮನುಷ್ಯ,obba manuṣya,one man
-124,ಏಕಾಂಗಿ,ēkāṅgi,lonely person
-125,ಘರ್ಷಣೆ,gharṣaṇe,friction
-126,ಸೋಲು,solu,defeat
-127,ಸಹಿಸು,sahisu,bear
-128,ಮತ,mata,vote
-129,ತಾಳ್ಮೆ,tāḷme,patience
-130,ಔಷಧಿ,auṣadhi,medicine
-131,ಬಂದರು,bandaru,harbour
-132,ಅಕ್ಷರಮಾಲೆ,akṣaramāle,alphabet
-133,ಬಾಂಬ್,bāmb,bomb
-134,ಹೌದು,haudu,yes
-135,ಅಲ್ಲವೇ,allavē,is it
-136,ಔಚಿತ್ಯ,aucitya,aptness
-137,ಔದಾರ್ಯ,audārya,magnanimity
-138,ಪೂರ್ಣ,poorṇa,whole
-139,ಅಂದ,anda,beauty
-140,ಅಂಚು,anchu,border
-141,ಅಂತ್ಯ,antya,end
-142,ಅಂಕಿಥ,aṅkitha,dedication
-143,ಅಂಬುಜ,ambuja,lotus
-144,ಅಂತಃಪುರ,antaḥpura,inner chamber
-145,ಆಂತರಿಕ ಶತ್ರು,āntarika śatru,internal enemy
-146,ಆಂತರಿಕ ಚಟುವಟಿಕೆ,āntarika caṭuvaṭike,inner activity
-147,ಆಂತರಿಕ ಕೋನ,āntarika kōna,inner angle
-148,ಗೆಣಸು,geṇasu,yam
-149,ಲೇಖನಿ,lēkhani,pen
-150,ಕಡವ,kaḍava,pot
-151,ಸಮುದ್ರ,samudra,sea
-152,ಹೊಟ್ಟೆ,hoṭṭe,stomach
-153,ಚಿನ್ನ,chinna,gold
-154,ಅವಳಿಗಳು,avaḷigaḷu,twins
-155,ಖನಿ,khani,mine
-156,ಕತ್ತೆ,katte,ass
-157,ಬೆಲೆ,bele,price
-158,ಪಕ್ಷಿ,pakṣi,bird
-159,ಖರ್ಜೂರ,kharjūra,date
-160,ಖನಿಜ,khanija,mineral
-161,ಕೋಣೆ,kōṇe,room
-162,ಹೊಸ್ತಿಲು,hostilu,threshold
-163,ಗದೆ,gade,club
-164,ಗರಿಕೆ,garike,grass
-165,ಆನೆ,āne,elephant
-166,ವಿಷ,viṣa,poison
-167,ಆಕಾಶ,ākāśa,sky
-168,ಘಟನೆ,ghaṭane,incident
-169,ಘನ,ghana,solid
-170,ಘಂಟಾನಾದ,ghaṇṭānāda,sound of the bell
-171,ಝೇಂಕರಿಸು,jhēnkarisu,ringing
-172,ಸಾಮರ್ಥ್ಯವುಳ್ಳ ವ್ಯಕ್ತಿ,sāmarthyavuḷḷa vyakti,capable person
-173,ಘರ್ಷಣೆ,gharṣaṇe,friction
-174,ಸರಸ್ವತಿ,sarasvati,Goddess Saraswati
-175,ಸಾಹಿತ್ಯ,sāhitya,literature
-176,ಸಾಹಿತಿ,sāhiti,litterateur
-177,ಚಳಿ,caḷi,chill
-178,ಚಾಕು,cāku,pen knife
-179,ಚಕ್ರ,cakra,wheel
-180,ಚಂದನ,candana,sandalwood
-181,ಓದು,ōdu,read
-182,ಚಂಪಕ,campaka,flower
-183,ಚಕೋರ,cakōra,square
-184,ಛಂದಸ್ಸು,chandassu,prosody
-185,ಶಿವಾಜಿ,śivāji,śivāji
-186,ಛಾಯೆ,chāye,shadow
-187,ಹಾಸ್ಯ,hāsya,repartee
-188,ಅಣಬೆ,aṇabe,mushroom
-189,ಜತೆ,jate,pair
-190,ಪೇರಲ,pērala,guava
-191,ಜಲ,jala,water
-192,ಜಯ,jaya,triumph
-193,ಜಗಳ,jagaḷa,quarrel
-194,ಜನನ,janana,birth
-195,ಸಮಯ,samaya,time
-196,ಮೀನು,meenu,fish
-197,ಝೇಂಕಾರ,jhaṁkāra,humming
-198,ಪರ್ವತದ ತೊರೆ,parvatada tore,mountain stream
-199,ಚಂಡಮಾರುತ,chaṇḍamāruta,storm
-200,ಆಜ್ಞೆ,ājñe,command
-201,ಸಂಜ್ಞೆ,saṁjñe,symbol
-202,ಜ್ಞಾನ,jñāna,knowledge
-203,ವಿಜ್ಞಾಪನ,vijñāpana,request
-204,ಟಪಾ,ṭapā,post
-205,ಟ್ರಿಕ್,ṭrik,trick
-206,ಪಟಾಕಿ,paṭāki,crackers
-207,ಕುತಂತ್ರಿ,kutantri,cunning fellow
-208,ಟಂಕಸಾಲೆ,ṭaṅkasāle,mint
-209,ಠಾಣೆ,ṭhāṇe,police station
-210,ಶೈಲಿ,śaili,style
-211,ಪಾಠ,pāṭha,lesson
-212,ಸಿಹಿ,sihi,sweet
-213,ಪಾಠಶಾಲೆ,pāṭhaśāle,school
-214,ಕಂಠ,kaṇṭha,throat
-215,ನಗದು,nagadu,cash
-216,ಗುರಾಣಿ,gurāṇi,shield
-217,ಡಮರುಕ,ḍamaruka,small drum
-218,ದರ್ಪ,darpa,boasting
-219,ಡಜನ್,ḍajan,12 pieces
-220,ಘರ್ಷಣೆ,ghaṭṭaṇe,clash
-221,ಗುರಾಣಿ,gurāṇi,shield
-222,ದೊಡ್ಡ ಡ್ರಮ್,doḍḍa ḍram,big drum
-223,ಬ್ಲಾಸ್ಟ್,blāsṭ,blast
-224,ಧರಣಿ,dharaṇi,earth
-225,ಕರುಣೆ,karuṇe,compassion
-226,ವೇಣು,vēṇu,flute
-227,ಕಲ್ಯಾಣ,kalyāṇa,marriage
-228,ಆಭರಣ,ābharaṇa,ornament
-229,ಬಾಗಿಲು,bāgilu,door
-230,ಹಗ್ಗ,hagga,rope
-231,ಅಜ್ಜ,ajja,grandfather
-232,ಮರ,mara,tree
-233,ಮಗಳು,magaḷu,daughter
-234,ತರಗತಿ,taragati,class
-235,ಅಲೆ,ale,wave
-236,ಅತಿಥಿ,atithi,guest
-237,ಪಥ,patha,way
-238,ಕಥೆ,kathe,story
-239,ರಥ,ratha,chariot
-240,ಶಪಥ,śapatha,vow
-241,ಮಂಥನ,manthana,churning
-242,ದಂತ,danta,tooth
-243,ಬೇಲಿ,bēli,fence
-244,ದಾರಿಯ,dāriya,way
-245,ದಂಡೆ,daṇḍe,garland
-246,ದಾನ,dāna,donation
-247,ಶಿಕ್ಷೆ,śikṣe,punishment
-248,ಬೆಲೆ,bele,price
-249,ಬಿಲ್ಲು,billu,bow
-250,ಧಾರಾ,dhārā,stream
-251,ಧಮನಿ,dhamani,vein
-252,ಧನ,dhana,money
-253,ಬಿಳಿ,biḷi,white
-254,ಮಿನುಗುವ,minuguva,glittering
-255,ನಾರಿ,nāri,woman
-256,ನಟಿ,naṭi,actress
-257,ಆಭರಣಗಳು,ābharaṇagaḷu,jewelry
-258,ನಡಿಗೆ,naḍige,walk
-259,ನಡುವೆ,naḍuve,middle
-260,ನಡವಳಿಕೆ,naḍavaḷike,conduct
-261,ಮಧ್ಯರಾತ್ರಿ,madhyarātri,midnight
-262,ಕೆಲಸ,kelasa,work
-263,ಹಾಸಿಗೆ,hāsige,bed
-264,ದೋಣಿ,dōṇi,boat
-265,ಹಲಗೆ,halage,slate
-266,ಹಗಲು,hagalu,day
-267,ಪವಳ,pavaḷa,coral
-268,ಹಾವು,hāvu,snake
-269,ಫಲಿತಾಂಶ,phalitāṁśa,result
-270,ಫಲಕ,phalaka,plate
-271,ಅರ್ಜುನ,arjuna,arjuna
-272,ಸೀತಾಫಲ,seetāphala,custard apple
-273,ಉಪಹಾರ,upahāra,tiffin
-274,ಶಾಲೆ,śāle,school
-275,ವಸತಿ,vasati,accomodation
-276,ಚೆಂಡು,cheṇḍu,ball
-277,ಬಲ,bala,strength
-278,ಕೊಕ್ಕು,kokku,crane
-279,ಬಂಡಿ,baṇḍi,cart
-280,ಬಲಪ,balapa,slate pencil
-281,ಭವನ,bhavana,building
-282,ಭಕ್ತಿ,bhakti,devotion
-283,ಚೆನ್ನಾಗಿ ಮಾಡಿದೆ,chennāgi māḍide,well done
-284,ಭಯ,bhaya,fear
-285,ಸಹಿಸು,sahisu,bear
-286,ಅವಮಾನ,avamāna,insult
-287,ತಿರುಪು,tirupu,screw
-288,ಔಷಧಿ,auṣadhi,medicine
-289,ಮಂಚ,manca,cot
-290,ಮನುಷ್ಯ,manuṣya,man
-291,ಮನವಿ,manavi,appeal
-292,ಕಿರೀಟ,kirīṭa,crown
-293,ನವಿಲು,navilu,peacock
-294,ಯಾಗ,yāga,ritual
-295,ಯತಿ,yati,sage
-296,ರಾತ್ರಿ,rātri,night
-297,ಯಮುನಾ,yamunā,river Yamuna
-298,ಪ್ರಯತ್ನ,prayatna,effort
-299,ಯಂತ್ರ,yantra,machine
-300,ಮಾಲೀಕ,mālīka,master
-301,ಸೂರ್ಯ,sūrya,sun
-302,ರಾಣಿ,rāṇi,queen
-303,ರಾಜ,rāja,king
-304,ರಣ,raṇa,battle
-305,ರಸ,rasa,juice
-306,ಹೆದ್ದಾರಿ,heddāri,high way
-307,ಲವಂಗ,lavanga,clove
-308,ಲಾಖಾ,lākhā,lac
-309,ದಪ್ಪ,dappa,fatty
-310,ಲಲನೆ,lalane,woman
-311,ಲಂಚ,lancha,bribe
-312,ಲವಣ,lavaṇa,salt
-313,ಲಂಗರು,langaru,anchor
-314,ವೇಳೆ,vēḷe,time
-315,ಗಂಟಲು,gaṇṭalu,throat
-316,ತಟ್ಟೆಗಳು,taṭṭegaḷu,plates
-317,ಕಲೆಗಳು,kalegaḷu,fine arts
-318,ನಾಳ,nāḷa,tube
-319,ಕೀಲಿ,keeli,key
-320,ಸರಳ,saraḷa,simple
-321,ಭತ್ತ,bhatta,paddy
-322,ಮಳೆ,maḷe,rain
-323,ವನ,vana,forest
-324,ವಜ್ರ,vajra,diamond
-325,ಬದನೆಕಾಯಿ,badanekāyi,brinjal
-326,ವಸಂತ,vasanta,spring
-327,ಅಡುಗೆ,aḍuge,dish
-328,ಶನಿ,śani,saturn
-329,ಬಾಣ,bāṇa,arrow
-330,ಚಂದ್ರ,chandra,moon
-331,ಶಕ,śaka,era
-332,ಶರೀರ,śareera,body
-333,ಶತಕ,śataka,hundred verses
-334,ಷಡ್ಭುಜ,ṣaḍbhuja,hexagon
-335,ಷಷ್ಟಿ,ṣaṣṭi,sixty
-336,ಷಟ್ಕ,ṣaṭka,six folded
-337,ಷಣ್ಮುಖ,ṣaṇmukha,six faced lord
-338,ಷಡ್ಡಕ,ṣaḍḍaka,co-brother
-339,ಷಟ್ಪದ,ṣaṭpada,insect
-340,ಸಭೆ,sabhe,court
-341,ಸರಿ,sari,equal
-342,ಅರ್ಧ,ardha,half
-343,ಸಂತೆ,sante,market
-344,ಸಮರ,samara,war
-345,ಸಹಜ,sahaja,natural
-346,ಸಮಾಜ,samāja,society
-347,ನೇಗಿಲು,nēgilu,plough
-348,ಹಾನಿ,hāni,harm
-349,ಹಂಸ,haṁsa,swan
-350,ಹರಿಣಿ,hariṇi,deer
-351,ಹಾಸ್ಯ,hāsya,humour
-352,ಹಸಿರು,hasiru,green
-353,ಕ್ಷಮ,kṣama,patience
-354,ಕ್ಷಣ,kṣaṇa,moment
-355,ಕ್ಷಯ,kṣaya,decrease
-356,ಗಾಯ,gāya,wound
-357,ಭಿಕ್ಷುಕ,bhikṣuka,beggar
-358,ಆಲದ ಮರ,ālada mara,banyan tree
-359,ಅರಿವು,arivu,knowledge
-360,ಕಬ್ಬು,kabbu,sugarcane
-361,ಕೆರೆ,kere,pond
-362,ಕೆಂಪು ಕಲ್ಲು,kempu kallu,red stone
-363,ಕುರಿ ಹಾಲು,kuri hālu,ewe milk
-364,ಸಿಂಸೆ,siṁse,torture
-365,ಕುದುರೆ,kudure,horse
-366,ವಾಸನೆ,vāsane,smell
-367,ಭಯಾನಕ,bhayānaka,awful
-368,ತುಪ್ಪ,tuppa,ghee
-369,ಘೀಂಕರಿಸು,ghīṁkarisu,trumpet
-370,ಸಾಹಿತಿ,sāhiti,litterateur
-371,ಬ್ರಹ್ಮದೇವರು,brahmadēvaru,Lord Brahma
-372,ಚರ್ಮಕಾರ,carmakāra,cobler
-373,ಪುಡಿ,puḍi,powder
-374,ಹಾಸ್ಯ,hāsya,repartee
-375,ಕತ್ತರಿಸುವುದು,kattarisuvaḍu,cutting
-376,ಛಿದ್ರವಿಚ್ಛಿದ್ರ,chidravichchidra,helter-skelter
-377,ಜೀರ್ಣ,jeerṇa,digestion
-378,ಜನ್ಮಭೂಮಿ,janmabhūmi,native place
-379,ಜೀವನೋಪಾಯ,jeevanōpāya,livelihood
-380,ಜೀವಶಾಸ್ತ್ರ,jeevaśāstra,biology
-381,ಕಾಮದೇವರು,kāmadēvaru,cupid
-382,ಚಂಡಮಾರುತದ ಗಾಳಿ,chaṇḍamārutada gāḷi,stormy wind
-383,ಪ್ರತಿಜ್ಞೆ,pratijñe,vow
-384,ಪ್ರಾಜ್ಞ,prājña,learned man
-385,ಮಹಾರಾಣಿ,mahārāṇi,queen
-386,ಮನೋಜ್ಞ,manōjña,delight
-387,ಓದು,ōdu,read
-388,ತೆಂಗಿನಕಾಯಿ,teṅginakāyi,coconut
-389,ಕುತಂತ್ರಿ,kutantri,cunning
-390,ಟಿಪ್ಪು ಸುಲ್ತಾನ್,ṭippu sulṭān,tippusultan
-391,ಟಿಪ್ಪಣಿ,ṭippaṇi,commentary
-392,ಕಠಿಣ,kaṭhiṇa,hard
-393,ಪ್ರತಿಷ್ಠೆ,pratiṣṭhe,reputation
-394,ಕಾಗದದ ಹಾಳೆ,kāgadada hāḷe,sheet of paper
-395,ನಿಷ್ಪ್ರಯೋಜಕ,niṣprayōjaka,useless
-396,ಹೊಟ್ಟೊಳ್ಳ,hoṭṭoḷḷa,hallow
-397,ಡಮರುಕ,ḍamaruka,drum
-398,ಅಲುಗಾಡುವಿಕೆ,alugāḍuvike,wavering
-399,ಗಾಢನಿದ್ರೆ,gāḍhanidre,sound sleep
-400,ಆಷಾಢ,āṣāḍha,name of a month
-401,ಗುಪ್ತ,gupta,hidden
-402,ದೃಢತೆ,dṛḍhate,sturdiness
-403,ರಕ್ಷಣೆ,rakṣaṇe,defence
-404,ಗ್ರಹಣ,grahaṇa,eclipse
-405,ವಾಣಿಜ್ಯ,vāṇijya,commerce
-406,ಕ್ಷಣ,kṣaṇa,moment
-407,ತಿರಸ್ಕಾರ,tiraskāra,rejection
-408,ತೀರ್ಥಯಾತ್ರೆ,teerthayātre,pilgrimage
-409,ತಪ್ಪು,tappu,mistake
-410,ತತ್ವ,tatva,philosophy
-411,ಶಿಥಿಲವಾದ,śithilavāda,dilapidated
-412,ಬುದ್ಧ,buddha,Lord Buddha
-413,ನಕ್ಷತ್ರಪಥ,nakṣatrapatha,zodiac
-414,ಯಥಾಸ್ಥಿತಿ,yathāsthiti,as it is
-415,ದಾತೃತ್ವ,dātṛtva,generosity
-416,ದಿಗ್ಬಂಧನ,digbandhana,beleaguering
-417,ದೀರ್ಘಾಯುಷ್ಯ,deerghāyuṣya,long life
-418,ದುರದೃಷ್ಟ,duradṛṣṭa,misfortune
-419,ಧಾನ್ಯ,dhānya,grain
-420,ಧರ್ಮಛತ್ರ,dharmachatra,choultry
-421,ಧ್ಯಾನ,dhyāna,meditation
-422,ಧ್ವನ್ಯನುಕರಣೆ,dhvanyanukaraṇe,mimicry
-423,ತಡೆಯಿರಿ,taḍeyiri,obstruct
-424,ನೃತ್ಯ,nṛtya,dance
-425,ನಮಸ್ಕಾರ,namaskāra,salutation
-426,ನಿರ್ಣಯ,nirṇaya,decision
-427,ಪರಮಾತ್ಮ,paramātma,Supreme Spirit
-428,ಪರಿಹಾರ,parihāra,settlement
-429,ಕೃಷ್ಣ,kṛṣṇa,Lord Krishna
-430,ಪಶ್ಚಾತ್ತಾಪ,paścāttāpa,repentance
-431,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
-432,ಹಣೆಗಣ್ಣು,haṇegaṇṇu,the eye on forehead
-433,ಅರಳಿದ,araḷida,blossom
-434,ಫಲಿತಾಂಶ,phalitāṁśa,result
-435,ಬುದ್ಧಿವಂತ ವ್ಯಕ್ತಿ,buddhivanta vyakti,wise person
-436,ಬೌದ್ಧಧರ್ಮ,bauddhādharma,buddhism
-437,ಬ್ರಹ್ಮಾನಂದ,brahmānanda,ecstasy
-438,ಬಹಿಷ್ಕಾರ,bahiṣkāra,expulsion
-439,ಕರಡಿ,karaḍi,bear
-440,ಸೂರ್ಯ,sūrya,Sun
-441,ಖಜಾನೆ,khajāne,treasury
-442,ಶ್ರೀಮಂತ ವ್ಯಕ್ತಿ,śreemanta vyakti,rich man
-443,ಮೀನು,meenu,fish
-444,ಮಿದುಳು,miduḷu,brain
-445,ಇಂದ್ರ,indra,Lord Indra
-446,ಮಧ್ಯಾಹ್ನ,madhyāhna,midday
-447,ಯೌವನ,yauvana,youth
-448,ಯೋಗ್ಯತೆ,yōgyate,eligibility
-449,ಯಥಾ ಪ್ರಕಾರ,yathā prakāra,as usual
-450,ಯಜುರ್ವೇದ,yajurvēda,one of the vēdās
-451,ಅನಾರೋಗ್ಯ,anārōgya,illness
-452,ರದ್ದುಗೊಳಿಸಿ,raddagoḷisi,cancel
-453,ಕರ್ಣ,karṇa,Karna
-454,ಅರಮನೆ,aramane,palace
-455,ಗಾದೆ,gāde,proverb
-456,ಕಾಳಜಿ ವಹಿಸಿ,kāḷaji vahisi,care
-457,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
-458,ವಿಶಿಷ್ಟ ವೈಶಿಷ್ಟ್ಯ,viśiṣṭa vaiśiṣṭya,elegant feature
-459,ಬೋಲ್ಟ್,bōlṭ,bolt
-460,ಲಗಾಮು,lagāmu,rein
-461,ಸುಗಂಧ,sugandha,fragrance
-462,ಕಾಳರಾತ್ರಿ,kāḷarātri,nightmare
-463,ಸತ್ಯ,satya,truth
-464,ಸಿಟ್ಟುಬರಿಸು,siṭṭubarisu,enrage
-465,ವಾರ್ಧಕ್ಯ,vārdhakya,old age
-466,ಇಂದ್ರನ ಆಯುಧ,indrana āyudha,indra's weapon
-467,ಶತ್ರು,śatru,enemy
-468,ತಲೆ,tale,head
-469,ಶುದ್ಧತೆ,śuddhate,purity
-470,ಶರತ್ಕಾಲ,śaratkāla,autumn
-471,ಹೂವು,hoovu,flower
-472,ವಿಷ್ಣು,viṣṇu,Lord Viṣṇu
-473,ಪುಷ್ಕಳ,puṣkaḷa,plenty
-474,ಕೊಳ,koḷa,pond
-475,ಸಂಘ,saṅgha,society
-476,ಸಂಗ್ರಾಮ,saṅgrāma,war
-477,ಸತ್ಕರಿಸು,satkarisu,honour
-478,ಸಂಕಲ್ಪ,saṅkalpa,determination
-479,ಹರ್ಷ,harṣa,joy
-480,ಹೃದಯ,hṛdaya,heart
-481,ಹಿಮಾಲಯ ಪರ್ವತ,himālaya parvata,Himalayan mountain
-482,ಚಿನ್ನ,chinna,gold
-483,ಕ್ಷೇತ್ರ,kṣētra,field
-484,ಹಾಲು,hālu,milk
-485,ಕ್ಷೇಮ,kṣēma,safe
-486,ದಪ್ಪ ಮೀಸೆ,dappa meese,broad moustaches
-487,ಹುಚ್ಚ,huccha,mad man
-488,ಸಿಹಿ ಕಬ್ಬು,sihi kabbu,sweet sugarcane
-489,ಕತ್ತಿವರಸೆ,kattivarase,martial art with stick
-490,ಕೆಂಪು ಸಮುದ್ರ,kempu samudra,red sea
-491,ಆಲದ ಮರ,ālada mara,banyan tree
-492,ಚೇಳು,chēḷu,centeped
-493,ಜಡೆಗಳಿರುವ ಎಮ್ಮೆ,jaḍegaḷiruva emme,yak
-494,ಕ್ಷಣ,kṣaṇa,second
-495,ನಿಮಿಷ,nimiṣa,minute
-496,ಗಂಟೆ,gaṇṭe,hour
-497,ಅಪರಾವತ,aparāvata,early morning
-498,ಬೆಳಿಗ್ಗೆ,beḷiggge,morning
-499,ಮಧ್ಯಾಹ್ನ,madhyāhna,midday
-500,ಸಾಯಂಕಾಲ,sāyaṁkāla,evening
-501,ರಾತ್ರಿ,rātri,night
-502,ಮಧ್ಯರಾತ್ರಿ,madhyarātri,midnight
-503,ಹಗಲು,hagalu,day time
-504,ದಿನ,dina,day
-505,ವಾರ,vāra,week
-506,ಪಕ್ಷ,pakṣa,fortnight
-507,ತಿಂಗಳು,tiṁgaḷu,month
-508,ಅಯನ,ayana,six month-period
-509,ವರ್ಷ,varṣa,year
-510,ಪುಷ್ಕರ,puṣkara,12 year-period
-511,ಕೃತಯುಗ,kṛtayuga,Krita Yuga
-512,ತ್ರೇತಾಯುಗ,trētāyuga,Treta Yuga
-513,ದ್ವಾಪರಯುಗ,dvāparayuga,Dwapara Yuga
-514,ಕಲಿಯುಗ,kaliyuga,Kali Yuga
-515,ವಸಂತ ಋತು,vasanta ṛtu,spring
-516,ಗ್ರೀಷ್ಮ ಋತು,grīṣma ṛtu,summer
-517,ವರ್ಷ ಋತು,varṣa ṛtu,rainy season
-518,ಶರತ್ಕಾಲ,śaratkāla,begining of winter
-519,ಹೇಮಂತ ಋತು,hēmanta ṛtu,winter
-520,ಶಿಶಿರ ಋತು,śiśira ṛtu,autumn
-521,ಪ್ರಭವ,prabhava,Year name
-522,ವಿಭವ,vibhava,Year name
-523,ಶುಕ್ಲ,śukla,Year name
-524,ಪ್ರಮೋದೂತ,pramōdūta,Year name
-525,ಪ್ರಜೋತ್ಪತ್ತಿ,prajōtpatti,Year name
-526,ಆಂಗೀರಸ,āṅgīrasa,Year name
-527,ಶ್ರೀಮುಖ,śrīmukha,Year name
-528,ಭಾವ,bhāva,Year name
-529,ಯುವ,yuva,Year name
-530,ಧಾತು,dhātu,Year name
-531,ಈಶ್ವರ,īśvara,Year name
-532,ಬಹುಧಾನ್ಯ,bahudhānya,Year name
-533,ಪ್ರಮಾದಿ,pramādi,Year name
-534,ವಿಕ್ರಮ,vikrama,Year name
-535,ವೃಷ,vṛṣa,Year name
-536,ಚಿತ್ರಭಾನು,citrabhānu,Year name
-537,ಸ್ವಭಾನು,svabhānu,Year name
-538,ತಾರಣ,tāraṇa,Year name
-539,ಪಾರ್ಥಿವ,pārthiva,Year name
-540,ವ್ಯಯ,vyaya,Year name
-541,ಸರ್ವಜಿತ್ತು,sarvajittu,Year name
-542,ಸರ್ವಧಾರಿ,sarvadhāri,Year name
-543,ವಿರೋಧಿ,virōdhi,Year name
-544,ವಿಕೃತಿ,vikṛti,Year name
-545,ಖರ,khara,Year name
-546,ನಂದನ,nandana,Year name
-547,ವಿಜಯ,vijaya,Year name
-548,ಜಯ,jaya,Year name
-549,ಮನ್ಮಥ,manmatha,Year name
-550,ದುರ್ಮುಖಿ,durmukhi,Year name
-551,ಹೇವಳಂಬಿ,hēvaḷambi,Year name
-552,ವಿಳಂಬಿ,viḷambi,Year name
-553,ವಿಕಾರಿ,vikāri,Year name
-554,ಶಾರ್ವರಿ,śārvari,Year name
-555,ಪ್ಲವ,plava,Year name
-556,ಶುಭಕೃತು,śubhakṛtu,Year name
-557,ಶೋಭಕೃತು,śōbhakṛtu,Year name
-558,ಕ್ರೋಧಿ,krōdhi,Year name
-559,ವಿಶ್ವಾವಸು,viśvāvasu,Year name
-560,ಪರಾಭವ,parābhava,Year name
-561,ಪ್ಲವಂಗ,plavaṅga,Year name
-562,ಕೀಲಕ,kīlaka,Year name
-563,ಸೌಮ್ಯ,saumya,Year name
-564,ಸಾಧಾರಣ,sādhāraṇa,Year name
-565,ವಿರೋಧಕೃತು,virōdhakṛtu,Year name
-566,ಪರೀಧಾವಿ,parīdhāvi,Year name
-567,ಪ್ರಮಾದಿಚ,pramādica,Year name
-568,ಆನಂದ,ānanda,Year name
-569,ರಾಕ್ಷಸ,rākṣasa,Year name
-570,ನಲ,nala,Year name
-571,ಪಿಂಗಳ,piṅgaḷa,Year name
-572,ಕಾಳಯುಕ್ತಿ,kāḷayukti,Year name
-573,ಸಿದ್ಧಾರ್ಥಿ,siddhārthi,Year name
-574,ರೌದ್ರಿ,raudri,Year name
-575,ದುರ್ಮತಿ,durmati,Year name
-576,ದುಂದುಭಿ,dundubhi,Year name
-577,ರುಧಿರೋದ್ಗಾರಿ,rudhirōdgāri,Year name
-578,ರಕ್ತಾಕ್ಷಿ,raktākṣi,Year name
-579,ಕ್ರೋಧನ,krōdhana,Year name
-580,ಅಕ್ಷಯ,akṣaya,Year name
-581,ಶುದ್ಧ ಪಾಡ್ಯಮಿ,śuddha pāḍyami,1st day after full moonday
-582,ಶುದ್ಧ ವಿದಿಯಾ,śuddha vidiyā,2nd day
-583,ಶುದ್ಧ ತದಿಯಾ,śuddha tadiyā,3rd day
-584,ಶುದ್ಧ ಚೌತಿ,śuddha cauṭi,4th day
-585,ಶುದ್ಧ ಪಂಚಮಿ,śuddha paṁcami,5th day
-586,ಶುದ್ಧ ಷಷ್ಠಿ,śuddha ṣaṣṭhi,6th day
-587,ಶುದ್ಧ ಸಪ್ತಮಿ,śuddha saptami,7th day
-588,ಶುದ್ಧ ಅಷ್ಟಮಿ,śuddha aṣṭami,8th day
-589,ಶುದ್ಧ ನವಮಿ,śuddha navami,9th day
-590,ಶುದ್ಧ ದಶಮಿ,śuddha daśami,10th day
-591,ಶುದ್ಧ ಏಕಾದಶಿ,śuddha ēkādaśi,11th day
-592,ಶುದ್ಧ ದ್ವಾದಶಿ,śuddha dvādaśi,12th day
-593,ಶುದ್ಧ ತ್ರಯೋದಶಿ,śuddha trayōdaśi,13th day
-594,ಶುದ್ಧ ಚತುರ್ದಶಿ,śuddha caturdaśi,14th day
-595,ಪೌರ್ಣಮಿ,paurṇami,fullmoon day
-596,ಬಹುಳ ಪಾಡ್ಯಮಿ,bahuḷa pāḍyami,1st day after newmoon day
-597,ಬಹುಳ ವಿದಿಯಾ,bahuḷa vidiyā,2nd day
-598,ಬಹುಳ ತದಿಯಾ,bahuḷa tadiyā,3rd day
-599,ಬಹುಳ ಚೌತಿ,bahuḷa cauṭi,4th day
-600,ಬಹುಳ ಪಂಚಮಿ,bahuḷa paṁcami,5th day
-601,ಬಹುಳ ಷಷ್ಠಿ,bahuḷa ṣaṣṭhi,6th day
-602,ಬಹುಳ ಸಪ್ತಮಿ,bahuḷa saptami,7th day
-603,ಬಹುಳ ಅಷ್ಟಮಿ,bahuḷa aṣṭami,8th day
-604,ಬಹುಳ ನವಮಿ,bahuḷa navami,9th day
-605,ಬಹುಳ ದಶಮಿ,bahuḷa daśami,10th day
-606,ಬಹುಳ ಏಕಾದಶಿ,bahuḷa ēkādaśi,11th day
-607,ಬಹುಳ ದ್ವಾದಶಿ,bahuḷa dvādaśi,12th day
-608,ಬಹುಳ ತ್ರಯೋದಶಿ,bahuḷa trayōdaśi,13th day
-609,ಬಹುಳ ಚತುರ್ದಶಿ,bahuḷa caturdaśi,14th day
-610,ಅಮಾವಾಸ್ಯೆ,amāvāsye,newmoon day
-611,ಜನವರಿ,janavari,january
-612,ಫೆಬ್ರವರಿ,phebravari,february
-613,ಮಾರ್ಚ್,mārch,march
-614,ಏಪ್ರಿಲ್,ēpril,april
-615,ಮೇ,mē,may
-616,ಜೂನ್,jūn,june
-617,ಜುಲೈ,julay,july
-618,ಆಗಸ್ಟ್,āgasṭ,august
-619,ಸೆಪ್ಟೆಂಬರ್,sepṭembar,september
-620,ಅಕ್ಟೋಬರ್,akṭōbar,october
-621,ನವೆಂಬರ್,navembar,november
-622,ಡಿಸೆಂಬರ್,ḍisembar,december
-623,ಭಾನುವಾರ,bhānuvāra,Sunday
-624,ಸೋಮವಾರ,sōmavāra,Monday
-625,ಮಂಗಳವಾರ,maṅgaḷavāra,Tuesday
-626,ಬುಧವಾರ,budhavāra,Wednesday
-627,ಗುರುವಾರ,guruvāra,Thursday
-628,ಶುಕ್ರವಾರ,śukravāra,Friday
-629,ಶನಿವಾರ,śanivāra,Saturday
-630,ಮೇಷ,mēṣa,Aries
-631,ವೃಷಭ,vṛṣabha,Taurus
-632,ಮಿಥುನ,mithuna,Gemini
-633,ಕರ್ಕಾಟಕ,karkāṭaka,Cancer
-634,ಸಿಂಹ,siṁha,Leo
-635,ಕನ್ಯಾ,kanyā,Virgo
-636,ತುಲಾ,tulā,Libra
-637,ವೃಶ್ಚಿಕ,vṛścika,Scorpio
-638,ಧನುಸ್ಸು,dhanussu,Sagittarius
-639,ಮಕರ,makara,Capricorn
-640,ಕುಂಭ,kumbha,Aquarius
-641,ಮೀನ,meena,Pisces
-642,ಪೂರ್ವ,poorva,east
-643,ಪಶ್ಚಿಮ,paścima,west
-644,ಉತ್ತರ,uttara,north
-645,ದಕ್ಷಿಣ,dakṣiṇa,south
-646,ಆಗ್ನೇಯ,āgnēya,southeast
-647,ನೈರುತ್ಯ,nairutya,southwest
-648,ವಾಯವ್ಯ,vāyavya,northwest
-649,ಈಶಾನ್ಯ,īśānya,northeast
-650,ಕಪ್ಪು,kappu,black
-651,ಬಿಳಿ,biḷi,white
-652,ಕೆಂಪು,kempu,red
-653,ಹಳದಿ,haḷadi,yellow
-654,ನೀಲಿ,neeli,blue
-655,ಹಸಿರು,hasiru,green
-656,ಗಿಳಿಹಸಿರು,giḷihasiru,parrot green
-657,ಬೂದಿ,būdi,ash
-658,ಗುಲಾಬಿ,gulābi,pink
-659,ಕೇಸರಿ,kēsari,saffron
-660,ನೇರಳೆ,nēraḷe,violet
-661,ಕಿತ್ತಳೆ,kittaḷe,orange
-662,ಅಶ್ವಿನಿ,aśvini,Lunar Star
-663,ಭರಣಿ,bharaṇi,Lunar Star
-664,ಕೃತ್ತಿಕಾ,kṛttikā,Lunar Star
-665,ರೋಹಿಣಿ,rōhiṇi,Lunar Star
-666,ಮೃಗಶಿರಾ,mṛgaśirā,Lunar Star
-667,ಆರುದ್ರ,ārudra,Lunar Star
-668,ಪುನರ್ವಸು,punarvasu,Lunar Star
-669,ಪುಷ್ಯಮಿ,puṣyami,Lunar Star
-670,ಆಶ್ಲೇಷ,āślēṣa,Lunar Star
-671,ಮಘಾ,maghā,Lunar Star
-672,ಪುಬ್ಬ,pubba,Lunar Star
-673,ಉತ್ತರಾ,uttarā,Lunar Star
-674,ಹಸ್ತ,hasta,Lunar Star
-675,ಚಿತ್ತ,citta,Lunar Star
-676,ಸ್ವಾತಿ,svāti,Lunar Star
-677,ವಿಶಾಖ,viśākha,Lunar Star
-678,ಅನುರಾಧ,anurādha,Lunar Star
-679,ಜ್ಯೇಷ್ಠ,jyēṣṭha,Lunar Star
-680,ಮೂಲ,mūla,Lunar Star
-681,ಪೂರ್ವಾಷಾಢ,pūrvāṣāḍha,Lunar Star
-682,ಉತ್ತರಾಷಾಢ,uttarāṣāḍha,Lunar Star
-683,ಶ್ರವಣಂ,śravaṇaṁ,Lunar Star
-684,ಧನಿಷ್ಠ,dhaniṣṭha,Lunar Star
-685,ಶತಭಿಷ,śatabhiṣa,Lunar Star
-686,ಪೂರ್ವಾಭಾಧ್ರ,pūrvābhādra,Lunar Star
-687,ಉತ್ತರಾಭಾಧ್ರ,uttarābhādra,Lunar Star
-688,ರೇವತಿ,rēvati,Lunar Star
-689,ಕಶ್ಯಪ,kaśyapa,Sage
-690,ಅತ್ರಿ,atri,Sage
-691,ಭರದ್ವಾಜ,bharadvāja,Sage
-692,ವಿಶ್ವಾಮಿತ್ರ,viśvāmitra,Sage
-693,ಗೌತಮ,gautama,Sage
-694,ಜಮದಗ್ನಿ,jamadagni,Sage
-695,ವಸಿಷ್ಠ,vasiṣṭha,Sage
-696,ಸೂರ್ಯ,sūrya,Sun
-697,ಚಂದ್ರ,chandra,Moon
-698,ಅಂಗಾರಕ,aṅgāraka,Mars
-699,ಬುಧ,budha,Mercury
-700,ಬೃಹಸ್ಪತಿ,bṛhaspati,Jupiter
-701,ಶುಕ್ರ,śukra,Venus
-702,ಶನೈಶ್ಚರ,śanaiścara,Saturn
-703,ರಾಹು,rāhu,Dragon's head
-704,ಕೇತು,kētu,Dragon's tail
-705,ವಜ್ರ,vajra,diamond
-706,ವೈಡೂರ್ಯ,vaiḍūrya,cat's eye
-707,ಗೋಮೇಧಿಕ,gōmēdhika,zirconium
-708,ಪುಷ್ಯರಾಗ,puṣyarāga,topaz
-709,ಮರಕತ,marakata,emerald
-710,ಮಾಣಿಕ್ಯ,māṇikya,ruby
-711,ನೀಲ,neela,sapphire
-712,ಹವಳ,havaḷa,coral
-713,ಮುತ್ತು,muttu,pearl
-714,ಭತ್ತ,bhatta,paddy
-715,ಹುರುಳಿ,huruḷi,horsegram
-716,ಹೆಸರುಕಾಳು,hesarukāḷu,greengram
-717,ಉದ್ದಿನಕಾಳು,uddinakāḷu,blackgram
-718,ಗೋಧಿ,gōdhi,wheat
-719,ಅನುಮೂಲ,anumoola,rajmagram
-720,ತೊಗರಿ,togari,redgram
-721,ಕಡಲೆ,kaḍale,bengalgram
-722,ಎಳ್ಳು,eḷḷu,gingili
-723,ಆನಂದ,ānanda,pleasure
-724,ದುಃಖ,duḥkha,sorrow
-725,ಅಸೂಯೆ,asūye,jealousy
-726,ದ್ವೇಷ,dvēṣa,hatred
-727,ಅನುಮಾನ,anumāna,suspicion
-728,ಕೋಪ,kōpa,anger
-729,ಆಸೆ,āse,ambition
-730,ದಯೆ,daye,kindness
-731,ಮೌನ,mauna,silence
-732,ಕೊಳಕು,koḷaku,vexation
-733,ಅಸಹ್ಯ,asahya,unbearable
-734,ಅಹಂಕಾರ,ahaṅkāra,ego
-735,ಹೋಲಿಕೆ,hōlike,comparison
-736,ಸ್ಫೂರ್ತಿ,sphūrti,inspiration
-737,ಉತ್ಸಾಹ,utsāha,spirit
-738,ಶರೀರ,śareera,body
-739,ತಲೆ,tale,head
-740,ಮುಖ,mukha,face
-741,ಕಣ್ಣು,kaṇṇu,eye
-742,ಮೂಗು,moogu,nose
-743,ಬಾಯಿ,bāyi,mouth
-744,ಕಿವಿ,kivi,ear
-745,ಕುತ್ತಿಗೆ,kuttige,neck
-746,ಗಂಟಲು,gaṇṭalu,throat
-747,ಎದೆ,ede,chest
-748,ನಾಲಿಗೆ,nālige,tongue
-749,ನಡು,naḍu,waist
-750,ಹೊಕ್ಕುಳ,hokkuḷa,navel point
-751,ಹೃದಯ,hṛdaya,heart
-752,ಕೈ,kai,hand
-753,ಹೊಟ್ಟೆ,hoṭṭe,stomach
-754,ತೊಡೆ,toḍe,thigh
-755,ಬೆನ್ನು,bennu,back
-756,ಕಾಲು,kālu,leg
-757,ಪಾದ,pāda,foot
-758,ಬೆರಳು,beraḷu,finger
-759,ಉಗುರು,uguru,nail
-760,ಅಮ್ಮ,amma,mother
-761,ಅಪ್ಪ,appa,father
-762,ಅಜ್ಜಿ,ajji,grand mother (maternal)
-763,ಅಜ್ಜ,ajja,grandfather
-764,ಮಾವ,māva,maternal uncle
-765,ಅತ್ತೆ,atte,aunt (father's sister)
-766,ಚಿಕ್ಕಪ್ಪ,chikkappa,uncle (father's younger brother)
-767,ಚಿಕ್ಕಮ್ಮ,chikkamma,aunt (mother's younger sister)
-768,ದೊಡ್ಡಪ್ಪ,doḍḍappa,uncle (father's elder brother)
-769,ದೊಡ್ಡಮ್ಮ,doḍḍamma,aunt (mother's elder sister)
-770,ಅಕ್ಕ,akka,elder sister
-771,ಭಾವ,bhāva,brother-in-law
-772,ಅಣ್ಣ,aṇṇa,elder brother
-773,ಅತ್ತಿಗೆ,attige,sister-in-law (elder brother's wife)
-774,ಸೊಸೆಯ,soseya,co-sister
-775,ಮಗ,maga,son
-776,ಸೊಸೆ,sose,daughter-in-law
-777,ಮೈದುನ,maiduna,brother-in-law (husband's younger brother)
-778,ಮೈದುನಿ,maiduni,sister-in-law (husband's younger sister)
-779,ಮೊಮ್ಮಗ,mommaga,grandson
-780,ಮೊಮ್ಮಗಳು,mommagḷu,grand daughter
-781,ಸೋದರ ಸೊಸೆ,sodara sose,niece
-782,ಷಡ್ಡಕ,ṣaḍḍaka,co-brother
-783,ಸೋದರಳಿಯ,sodaraḷiya,nephew
-784,ವಿವಿಯಪುರಳು,viviyapuraḷu,son's/daughter's mother-in-law
-785,ವಿವಿಯಂಕುಡ,viviyankuḍa,son's/daughter's father-in-law
-786,ರೈತ,raita,farmer
-787,ಕುಂಬಾರ,kumbāra,potter
-788,ಕಮ್ಮಾರ,kammāra,black smith
-789,ಕೂಲಿ ಕಾರ್ಮಿಕ,kūli kārmika,hired worker
-790,ಹಾಲಿನವ,hālinaava,milkman
-791,ನೇಕಾರ,nēkāra,weaver
-792,ಎಣ್ಣೆ ಒತ್ತುವವ,eṇṇe ottuvav,oilpresser
-793,ಕ್ಷೌರಿಕ,kṣaurika,barber
-794,ಲೆಕ್ಕಿಗ,lekkiga,accountant
-795,ಬೇಟೆಗಾರ,bēṭegāra,hunter
-796,ಬಡಗಿ,baḍagi,carpenter
-797,ಅಕ್ಕಸಾಲಿಗ,akkasāliga,goldsmith
-798,ವೈದ್ಯ,vaidya,doctor
-799,ಪೂಜಾರಿ,pūjāri,priest
-800,ಸೇವಕ,sēvaka,servant
-801,ಕಾರ್ಮಿಕ,kārmika,labourer
-802,ಧೋಬಿ,dhōbi,washerman
-803,ಚಿತ್ರಕಲಾವಿದ,citrakalāvīda,painter
-804,ಬಾಳೆಕಾಯಿ,bāḷekāyi,plantain (raw banana)
-805,ಆಲೂಗಡ್ಡೆ,āloogaḍḍe,potato
-806,ಸೊಪ್ಪು,soppu,greens
-807,ಈರುಳ್ಳಿ,īruḷḷi,onion
-808,ಹಾಗಲಕಾಯಿ,hāgalakāyi,bitter gourd
-809,ಕುಂಬಳಕಾಯಿ,kumbaḷakāyi,pumpkin
-810,ಪೊట్లಕಾಯಿ,poṭlakāyi,snake gourd
-811,ಗೋರಿಕಾಯಿ,gōrikāyi,local beans
-812,ಅವರೇಕಾಯಿ,avarēkāyi,beans
-813,ಸೌತೆಕಾಯಿ,sautekāyi,cucumber
-814,ಬೆಂಡೆಕಾಯಿ,beṇḍekāyi,lady's finger (okra)
-815,ತೊಂಡೆಕಾಯಿ,toṇḍekāyi,gherkins (tindora)
-816,ಬದನೆಕಾಯಿ,badanekāyi,brinjal (eggplant)
-817,ಟೊಮ್ಯಾಟೊ,ṭomyāṭo,tomato
-818,ಚಾಮಗಡ್ಡೆ,chāmagaḍḍe,colocacia (taro root)
-819,ಮುಳ್ಳು ಸೌತೆ,muḷḷu saute,drumstick
-820,ಮೂಲಂಗಿ,moolaṅgi,radish
-821,ಕಂದಗಡ್ಡೆ,kandagaḍḍe,elephant foot (yam)
-822,ಹೀರೆಕಾಯಿ,heerekāyi,ridge gourd
-823,ಸೋರೆಕಾಯಿ,sorekāyi,bottle gourd
-824,ಬಾಳೆಹಣ್ಣು,bāḷehaṇṇu,banana
-825,ದ್ರಾಕ್ಷಿ,drākṣi,grapes
-826,ಮಾವು,māvu,mango
-827,ಪೇರಲ,pērala,guava
-828,ನೇರಳೆಹಣ್ಣು,nēraḷehaṇṇu,cherry (jamun)
-829,ಸಪೋಟ,sapoṭa,sapota
-830,ಕಿತ್ತಳೆ,kittaḷe,orange
-831,ಪಪ್ಪಾಯಿ,pappāyi,papaya
-832,ಕಲ್ಲಂಗಡಿ,kallaṅgaḍi,water melon
-833,ದಾಳಿಂಬೆ,dāḷiṁbe,pomegranate
-834,ಬೆಲ,bela,wood apple
-835,ಖರ್ಜೂರ,kharjūra,date
-836,ಹಲಸಿನಹಣ್ಣು,halasinahaṇṇu,jackfruit
-837,ರೇಗಿಹಣ್ಣು,rēgihaṇṇu,pear (jujube fruit)
-838,ಅನಾನಸ್,anānas,pineapple
-839,ಸೀತಾಫಲ,seetāphala,custard apple
-840,ಸೇಬು,sēbu,apple
-841,ಅರಳಿ ಮರ,araḷi mara,fig tree (peepal)
-842,ಬಾದಾಮಿ ಮರ,bādāmi mara,almond tree
-843,ಹೊಂಗೆ ಮರ,hoṁge mara,Indian bunch tree (pongamia)
-844,ಆಲದ ಮರ,ālada mara,banyan tree
-845,ಬೇವು,bēvu,neem tree
-846,ಹುಣಸೆ ಮರ,huṇase mara,tamarind tree
-847,ಅಕೇಶಿಯಾ ಮರ,akēṣiyā mara,babool tree
-848,ಬಾಳೆ ಮರ,bāḷe mara,banana tree
-849,ಪೇರಲ ಮರ,pērala mara,guava tree
-850,ಮಾವಿನ ಮರ,māvina mara,mango tree
-851,ಅಶೋಕ ಮರ,aśōka mara,asoka tree
-852,ಮಲ್ಲಿಗೆ,mallige,jasmine
-853,ಕಮಲ,kamala,lotus
-854,ವಾಟರ್ ಲಿಲ್ಲಿ,vāṭar lilli,water lily
-855,ಸೇವಂತಿ,sēvanti,chrysanthemum
-856,ಗುಲಾಬಿ,gulābi,rose
-857,ಚೆಂಡು ಹೂವು,cheṇḍu hoovu,marigold
-858,ಮೊಗಲಿ ಹೂ,mogali hoo,pandarus
-859,ದವನ,davana,motherwort (artemisia)
-860,ಮರುವು,maruvu,cowhage (marjoram)
-861,ಪಾರಿವಾಳ,pārivāḷa,pigeon
-862,ಗೂಬೆ,goobe,owl
-863,ಬಕ,baka,crane
-864,ಕಾಗೆ,kāge,crow
-865,ಕೋಗಿಲೆ,kōgile,cuckoo bird
-866,ಗುಬ್ಬಚ್ಚಿ,gubbaccchi,sparrow
-867,ಹದ್ದು,haddu,eagle
-868,ಬಾವಲಿ,bāvali,bat
-869,ನವಿಲು,navilu,peacock
-870,ಬಾತುಕೋಳಿ,bātukōḷi,duck
-871,ಹಂಸ,haṁsa,swan
-872,ನಾಯಿ,nāyi,dog
-873,ನರಿ,nari,fox
-874,ಬೆಕ್ಕು,bekku,cat
-875,ಹಸು,hasu,cow
-876,ಎಮ್ಮೆ,emme,buffalo
-877,ಮೇಕೆ,mēke,goat
-878,ಕುರಿ,kuri,sheep
-879,ಕತ್ತೆ,katte,donkey
-880,ಆನೆ,āne,elephant
-881,ಹುಲಿ,huli,tiger
-882,ಸಿಂಹ,siṁha,lion
-883,ಕೋತಿ,kōti,monkey
-884,ಜಿಂಕೆ,jiṁke,deer
-885,ಒಲೆ,ole,hearth
-886,ಸೌಟು,sauṭu,ladle
-887,ಜರಡಿ,jaraḍi,sieve
-888,ಕೇಶಿ,kēśi,tongs
-889,ತುರಿ,turi,grate
-890,ಪಾತ್ರೆ,pātre,bowl
-891,ಪಾತ್ರೆ,pātre,vessel
-892,ಬೆಂಕಿಪೆಟ್ಟಿಗೆ,beṁkipeṭṭige,match box
-893,ಒನಕೆ,onake,mortar
-894,ಕವಲುಚಮಚ,kavalucamaca,fork
-895,ಜಾಡಿ,jāḍi,jar
-896,ಚಮಚ,camaca,spoon
-897,ಚಿಮಣಿ,cimaṇi,chimney
-898,ಬ್ರೂಮ್,broom,broom
-899,ತಟ್ಟೆ,taṭṭe,plate
-900,ನಲ್ಲಿ,nalli,tap
-901,ಒನಕೆ,onake,pounder
-902,ಕೂಜಾ,kūjā,flagon
-903,ಪುರಿ ರೋಲಿಂಗ್ ಪಿನ್,puri rōliṁg pin,rolling pin
-904,ಮಂತು,mantu,churner
-905,ಮೇಜು,mēju,table
-906,ಕಸದ ಬುಟ್ಟಿ,kasada buṭṭi,dustbin
-907,ಚಿನ್ನ,chinna,gold
-908,ಬೆಳ್ಳಿ,beḷḷi,silver
-909,ಹಿತ್ತಾಳೆ,hittāḷe,brass
-910,ತಾಮ್ರ,tāmra,copper
-911,ಉಕ್ಕು,ukku,steel
-912,ಕಬ್ಬಿಣ,kabbaṇa,iron
-913,ತವರ,tavara,tin
-914,ಸೀಸ,seesa,lead
-915,ಅರಿಶಿನ,ariśina,turmeric
-916,ಮೆಣಸಿನಕಾಯಿ,meṇasinakāyi,chilli
-917,ಕೊತ್ತಂಬರಿ,kottambari,coriander
-918,ಸಾಸಿವೆ,sāsive,mustard
-919,ಜೀರಿಗೆ,jeerige,cummin seeds
-920,ಖಸಖಸ,khasakhasa,poppy plant seeds
-921,ಇಂಗು,ingu,assafoetida
-922,ಮೆಂತ್ಯ,mentya,fenugreek
-923,ಲವಂಗ,lavanga,cloves
-924,ಏಲಕ್ಕಿ,ēḷakki,cardomum
-925,ಮೆಣಸು,meṇasu,pepper
-926,ಹುಣಸೆಹಣ್ಣು,huṇasehaṇṇu,tamarind
-927,ಉಪ್ಪು,uppu,salt
-928,ಖಾರದ ಪುಡಿ,khārada puḍi,mirchi powder
-929,ಬೆಲ್ಲ,bella,jaggery
-930,ಸಕ್ಕರೆ,sakkare,sugar
-931,ತೊಗರಿ ಬೇಳೆ,togari bēḷe,redgram
-932,ಉದ್ದಿನ ಬೇಳೆ,uddina bēḷe,blackgram
-933,ಕಡಲೆ ಬೇಳೆ,kaḍale bēḷe,bengalgram
-934,ಹೆಸರು ಬೇಳೆ,hesaru bēḷe,greengram
-935,ಉಂಗುರ,uṅgura,ring
-936,ಕಂಕಣ,kaṅkaṇa,bracelet
-937,ಸರಪಳಿ,sarapaḷi,chain
-938,ಬ್ರೋಚ್,brōch,brooch
-939,ಮೂಗುತಿ,mooguti,nose-ring
-940,ಕಿವಿ ಓಲೆ,kivi ōle,tops
-941,ಕೂದಲು ಕ್ಲಿಪ್,koodalu klip,hair clip
-942,ಸೈಡ್ ಪಿನ್,saiḍ pin,side pin
-943,ಬಳೆಗಳು,baḷegaḷu,bangle
-944,ಆಭರಣಗಳು,ābharaṇagaḷu,jewelry
-945,ತಲೆ ಲಾಕೆಟ್,tale lākeṭ,headlocket
-946,ಪದಕ,padaka,medal
-947,ಕಿವಿಯೋಲೆಗಳು,kiviyōlegaḷu,earstuds
-948,ಕಿರೀಟ,kirīṭa,crown
-949,ವಂಕಿ,vaṁki,armlet
-950,ಹಾರ,hāra,necklace
-951,ಪಾದದ ಕಡಗ,pādada kaḍaga,anklets
-952,ಮೂಗುತಿ,mooguti,nosestud
-953,ತೂಗಾಡುವಿಕೆಗಳು,toogāḍuvikegaḷu,hangings
-954,ಒಡ್ಯಾಣ,oḍyāṇa,waist ornament
-955,ಅಗಲ,agala,width
-956,ಉದ್ದ,udda,length
-957,ಎತ್ತರ,ettara,height
-958,ಕುಳ್ಳ,kuḷḷa,short
-959,ದೊಡ್ಡ,doḍḍa,big
-960,ಚಿಕ್ಕ,chikka,small
-961,ಭಾರ,bhāra,heavy
-962,ಗುಂಡ,guṇḍa,round
-963,ಬಾಗಿಲುಗಳು,bāgilugaḷu,doors
-964,ಪ್ರವೇಶ ದ್ವಾರ,pravēśa dvāra,entrance
-965,ಕಿಟಕಿಗಳು,kiṭakigaḷu,windows
-966,ಕೋಣೆ,kōṇe,room
-967,ವರಾಂಡ,varāṇḍa,verandah
-968,ಅಲಮಾರು,alamāru,almirah
-969,ಹೊಸ್ತಿಲು,hostilu,threshold
-970,ಛಾವಣಿ,chāvaṇi,roof
-971,ಗವಾಕ್ಷ,gavākṣa,ventilator
-972,ಮೆಟ್ಟಿಲುಗಳು,meṭṭilugaḷu,steps
+s.no,mr,mr_romanized,gu,gu_romanized,bn,bn_romanized,pa,pa_romanized,ml,ml_romanized,english_translation
+1,आई,ā'ī,માતા,mātā,মা,mā,ਮਾਂ,māṁ,അമ്മ,amma,mother
+2,गाय,gāy,ગાય,gāy,গরু,goru,ਗਾਂ,gāṁ,പശു,paśu,cow
+3,घर,ghar,ઘર,ghar,ঘর,ghor,ਘਰ,ghar,വീട്,vīḍŭ,house
+4,माशी,māśī,માખી,mākhī,মাছি,māchi,ਮੱਖੀ,makkhī,ഈച്ച,īcca,fly
+5,खार,khār,ખિસકોલી,khisakōlī,কাঠবিড়ালি,kaṭhabiṛāli,ਗਿਲਹਰੀ,gilaharī,അണ്ണാൻ,aṇṇān,squirrel
+6,झोका,jhōkā,ઝૂલો,jhūlō,দোলা,dōlā,ਝੂਲਾ,jhūlā,ഊഞ്ഞാൽ,ūññāl,cradle
+7,ऋषी,r̥ṣī,ઋષિ,r̥ṣi,ঋষি,r̥ṣi,ਰਿਸ਼ੀ,riśī,ഋഷി,r̥ṣi,sage
+8,उंदीर,undīr,ઉંદર,undar,ইঁদুর,ĩdur,ਚੂਹਾ,chūhā,എലി,eli,rat
+9,हत्ती,hattī,હાથી,hāthī,হাতি,hāti,ਹਾਥੀ,hāthī,ആന,āna,elephant
+10,पाच,pāca,પાંચ,pāṁcha,পাঁচ,pāṁca,ਪੰਜ,paṁj,അഞ്ച്,añcu,five
+11,उंट,uṁṭ,ઊંટ,ūṁṭ,উট,uṭa,ਊਠ,ūṭh,ഒട്ടകം,oṭṭakaṁ,camel
+12,जहाज,jahāj,જહાજ,jahāj,জাহাজ,jāhāja,ਜਹਾਜ਼,jahāz,കപ്പൽ,kappal,ship
+13,औषध,auṣadha,દવા,davā,ঔষধ,auṣadha,ਦਵਾਈ,davāī,മരുന്ന്,marunnŭ,medicine
+14,अंबर,aṁbar,આકાશ,ākāśa,আকাশ,ākāśa,ਅੰਬਰ,aṁbar,അന്തരീക്ഷം,antareekṣaṁ,sky
+15,दुःख,duḥkha,દુઃખ,duḥkha,দুঃখ,duḥkha,ਦੁੱਖ,dukh,ദുഃഖം,duḥkhaṁ,grief
+16,कणिस,kaṇis,કણસ,kaṇas,কুণিশ,kuṇiśa,ਕਣਕ,kaṇak,കതിർ,katir,spike
+17,खड्ग,khaḍga,ખડ્ગ,khaḍg,ਖੜਗ,khaṛag,ഖഡ്ഗം,khaḍgaṁ,sword
+18,टोपली,ṭōpalī,ટોપલી,ṭōpalī,ঝুড়ি,jhuri,ਟੋਕਰੀ,ṭōkarī,കൊട്ട,koṭṭa,basket
+19,घट,ghaṭa,ઘટ,ghaṭa,ঘট,ghaṭa,ਘੜਾ,ghaṛā,കലശം,kalaśaṁ,vessel
+20,वाङ्मय,vāṅmaya,વાડ્મય,vāḍmaya,বাঙ্ময়,bāṅmaẏa,ਵਾਙਮਯ,vāṅamaẏa,വാങ്മയം,vāṅmayaṁ,literature
+21,थंडी,thaṇḍī,ઠંડી,ṭhaṁḍī,ঠান্ডা,ṭhānḍā,ਠੰਢ,ṭhaṇḍh,തണുപ്പ്,taṇuppŭ,chill
+22,छत्री,chatrī,છત્રી,chatrī,ছাতা,chātā,ਛੱਤਰੀ,chattarī,കുട,kuṭa,umbrella
+23,वेणी,vēṇī,ચોટલી,chōṭalī,বেণী,bēṇī,ਚੋਟੀ,chōṭī,ചട,caṭa,plait
+24,मासा,māsā,માછલી,māchalī,মাছ,māch,ਮੱਛੀ,macchī,മത്സ്യം,matsyaṁ,fish
+25,यज्ञ,yajña,યજ્ઞ,yajña,যজ্ঞ,yagya,ਯੱਗ,yagg,യാഗം,yāgaṁ,ritual
+26,टपाल,ṭapāl,ટપાલ,ṭapāl,পোস্ট,pōsṭa,ਡਾਕ,ḍāk,തപാൽ,tapāl,post
+27,कंठ,kaṇṭha,કંઠ,kaṁṭha,কণ্ঠ,kaṇṭha,ਕੰਠ,kaṁṭh,കണ്ഠം,kaṇṭhaṁ,throat
+28,डब्बा,ḍabbā,ડબ્બો,ḍabbō,বাক্স,bāksa,ਡੱਬਾ,ḍabbā,പെട്ടി,peṭṭi,box
+29,ढोल,ḍhōl,ઢોલ,ḍhōl,ঢোল,ḍhōl,ਢੋਲ,ḍhōl,ഡ്രം,ḍram,drum
+30,वीणा,vīṇā,વીણા,vīṇā,বীণা,bīṇā,ਵੀਣਾ,vīṇā,വീണ,veeṇa,musical instrument
+31,डोके,ḍōke,માથું,māthūṁ,মাথা,māthā,ਸਿਰ,sir,തല,tala,head
+32,रथ,ratha,રથ,ratha,রথ,ratha,ਰਥ,rath,രഥം,rathaṁ,chariot
+33,माळ,māḷ,માળા,māḷā,মালা,mālā,ਮਾਲਾ,mālā,മാല,māla,garland
+34,धनुष्य,dhanuṣya,ધનુષ્ય,dhanuṣya,ধনুক,dhanuka,ਧਨੁਸ਼,dhanuś,ധനുസ്സ്,dhanussŭ,bow
+35,गोगलगाय,gōgalagāy,ગોકળગાય,gōkaḷagāya,শামুক,śāmuk,ਘੋਗਾ,ghōgā,ഒച്ച്,occŭ,snail
+36,पाटी,pāṭī,સ્લેટ,slēṭa,শ্লেট,ślēṭa,ਸਲੇਟ,salēṭ,സ്ലേറ്റ്,slēṟṟŭ,slate
+37,फळ,phaḷa,ફળ,phaḷa,ফল,phala,ਫਲ,phal,പഴം,paḻaṁ,fruit
+38,गाडी,gāḍī,ગાડી,gāḍī,গাড়ি,gāṛi,ਗੱਡੀ,gaḍḍī,വണ്ടി,vaṇṭi,cart
+39,शिपाई,śipāī,સૈનિક,sainika,সৈনিক,sainika,ਸਿਪਾਹੀ,sipāhī,ഭടൻ,bhaṭan,soldier
+40,ज्वाला,jvālā,જ્યોત,jyōta,শিখা,śikhā,ਅੱਗ,agg,തീജ്വാല,tījvāla,flame
+41,यंत्र,yantra,યંત્ર,yantra,যন্ত্র,yantra,ਯੰਤਰ,yaṁtar,യന്ത്രം,yantraṁ,machine
+42,रत्न,ratna,રત્ન,ratna,রত্ন,ratna,ਰਤਨ,ratan,രത്നം,ratnaṁ,gem
+43,वेल,vēla,વેલ,vēla,লতা,latā,ਵੇਲ,vēl,വള്ളി,vaḷḷi,creeper
+44,कुलूप,kulūp,તાળું,tāḷuṁ,তালা,tālā,ਤਾਲਾ,tālā,താഴി,tāḻi,lock
+45,जाळे,jāḷe,જાળ,jāḷa,জাল,jāla,ਜਾਲ,jāl,വല,vala,net
+46,शंख,śaṁkha,શંખ,śaṁkha,শঙ্খ,śaṅkha,ਸ਼ੰਖ,śaṁkh,ശംഖ്,śaṁkhŭ,conch
+47,बकरी,bakrī,બકરી,bakrī,ছাগল,chāgala,ਬੱਕਰੀ,bakkarī,ആട്,āṭŭ,goat
+48,पिशवी,piśavī,થેલો,thēlō,ব্যাগ,byāga,ਬੈਗ,baig,സഞ്ചി,sañci,bag
+49,हंस,haṁsa,હંસ,haṁsa,হংস,haṁsa,ਹੰਸ,haṁs,അരയന്നം,arayannaṁ,swan
+50,वृक्ष,vr̥kṣa,વૃક્ષ,vr̥kṣa,বৃক্ষ,br̥kṣa,ਰੁੱਖ,rukkh,വൃക്ഷം,vr̥kṣaṁ,tree
+51,करवत,karavat,કરવત,karavat,করাত,karāta,ਆਰੀ,ārī,അരമ്പം,arampaṁ,saw
+52,लाट,lāṭa,મોજુ,mōju,ঢেউ,ḍhēu,ਲਹਿਰ,lahir,തിരമാല,tiramāla,wave
+53,कपाट,kapāṭa,છેલ્લો,chēllō,তাক,tāka,ਅਲਮਾਰੀ,alamārī,ഷെൽഫ്,ṣelphŭ,shelf
+54,जंगल,jaṁgal,જંગલ,jaṁgal,জঙ্গল,jaṅgala,ਜੰਗਲ,jaṁgal,കാട്,kāṭŭ,forest
+55,अननस,ananas,અનાનસ,anānas,আনারস,ānāras,ਅਨਾਨਾਸ,anānās,കൈതച്ചക്ക,kaitaccakka,pineapple
+56,केळ,kēḷa,કેળું,kēḷuṁ,কলা,kalā,ਕੇਲਾ,kēlā,വാഴപ്പഴം,vāḻappaḻaṁ,plantain
+57,थकवणारे,thakavaṇāre,થાકેલું,thākēluṁ,ক্লান্তিকর,klāntikara,ਥਕਾਵਟ ਵਾਲਾ,thakāvaṭ vālā,ക്ഷീണം,kṣīṇaṁ,tiresome
+58,परवानगी,paravāṅagī,પરવાનગી,paravānagī,অনুমতি,anumati,ਇਜਾਜ਼ਤ,ijāzat,അനുമതി,anumati,permission
+59,खेळ,khēḷa,રમત,ramata,খেলা,khēlā,ਖੇਡ,khēḍ,കളി,kaḷi,game
+60,सहा,sahā,છ,cha,ছয়,chaẏa,ਛੇ,chē,ആറ്,ārŭ,six
+61,पाने,pāne,પાંદડાં,pāṁdāḍāṁ,পাতা,pātā,ਪੱਤੇ,patte,ഇലകൾ,ilakaḷ,leaves
+62,भूक,bhūka,ભૂખ,bhūkh,ক্ষুধা,kṣudhā,ਭੁੱਖ,bhukkh,വിശപ്പ്,viśappŭ,hunger
+63,इच्छा,icchā,ઈચ્છા,īcchā,ইচ্ছা,icchā,ਇੱਛਾ,icchā,ആഗ്രഹം,āgrahaṁ,desire
+64,आकाश,ākāśa,આકાશ,ākāśa,আকাশ,ākāśa,ਅਕਾਸ਼,akāś,ആകാശം,ākāśaṁ,sky
+65,मंदिर,maṁdira,મંદિર,maṁdira,মন্দির,mandira,ਮੰਦਿਰ,maṁdir,ക്ഷേത്രം,kṣētraṁ,temple
+66,पृथ्वी,pr̥thvī,પૃથ્વી,pr̥thvī,পৃথিবী,pr̥thibī,ਧਰਤੀ,dharatī,ഭൂമി,bhūmi,earth
+67,स्त्री,strī,સ્ત્રી,strī,নারী,nārī,ਔਰਤ,aurat,സ്ത്രീ,stree,lady
+68,वीट,vīṭa,ઈંટ,īṁṭa,ইঁট,ĩṭ,ਇੱਟ,iṭṭ,ഇഷ്ടിക,iṣṭika,brick
+69,वाळू,vāḷū,રેતી,rētī,বালি,bāli,ਰੇਤ,rēt,മണൽ,maṇal,sand
+70,लोखंड,lōkhaṁḍa,લોખંડ,lōkhaṁḍa,লোহা,lōhā,ਲੋਹਾ,lōhā,ഇരുമ്പ്,irumpŭ,iron
+71,अलीकडे,alīkaḍe,તાજેતરમાં,tājētaramāṁ,সম্প্রতি,samprati,ਹਾਲ ਹੀ ਵਿੱਚ,hāl hī vic,സമീപകാലത്ത്,sameepakālattŭ,recently
+72,या बाजूला,yā bājūlā,આ બાજુ,ā bāju,এই দিকে,ei dike,ਇਸ ਪਾਸੇ,is pāsē,ഈ ഭാഗത്ത്,ī bhāgattŭ,this side
+73,पोहणे,pōhaṇe,તરવું,taravuṁ,সাঁতার,sāṁtāra,ਤੈਰਾਕੀ,tairākī,നീന്തൽ,neentaḻ,swim
+74,पिसे,pise,પીંછા,pīṁchā,পালক,pālaka,ਖੰਭ,khaṁbh,ചിറകുകൾ,cirakukaḷ,feathers
+75,भाला,bhālā,ભાલો,bhālō,বর্শা,barśā,ਬਰਛਾ,baracā,കുന്തം,kuntaṁ,spear
+76,आज,āj,આજે,ājē,আজ,āj,ਅੱਜ,ajj,ഇന്ന്,innŭ,today
+77,भगवान शिव,bhagavān śiva,ભગવાન શિવ,bhagavān śiva,শিব,śiba,ਭਗਵਾਨ ਸ਼ਿਵ,bhagavān śiv,ഈശ്വരൻ,īśvaran,God Siva
+78,ताड वृक्ष,tāḍa vr̥kṣa,તાડનું વૃક્ષ,tāḍanuṁ vr̥kṣa,তাল গাছ,tāla gācha,ਤਾੜ ਦਾ ਰੁੱਖ,tāṛ dā rukkh,പന,pana,toddy tree
+79,शिट्टी वाजवणे,śiṭṭī vājūvūṇē,વ્હીસલિંગ,vhīsalīṁga,বাঁশি বাজানো,bāṁśi bājānō,ਸੀਟੀ ਵਜਾਉਣਾ,sīṭī vajāuṇā,വിസിൽ,visil,whistling
+80,छन्नी,channī,છીણી,chīṇī,ছেনি,chēni,ਛੈਣੀ,chaiṇī,ഉളി,uḷi,chistle
+81,पोलाद,pōlāda,સ્ટીલ,sṭīla,ইস্পাত,ispāta,ਸਟੀਲ,saṭīl,ഉരുക്ക്,urukkŭ,steel
+82,धुणे,dhuṇe,ધોવું,dhōvuṁ,ধোয়া,dhōẏā,ਧੋਣਾ,dhoṇā,അലക്കുക,alakkuka,wash
+83,गडगडणे,gaḍagaḍaṇe,ગર્જના,garjanā,বজ্র,bajra,ਗਰਜ,garaj,ഇടി,iṭi,thunder
+84,कुळीथ,kuḷītha,કુલથી,kulathī,কুলথী,kulathī,ਕੁਲਥੀ,kulathī,മുതിര,mutira,horsegram
+85,सकाळ,sakāḷa,સવાર,savār,সকাল,sakāla,ਸਵੇਰ,savēr,രാവിലെ,rāvile,morning
+86,गाव,gāva,ગામ,gāma,গ্রাম,grāma,ਪਿੰਡ,piṁḍ,ഗ്രാമം,grāmaṁ,village
+87,झरा,jharā,ઝરણું,jharaṇuṁ,ঝরনা,jharanā,ਝਰਨਾ,jharanā,നീരുറവ,neeruṟava,spring
+88,हवाई मुळे,havāī muḷe,હવાઈ મૂળ,havāī mūḷa,বায়বীয় শিকড়,bāẏabīẏa śikaṛa,ਹਵਾਈ ਜੜ੍ਹਾਂ,havāī jaṛhāṁ,വേരുകൾ,vērukaḷ,ariel roots
+89,श्वास,śvāsa,શ્વાસ,śvāsa,শ্বাস,śvāsa,ਸਾਹ,sāh,ശ്വാസം,śvāsaṁ,breath
+90,अंदाज,aṁdāj,અનુમાન,anumāna,অনুমান,anumāna,ਅੰਦਾਜ਼ਾ,aṁdāzā,ഊഹം,ūhaṁ,guess
+91,लोणचे,lōṇace,અથાણું,athāṇuṁ,আচার,āchāra,ਅਚਾਰ,acār,അച്ചാർ,accār,pickle
+92,सांत्वन,sāṁtvana,સાંત્વના,sāṁtvanā,সান্ত্বনা,sāntbanā,ਤਸੱਲੀ,tasallī,ആശ്വാസം,āśvāsaṁ,consolation
+93,ऋषी,r̥ṣī,ઋષિ,r̥ṣi,ঋষি,r̥ṣi,ਰਿਸ਼ੀ,riśī,ഋഷി,r̥ṣi,sage
+94,मंत्र,maṁtra,મંત્ર,maṁtra,মন্ত্র,mantra,ਮੰਤਰ,maṁtar,മന്ത്രം,mantraṁ,mantra
+95,बैल,baila,બળદ,baḷada,ষাঁড়,ṣāṁṛa,ਬਲਦ,balad,കാള,kāḷa,bull
+96,पुरावा,purāvā,પુરાવો,purāvō,প্রমাণ,pramāṇa,ਸਬੂਤ,sabūt,തെളിവ്,teḷivŭ,proof
+97,ऋतू,r̥tū,ઋતુ,r̥tu,ঋতু,r̥tu,ਰੁੱਤ,rutt,ഋതു,r̥tu,season
+98,कर्ज,karja,દેવું,dēvuṁ,ঋণ,r̥ṇa,ਕਰਜ਼ਾ,karzā,കടം,kaṭaṁ,debt
+99,आमिष,āmiṣa,દાણા,dāṇā,টোপ,ṭōpa,ਚਾਰਾ,cārā,ഇര,ira,bait
+100,उडणे,uḍaṇe,ઉડવું,uḍavuṁ,উড়া,uṛā,ਉੱਡਣਾ,uḍḍaṇā,പറക്കുക,paṟakkuka,fly
+101,हाड,hāḍa,હાડકું,hāḍakuṁ,হাড়,hāṛa,ਹੱਡੀ,haḍḍī,അസ്ഥി,asthi,bone
+102,वाळवंट,vāḷavaṁṭa,રણ,raṇa,মরুভূমি,marubhumi,ਮਾਰੂਥਲ,mārūthal,മരുഭൂമി,marubhūmi,desert
+103,लाल,lāla,લાલ,lāla,লাল,lāl,ਲਾਲ,lāl,ചുവപ്പ്,cuvappŭ,red
+104,निर्यात,niryāta,નિકાસ,nikās,রপ্তানি,raptāni,ਨਿਰਯਾਤ,niryāt,കയറ്റുമതി,kayaṟṟumati,export
+105,एकर,ekara,એકર,ekara,একর,ekara,ਏਕੜ,ēkaṛ,ഏക്കർ,ēkkar,acre of land
+106,सात,sāta,સાત,sāta,সাত,sāta,ਸੱਤ,satt,ഏഴ്,ēḻŭ,seven
+107,नदी,nadī,નદી,nadī,নদী,nadī,ਨਦੀ,nadī,നദി,nadi,river
+108,हत्ती,hattī,હાથી,hāthī,হাতি,hāti,ਹਾਥੀ,hāthī,ആന,āna,elephant
+109,शासक,śāsaka,શાસક,śāsaka,শাসক,śāsaka,ਸ਼ਾਸਕ,śāsak,ഭരണാധികാരി,bharaṇādhikāri,ruler
+110,उचलणे,ucalaṇe,ઉપાડવું,upāḍavuṁ,তুলে নেওয়া,tule nē'ōẏā,ਚੁੱਕਣਾ,chukkaṇā,എടുക്കുക,eṭukkuka,picking up
+111,तिरकस,tirakasa,તિરછું,tirachuṁ,ঢালু,ḍhālu,ਢਲਾਣ,ḍhalāṇ,ചരിവ്,carivŭ,slant
+112,वेलची,vēlacī,એલચી,ēlacī,এলাচ,ēlāca,ਇਲਾਇਚੀ,ilāichī,ഏലക്കായ്,ēlakkāy,cardamom
+113,पण,paṇa,પણ,paṇa,কিন্তু,kintu,ਪਰ,par,പക്ഷേ,pakṣe,but
+114,एकता,ēkatā,એકતા,ēkatā,ঐক্য,aikya,ਏਕਤਾ,ēkatā,ഐക്യം,aikyaṁ,unity
+115,पाच रुपये,pāca rupaye,પાંચ રૂપિયા,pāṁcha rūpiyā,পাঁচ টাকা,pāṁca ṭākā,ਪੰਜ ਰੁਪਏ,paṁj rupayē,അഞ്ച് രൂപ,añcŭ rūpa,five rupees
+116,ऐश्वर्य,aiśvarya,ઐશ્વર્ય,aiśvarya,ঐশ্বর্য,aiśvarya,ਐਸ਼ਵਰਿਆ,aiśvariyā,ഐശ്വര്യം,aiśvaryaṁ,wealth
+117,ऐहिक,aihika,ઐਹિક,aihika,ঐহিক,aihika,ਸੰਸਾਰਕ,saṁsārak,ഐഹികം,aihikaṁ,worldliness
+118,ऐरावत,airāvata,ઐરાવત,airāvata,ঐরাবত,airābata,ਐਰਾਵਤ,airāvat,ഐരാവതം,airāvataṁ,white elephant
+119,एक,ēka,એક,ēka,এক,ēka,ਇਕ,ik,ഒന്ന്,onnŭ,one
+120,उंट,uṁṭ,ઊંટ,ūṁṭ,উট,uṭa,ਊਠ,ūṭh,ഒട്ടകം,oṭṭakaṁ,camel
+121,मांडी,māṁḍī,ખોળો,khōḷō,কোল,kōla,ਗੋਦ,gōd,മടി,maṭi,lap
+122,जुळवून घेणे,juḷavūna ghēṇe,ગોઠવવું,gōṭhavavuṁ,সমন্বয় করা,samanbaẏa karā,ਅਨੁਕੂਲ ਹੋਣਾ,anukūl hōṇā,ക്രമീകരിക്കുക,kramīkarikkuka,adjust
+123,एक माणूस,ēka māṇūsa,એક માણસ,ēka māṇasa,এক জন লোক,ēka jana lōka,ਇਕ ਆਦਮੀ,ik ādamī,ഒരു മനുഷ്യൻ,oru manuṣyan,one man
+124,एकटे व्यक्ती,ēkaṭe vyaktī,એકલવાયો વ્યક્તિ,ēkalavāyō vyakti,একাকী ব্যক্তি,ēkākī byakti,ਇਕੱਲਾ ਵਿਅਕਤੀ,ikallā viakatī,ഒറ്റപ്പെട്ടയാൾ,oṟṟappeṭṭayāḷ,lonely person
+125,घर्षण,gharṣaṇa,ઘર્ષણ,gharṣaṇa,ঘর্ষণ,gharṣaṇa,ਰਗੜ,ragaṛ,ഘർഷണം,gharṣaṇaṁ,friction
+126,पराभव,parābhava,હાર,hāra,পরাজয়,parājaẏa,ਹਾਰ,hār,തോൽവി,tōlvi,defeat
+127,सहन करणे,sahana karaṇe,સહન કરવું,sahana karavuṁ,সহ্য করা,sahya karā,ਸਹਿਣ ਕਰਨਾ,sahiṇ karanā,സഹിക്കുക,sahikkuka,bear
+128,मत,mata,મત,mata,ভোট,bhōṭa,ਵੋਟ,vōṭ,വോട്ട്,vōṭṭŭ,vote
+129,संयम,saṁyama,ધીરજ,dhīraja,ধৈর্য,dhairya,ਸਬਰ,sabar,ക്ഷമ,kṣama,patience
+130,औषध,auṣadha,ઔષધ,auṣadha,ঔষধ,auṣadha,ਦਵਾਈ,davāī,ഔഷധം,auṣadhaṁ,medicine
+131,बंदर,baṁdara,બંદર,baṁdara,বন্দর,bandara,ਬੰਦਰਗਾਹ,baṁdaragāh,തുറമുഖം,tuṟamukhaṁ,harbour
+132,बाराखडी,bārākhaḍī,મૂળાક્ષર,mūḷākṣara,বর্ণমালা,barnamālā,ਵਰਣਮਾਲਾ,varaṇamālā,അക്ഷരമാല,akṣaramāla,alphabet
+133,बॉम्ब,bômb,બોમ્ਬ,bômba,বোমা,bōmā,ਬੰਬ,baṁb,ബോംബ്,bômbu,bomb
+134,होय,hōya,હા,hā,হ্যাঁ,hyāṁ,ਹਾਂ,hāṁ,അതെ,ate,yes
+135,हे आहे का,hē āhē kā,શું તે છે,śuṁ tē chē,এটা কি,ēṭā ki,ਕੀ ਇਹ ਹੈ,kī ih hai,അതോ,atō,is it
+136,औचित्य,aucitya,યોગ્યતા,yōgyatā,ঔচিত্য,aucitya,ਯੋਗਤਾ,yōgatā,ഔചിത്യം,aucityaṁ,aptness
+137,उदारता,udāratā,ઉદારતા,udāratā,উদারতা,udāratā,ਉਦਾਰਤਾ,udāratā,ഔദാര്യം,audāryaṁ,magnanimity
+138,सर्व,sarva,સમગ્ર,samagra,সব,saba,ਸਾਰਾ,sārā,മുഴുവൻ,muḻuvan,whole
+139,सौंदर्य,sauṁdarya,સુંદરતા,sundaratā,সৌন্দর্য,saundarya,ਸੁੰਦਰਤਾ,suṁdaratā,സൗന്ദര്യം,sauṁdaryaṁ,beauty
+140,किनारा,kinārā,ધાર,dhāra,কিনারা,kinārā,ਕਿਨਾਰਾ,kinārā,അരിക,arika,border
+141,अंत,aṁta,અંત,aṁta,শেষ,śēṣa,ਅੰਤ,aṁt,അവസാനം,avasānaṁ,end
+142,समर्पण,samarpaṇa,સમર્પણ,samarpaṇa,উৎসর্গ,utsarga,ਸਮਰਪਣ,samarpaṇ,സമർപ്പണം,samarppaṇaṁ,dedication
+143,कमल,kamala,કમળ,kamaḷa,পদ্ম,padma,ਕਮਲ,kamal,താമര,tāmara,lotus
+144,अंतःपूर,aṁtaḥpūra,અંતઃપુર,aṁtaḥpura,অন্তঃপুর,antaḥpura,ਅੰਤਹਪੁਰ,aṁtahpur,അന്തഃപുരം,antaḥpuraṁ,inner chamber
+145,आंतरिक शत्रू,āṁtarika śatrū,આંતરિક દુશ્મન,āṁtarika duśmana,অভ্যন্তরীণ শত্রু,abhyantarīṇa śatru,ਅੰਦਰੂਨੀ ਦੁਸ਼ਮਣ,aṁdarūnī duśmaṇ,ആന്തരിക ശത്രു,āntarika śatru,internal enemy
+146,आंतरिक क्रिया,āṁtarika kriyā,આંતરિક પ્રવૃત્તિ,āṁtarika pravr̥tti,অভ্যন্তরীণ কার্যকলাপ,abhyantarīṇa kāryakalāpa,ਅੰਦਰੂਨੀ ਗਤੀਵਿਧੀ,aṁdarūnī gatividhī,ആന്തരിക പ്രവർത്തനം,āntarika pravarttanaṁ,inner activity
+147,आंतरिक कोन,āṁtarika kōna,આંતરિક કોણ,āṁtarika kōṇa,অভ্যন্তরীণ কোণ,abhyantarīṇa kōṇa,ਅੰਦਰੂਨੀ ਕੋਣ,aṁdarūnī kōṇ,ആന്തരിക കോൺ,āntarika kōṇ,inner angle
+148,कंद,kaṁda,કંદ,kaṁda,কন্দ,kanda,ਕੰਦ,kaṁd,ചേന,cēna,yam
+149,पेन,pēna,પેન,pēna,কলম,kalama,ਕਲਮ,kalam,പേന,pēna,pen
+150,माठ,māṭha,માટલું,māṭaluṁ,কলস,kalasa,ਘੜਾ,ghaṛā,കുടുക്ക,kuṭukka,pot
+151,समुद्र,samudra,દરિયો,dariō,সমুদ্র,samudra,ਸਮੁੰਦਰ,samuṁdar,കടൽ,kaṭal,sea
+152,पोट,pōṭa,પેટ,pēṭa,পেট,pēṭa,ਢਿੱਡ,ḍhiḍḍ,വയറ്,vayaṟŭ,stomach
+153,सोने,sōnē,સોનું,sōnuṁ,সোনা,sōnā,ਸੋਨਾ,sōnā,സ്വർണ്ണം,svarṇṇaṁ,gold
+154,जुळे,juḷē,જોડિયા,jōḍiyā,জমজ,jamaja,ਜੁੜਵਾਂ,juṛavāṁ,ഇരട്ടകൾ,iraṭṭakaḷ,twins
+155,खाण,khāṇa,ખાણ,khāṇa,খনি,khani,ਖਾਨ,khān,ഖനി,khani,mine
+156,गाढव,gāḍhava,ગધેડો,gadhēḍō,গাধা,gādhā,ਗਧਾ,gadhā,കഴുത,kaḻuta,ass
+157,किंमत,kiṁmata,કિંમત,kiṁmata,দাম,dāma,ਕੀਮਤ,kīmat,വില,vila,price
+158,पक्षी,pakṣī,પક્ષી,pakṣī,পাখি,pākhi,ਪੰਛੀ,paṁchī,പക്ഷി,pakṣi,bird
+159,खजूर,khajūra,ખજૂર,khajūra,খেজুর,khējura,ਖਜੂਰ,khajūr,ഈന്തപ്പഴം,īntappazhaṁ,date
+160,खनिज,khanija,ખનિજ,khanija,খনিজ,khanija,ਖਣਿਜ,khaṇij,ധാതു,dhātu,mineral
+161,खोली,khōlī,રૂમ,rūma,ঘর,ghara,ਕਮਰਾ,kamarā,മുറി,muṟi,room
+162,उंबरठा,uṁbaraṭhā,ઉંબર,uṁbara,প্রবেশদ্বার,prabēśadvāra,ਦਹਿਲੀਜ਼,dahalīz,ഉമ്മറപ്പടി,ummarappaṭi,threshold
+163,गदा,gadā,ગદા,gadā,গদা,gadā,ਗਦਾ,gadā,ഗദ,gada,club
+164,गवत,gavata,ઘાસ,ghāsa,ঘাস,ghāsa,ਘਾਹ,ghāh,പുല്ല്,pullŭ,grass
+165,हत्ती,hattī,હાથી,hāthī,হাতি,hāti,ਹਾਥੀ,hāthī,ആന,āna,elephant
+166,विष,viṣa,ઝેર,jhēra,বিষ,biṣa,ਜ਼ਹਿਰ,zahir,വിഷം,viṣaṁ,poison
+167,आकाश,ākāśa,આકાશ,ākāśa,আকাশ,ākāśa,ਅਕਾਸ਼,akāś,ആകാശം,ākāśaṁ,sky
+168,घटना,ghaṭanā,ઘટના,ghaṭanā,ঘটনা,ghaṭanā,ਘਟਨਾ,ghaṭanā,സംഭവം,saṁbhavaṁ,incident
+169,घन,ghana,ઘન,ghana,ঘন,ghana,ਘਣ,ghaṇ,കട്ടിയുള്ള,kaṭṭiyuḷḷa,solid
+170,घंटीचा आवाज,ghaṁṭīcā āvāza,ઘંટડીનો અવાજ,ghaṁṭaḍīnō avāja,ঘণ্টার শব্দ,ghaṇṭāra śabda,ਘੰਟੀ ਦੀ ਆਵਾਜ਼,ghaṁṭī dī āvāz,മണിയൊച്ച,maṇiyocca,sound of the bell
+171,वाजणे,vājanē,રિંગિંગ,riṁgiṁga,ঘণ্টা বাজানো,ghaṇṭā bājānō,ਰਿੰਗਿੰਗ,riṁgiṁg,മുഴങ്ങുന്നു,muḻaṅṅunnu,ringing
+172,सक्षम व्यक्ती,sakṣama vyaktī,સક્ષમ વ્યક્તિ,sakṣama vyakti,সক্ষম ব্যক্তি,sakṣama byakti,ਸਮਰੱਥ ਵਿਅਕਤੀ,samaratth viakatī,സാമർത്ഥ്യമുള്ളവൻ,sāmartthyamuḷḷavan,capable person
+173,घर्षण,gharṣaṇa,ઘર્ષણ,gharṣaṇa,ঘর্ষণ,gharṣaṇa,ਘਿਰਣ,ghiraṇ,ഘർഷണം,gharṣaṇaṁ,friction
+174,देवी सरस्वती,dēvī sarasvatī,દેવી સરસ્વતી,dēvī sarasvatī,দেবী সরস্বতী,dēbī sarasbatī,ਦੇਵੀ ਸਰਸਵਤੀ,dēvī sarasavatī,സരസ്വതി ദേവി,sarasvati dēvi,Goddess Saraswati
+175,वाङ्मय,vāṅmaya,વાડ્મય,vāḍmaya,বাঙ্ময়,bāṅmaẏa,ਵਾਙਮਯ,vāṅamaẏa,വാങ്മയം,vāṅmayaṁ,literature
+176,साहित्यिक,sāhityika,સાહિત્યકાર,sāhityakāra,সাহিত্যিক,sāhityika,ਸਾਹਿਤਕਾਰ,sāhitakār,സാഹിത്യകാരൻ,sāhityakāran,litterateur
+177,थंडी,thaṇḍī,ઠંડી,ṭhaṁḍī,ঠান্ডা,ṭhānḍā,ਠੰਢ,ṭhaṇḍh,തണുപ്പ്,taṇuppŭ,chill
+178,चाकू,cākū,ચાકુ,cāku,ছুরি,churi,ਚਾਕੂ,cākū,ചാക്കു,cākku,pen knife
+179,चक्र,cakra,ચક્ર,cakra,চক্র,chakra,ਚੱਕਰ,cakkar,ചക്രം,cakraṁ,wheel
+180,चंदन,caṁdana,ચંદન,caṁdana,চন্দন,candana,ਚੰਦਨ,caṁdan,ചന്ദനം,candanaṁ,sandalwood
+181,वाचणे,vācaṇe,વાંચવું,vāṁcavavuṁ,পড়া,paṛā,ਪੜ੍ਹਨਾ,paṛhanā,വായിക്കുക,vāyikkuka,read
+182,चंपक,caṁpaka,ચંપક,caṁpaka,চম্পক,campaka,ਚੰਪਕ,caṁpak,ചെമ്പകം,ceṁpakaṁ,flower
+183,चकोर,cakōra,ચકોર,cakōra,চক্র,chakra,ਚਕੋਰ,cakōr,ചകോരം,cakōraṁ,square
+184,छंदशास्त्र,chaṁdaśāstra,છંદશાસ્ત્ર,chadasāstra,ছন্দ,chanda,ਛੰਦ,chaṁd,ഛന്ദസ്സ്,chandassŭ,prosody
+185,शिवाजी,śivājī,શિવાજી,śivājī,শিবাজী,śibājī,ਸ਼ਿਵਾਜੀ,śivājī,ഛത്രപതി,chatrapati,śivāji
+186,छाया,chāyā,છાયા,chāyā,ছায়া,chāẏā,ਛਾਂ,chāṁ,ഛായ,chāya,shadow
+187,चातुर्य,cāturya,ચતુરાઈ,caturā'ī,চাতুর্য,cāturyē,ਚਤੁਰਾਈ,caturāī,പരിഹാസം,parihāsaṁ,repartee
+188,मशरूम,maśarūma,મશરૂમ,maśarūma,মাশরুম,māśaruma,ਮਸ਼ਰੂਮ,maśarūm,കൂൺ,kūṇ,mushroom
+189,जोडी,jōḍī,જોડી,jōḍī,জোড়া,jōṛā,ਜੋੜਾ,jōṛā,ജോഡി,jōḍi,pair
+190,पेरू,pērū,જામફળ,jāmaphaḷa,পেয়ারা,pēẏārā,ਅਮਰੂਦ,amarūd,പേരക്ക,pērakka,guava
+191,पाणी,pāṇī,પાણી,pāṇī,জল,jala,ਪਾਣੀ,pāṇī,വെള്ളം,veḷḷaṁ,water
+192,विजय,vijaya,વિજય,vijaya,বিজয়,bijaya,ਜਿੱਤ,jitt,വിജയം,vijayaṁ,triumph
+193,भांडण,bhāṁḍaṇa,ઝઘડો,jhagaḍō,ঝগড়া,jhagaṛā,ਝਗੜਾ,jhagaṛā,വഴക്ക്,vaḻakkŭ,quarrel
+194,जन्म,janma,જન્મ,janma,জন্ম,janma,ਜਨਮ,janam,ജനനം,jananaṁ,birth
+195,वेळ,vēḷa,સમય,samaya,সময়,samaẏa,ਸਮਾਂ,samāṁ,സമയം,samayaṁ,time
+196,मासा,māsā,માછલી,māchalī,মাছ,māch,ਮੱਛੀ,macchī,മത്സ്യം,matsyaṁ,fish
+197,गुणगुणणे,guṇaguṇaṇe,ગુંજન,guṁjana,গুঞ্জন,guñjana,ਗੂੰਜ,gūṁj,മൂളൽ,mūḷal,humming
+198,पर्वत प्रवाह,parvata pravāha,પર્વત પ્રવાહ,parvata pravāha,পাহাড়ি ধারা,pāhāṛi dhārā,ਪਹਾੜੀ ਝਰਨਾ,pahāṛī jharanā,മലയോരം,malayōraṁ,mountain stream
+199,वादळ,vādaḷa,વાવાઝોડું,vāvājhōḍuṁ,ঝড়,jhaṛa,ਤੂਫ਼ਾਨ,tūfān,കൊടുങ്കാറ്റ്,koṭuṅkāṟṟŭ,storm
+200,आज्ञा,ājñā,આજ્ઞા,ājñā,আজ্ঞা,ājñā,ਆਗਿਆ,āgiā,ആജ്ഞ,ājña,command
+201,प्रतीक,pratīka,પ્રતીક,pratīka,প্রতীক,pratīka,ਪ੍ਰਤੀਕ,pratīk,പ്രതീകം,prateekaṁ,symbol
+202,ज्ञान,jñāna,જ્ઞાન,jñāna,জ্ঞান,jñāna,ਗਿਆਨ,giān,ജ്ഞാനം,jñānaṁ,knowledge
+203,विनंती,vinantī,વિનંતી,vinantī,অনুরোধ,anurōdha,ਬੇਨਤੀ,bēnatī,അഭ്യർത്ഥന,abhyartthana,request
+204,टपाल,ṭapāl,ટપાલ,ṭapāl,পোস্ট,pōsṭa,ਡਾਕ,ḍāk,തപാൽ,tapāl,post
+205,युक्ती,yukatī,યુક્તિ,yukti,কৌশল,kauśala,ਚਾਲ,cāl,തന്ത്രം,tantraṁ,trick
+206,फटाके,phaṭāke,ફટાકડા,phaṭākaḍā,পটকা,paṭakā,ਪਟਾਕੇ,paṭākē,പടക്കം,paṭakkaṁ,crackers
+207,धूर्त माणूस,dhūrta māṇūsa,ચાલાક વ્યક્તિ,chālāk vyakti,ধূর্ত ব্যক্তি,dhūrta byakti,ਚਾਲਾਕ ਵਿਅਕਤੀ,cālāk viakatī,കുറുക്കൻ,kurukkan,cunning fellow
+208,टांकसाळ,ṭāṁkasāḷa,ટંકશાળ,ṭaṁkaśāḷa,টাকশাল,ṭākaśāla,ਟਕਸਾਲ,ṭakasāl,നാണയം,nāṇayaṁ,mint
+209,पोलीस ठाणे,pōlīsa ṭhāṇe,પોલીસ સ્ટેશન,pōlīsa sṭēśana,থানা,thānā,ਪੁਲਿਸ ਥਾਣਾ,pulis thāṇā,പോലീസ് സ്റ്റേഷൻ,pōlees sṭēṣan,police station
+210,शैली,śailī,શૈલી,śailī,শৈলী,śailī,ਸ਼ੈਲੀ,śailī,ശൈലി,śaili,style
+211,धडा,dhaḍā,પાઠ,pāṭha,পাঠ,pāṭha,ਪਾਠ,pāṭh,പാഠം,pāṭhaṁ,lesson
+212,गोड,gōḍa,મીઠાઈ,mīṭhā'ī,মিষ্টি,miṣṭi,ਮਿੱਠਾ,miṭṭhā,മധുരം,madhuraṁ,sweet
+213,शाळा,śāḷā,શાળા,śāḷā,বিদ্যালয়,bidyālaẏa,ਸਕੂਲ,sakūl,സ്കൂൾ,skūḷ,school
+214,गळा,gaḷā,ગળું,gaḷuṁ,গলা,galā,ਗਲਾ,galā,കഴുത്ത്,kaḻuttŭ,throat
+215,रोख,rōkha,રોકડ,rōkaḍa,নগদ,nagada,ਨਕਦ,nakad,പണം,paṇaṁ,cash
+216,ढाल,ḍhāla,ઢાલ,ḍhāla,ঢাল,ḍhāl,ਢਾਲ,ḍhāl,പരിച,parica,shield
+217,डमरू,ḍamarū,ડમરુ,ḍamaru,ডমরু,ḍamaru,ਡਮਰੂ,ḍamarū,ഡമരു,ḍamaru,small drum
+218,बढाई मारणे,baḍhā'ī māraṇe,બડાઈ મારવી,baḍā'ī māravī,গর্জন,garjana,ਡੰਬ,ḍaṁb,സ്തോത്രം,stōtraṁ,boasting
+219,डझन,ḍajhana,ડઝન,ḍajana,ডজন,ḍajana,ਦਰਜਨ,darajan,ഡസൻ,ḍasan,12 pieces
+220,संघर्ष,saṁgharṣa,ઘર્ષણ,gharṣaṇa,সংঘর্ষ,saṁgharṣa,ਟਕਰਾਅ,ṭakarāa,സംഘർഷം,saṁgharṣaṁ,clash
+221,ढाल,ḍhāla,ઢાલ,ḍhāla,ঢাল,ḍhāl,ਢਾਲ,ḍhāl,പരിച,parica,shield
+222,मोठा ढोल,mōṭhā ḍhōl,મોટો ઢોલ,mōṭō ḍhōl,বড় ঢোল,baṛa ḍhōl,ਵੱਡਾ ਢੋਲ,vaḍḍā ḍhōl,വലിയ ഡ്രം,valiya ḍram,big drum
+223,स्फोट,sphōṭa,બ્લાસ્ટ,blāsṭa,বিস্ফোরণ,bisphōraṇa,ਧਮਾਕਾ,dhamākā,സ്ഫോടനം,sphoṭanaṁ,blast
+224,पृथ्वी,pr̥thvī,પૃથ્વી,pr̥thvī,পৃথিবী,pr̥thibī,ਧਰਤੀ,dharatī,ഭൂമി,bhūmi,earth
+225,करुणा,karuṇā,કરુણા,karuṇā,করুণা,karuṇā,ਦਇਆ,da'iā,കരുണ,karuṇa,compassion
+226,बासरी,bāsarī,વાંસળી,vāṁsaḷī,বাঁশি,bāṁśi,ਬੰਸਰੀ,baṁsarī,ഓടക്കുഴൽ,ōṭakkuzhal,flute
+227,लग्न,lagna,લગ્ન,lagna,বিবাহ,bibāha,ਵਿਆਹ,viāh,വിവാഹം,vivāhaṁ,marriage
+228,दागिना,dāginā,આભૂષણ,ābhuṣaṇa,অলঙ্কার,alaṅkāra,ਗਹਿਣਾ,gaihiṇā,ആഭരണം,ābharaṇaṁ,ornament
+229,दरवाजा,daravājā,દરવાજો,daravājō,দরজা,darajā,ਦਰਵਾਜ਼ਾ,daravāzā,വാതിൽ,vātiḷ,door
+230,दोरी,dōrī,દોરડું,dōraḍuṁ,দড়ি,daṛi,ਰੱਸੀ,rassī,കയർ,kayar,rope
+231,आजोबा,ājōbā,દાદા,dādā,দাদা,dādā,ਦਾਦਾ,dādā,മുത്തച്ഛൻ,muttacchan,grandfather
+232,झाड,jhāḍa,વૃક્ષ,vr̥kṣa,গাছ,gācha,ਰੁੱਖ,rukkh,മരം,maraṁ,tree
+233,मुलगी,mulagī,પુત્રી,putrī,কন্যা,kanyā,ਧੀ,dhī,മകൾ,makaḷ,daughter
+234,वर्ग,varga,વર્ગ,varga,শ্রেণী,śrēṇī,ਕਲਾਸ,kalās,ക്ലാസ്,klās,class
+235,लाट,lāṭa,મોજુ,mōju,ঢেউ,ḍhēu,ਲਹਿਰ,lahir,തിരമാല,tiramāla,wave
+236,पाहुणा,pāhuṇā,મહેમાન,mahemāna,অতিথি,atithi,ਮਹਿਮਾਨ,mahimān,അതിഥി,atithi,guest
+237,मार्ग,mārga,માર્ગ,mārga,পথ,patha,ਰਾਹ,rāh,വഴി,vaḻi,way
+238,कथा,kathā,વાર્તા,vārtā,গল্প,galpa,ਕਹਾਣੀ,kahāṇī,കഥ,katha,story
+239,रथ,ratha,રથ,ratha,রথ,ratha,ਰਥ,rath,രഥം,rathaṁ,chariot
+240,शपथ,śapatha,શપથ,śapatha,শপথ,śapatha,ਸਹੁੰ,sahuṁ,ശപഥം,śapathaṁ,vow
+241,मंथन,maṁthana,મંથન,maṁthana,মন্থন,manthana,ਮੰਥਨ,maṁthan,മഥനം,mathanaṁ,churning
+242,दात,dāta,દાંત,dāṁta,দাঁত,dāṁta,ਦੰਦ,daṁd,പല്ല്,pallŭ,tooth
+243,कुंपण,kuṁpaṇa,વાડ,vāḍa,বেড়া,bēṛā,ਵਾੜ,vāṛ,വേലി,vēli,fence
+244,मार्ग,mārga,માર્ગ,mārga,পথ,patha,ਰਾਹ,rāh,വഴി,vaḻi,way
+245,माळ,māḷa,માળા,māḷā,মালা,mālā,ਮਾਲਾ,mālā,മാല,māla,garland
+246,देणगी,dēṇagī,દાન,dāna,দান,dāna,ਦਾਨ,dān,ദാനം,dānaṁ,donation
+247,शिक्षा,śikṣā,સજા,sajā,শাস্তি,śāsti,ਸਜ਼ਾ,sazā,ശിക്ഷ,śikṣa,punishment
+248,किंमत,kiṁmata,ભાવ,bhāva,দাম,dāma,ਕੀਮਤ,kīmat,വില,vila,price
+249,धनुष्य,dhanuṣya,ધનુષ્ય,dhanuṣya,ধনুক,dhanuka,ਧਨੁਸ਼,dhanuś,വില്ല്,villŭ,bow
+250,प्रवाह,pravāha,પ્રવાહ,pravāha,ধারা,dhārā,ਧਾਰਾ,dhārā,ധാര,dhāra,stream
+251,धमनी,dhamanī,ધમની,dhamanī,ধমনী,dhamanī,ਧਮਨੀ,dhamanī,ധമനി,dhamani,vein
+252,पैसा,paisā,પૈસા,paisā,টাকা,ṭākā,ਪੈਸਾ,paisā,പണം,paṇaṁ,money
+253,पांढरा,pāṁḍharā,સફેદ,sapheda,সাদা,sādā,ਚਿੱਟਾ,ciṭṭā,വെള്ള,veḷḷa,white
+254,चमकदार,camakadāra,ચળકતું,caḷakatuṁ,চকচকে,cakacakē,ਚਮਕਦਾਰ,camakadār,മിന്നുന്ന,minnunna,glittering
+255,स्त्री,strī,સ્ત્રી,strī,নারী,nārī,ਔਰਤ,aurat,സ്ത്രീ,stree,woman
+256,अभिनेत्री,abhinetrī,અભિનેત્રી,abhinētrī,অভিনেত্রী,abhinētrī,ਅਭਿਨੇਤਰੀ,abhinetarī,നടി,naṭi,actress
+257,दागिने,dāgine,ઝવેરાત,jhavērāta,গয়না,gaẏanā,ਗਹਿਣੇ,gaihiṇe,ആഭരണങ്ങൾ,ābhaṇaṅṅaḷ,jewelry
+258,चालणे,cālaṇe,ચાલવું,cālavuṁ,হাঁটা,hāṁṭā,ਤੁਰਨਾ,turanā,നടക്കുക,naṭakkuka,walk
+259,मध्यभागी,madhyabhāgī,વચ્ચે,vaccē,মাঝখানে,mājakhānē,ਵਿਚਕਾਰ,vicakār,മധ്യത്തിൽ,madhyattil,middle
+260,आचरण,ācaraṇa,આચરણ,ācaraṇa,আচরণ,ācaraṇa,ਚਾਲ-ਚਲਣ,cāl-calṇ,നടപ്പ്,naṭappŭ,conduct
+261,मध्यरात्र,madhyarātra,મધ્યરાત્રિ,madhyarātri,মধ্যরাত,madhyarāta,ਅੱਧੀ ਰਾਤ,addhī rāt,അർദ്ധരാത്രി,arddharātri,midnight
+262,काम,kāma,કામ,kāma,কাজ,kāja,ਕੰਮ,kamm,ജോലി,jōli,work
+263,बिछाना,bichānā,પથારી,pathārī,বিছানা,bichānā,ਬਿਸਤਰਾ,bisatarā,കിടക്ക,kiṭakka,bed
+264,होडी,hōḍī,હોડી,hōḍī,নৌকা,naukā,ਕਿਸ਼ਤੀ,kiśatī,വഞ്ചി,vañci,boat
+265,पाटी,pāṭī,સ્લેટ,slēṭa,শ্লেট,ślēṭa,ਸਲੇਟ,salēṭ,സ്ലേറ്റ്,slēṟṟŭ,slate
+266,दिवस,divasa,દિવસ,divasa,দিন,dina,ਦਿਨ,din,പകൽ,pakal,day
+267,पोवळे,pōvaḷe,વાળું,vāḷuṁ,প্রবাল,prabāla,ਮੂੰਗਾ,mūṁgā,പവിഴം,paviḻaṁ,coral
+268,सर्प,sarpa,સાપ,sāpa,সর্প,sarpa,ਸੱਪ,sapp,പാമ്പ്,pāmpŭ,snake
+269,निकाल,nikāla,પરિણામ,pariṇāma,ফলাফল,phalāphala,ਨਤੀਜਾ,natījā,ഫലം,phalaṁ,result
+270,प्लेट,plēṭa,પ્લેટ,plēṭa,প্লেট,plēṭa,ਪਲੇਟ,palēṭ,തകിട്,takiṭŭ,plate
+271,अर्जुन,arjuna,અર્જુન,arjuna,অর্জুন,arjuna,ਅਰਜੁਨ,arjun,അർജ്ജുനൻ,arjjunan,arjuna
+272,सीताफळ,sītāphaḷa,સીતાફળ,sītāphaḷa,সীতাফল,sītāphala,ਸੀਤਾਫਲ,sītāphal,സീതപ്പഴം,seetappazhaṁ,custard apple
+273,नाश्ता,nāśtā,નાસ્તો,nāstō,জলখাবার,jalakhābāra,ਨਾਸ਼ਤਾ,nāśatā,ഭക്ഷണം,bhakṣaṇaṁ,tiffin
+274,शाळा,śāḷā,શાળા,śāḷā,স্কুল,skula,ਸਕੂਲ,sakūl,സ്കൂൾ,skūḷ,school
+275,निवास,nivāsa,આવાસ,āvāsa,আবাস,ābāsa,ਰਿਹਾਇਸ਼,rihāiś,താമസം,tāmasaṁ,accomodation
+276,चेंडू,cēṁḍū,દડો,daḍō,বল,bala,ਗੇਂਦ,gēṁd,പന്ത്,pantŭ,ball
+277,शक्ती,śaktī,શક્તિ,śakti,শক্তি,śakti,ਤਾਕਤ,tākat,ബലം,balaṁ,strength
+278,सारस,sārasa,સારસ,sārasa,সারস,sārasa,ਕ੍ਰੇਨ,krēn,കൊക്ക്,kokkŭ,crane
+279,गाडी,gāḍī,ગાડી,gāḍī,গাড়ি,gāṛi,ਗੱਡੀ,gaḍḍī,വണ്ടി,vaṇṭi,cart
+280,स्लेट पेन्सिल,slēṭa pēnsila,સ્લેટ પેન્સિલ,slēṭa pēnsila,শ্লেট পেন্সিল,ślēṭa pēnsila,ਸਲੇਟ ਪੈਨਸਿਲ,salēṭ painasil,സ്ലേറ്റ് പെൻസിൽ,slēṟṟŭ pensil,slate pencil
+281,इमारत,imārata,ઇમારત,imārata,ভবন,bhavana,ਇਮਾਰਤ,imārat,കെട്ടിടം,keṭṭiṭaṁ,building
+282,भक्ती,bhaktī,ભક્તિ,bhakti,ভক্তি,bhakti,ਭਗਤੀ,bhagatī,ഭക്തി,bhakti,devotion
+283,शाबास,śābāsa,શાબાશ,śābāśa,সাবাশ,sābāśa,ਸ਼ਾਬਾਸ਼,śābāś,കൊള്ളാം,koḷḷāṁ,well done
+284,भय,bhaya,ભય,bhaya,ভয়,bhaẏa,ਡਰ,ḍar,ഭയം,bhayaṁ,fear
+285,सहन करणे,sahana karaṇe,સહન કરવું,sahana karavuṁ,সহ্য করা,sahya karā,ਸਹਿਣ ਕਰਨਾ,sahiṇ karanā,സഹിക്കുക,sahikkuka,bear
+286,अपमान,apamāna,અપમાન,apamāna,অপমান,apamāna,ਅਪਮਾਨ,apamān,അപമാനം,apamānaṁ,insult
+287,स्क्रू,skrū,સ્ક્રુ,skru,স্ক্রু,skru,ਪੇਚ,pēc,സ്ക്രൂ,skrū,screw
+288,औषध,auṣadha,દવા,davā,ঔষধ,auṣadha,ਦਵਾਈ,davāī,മരുന്ന്,marunnŭ,medicine
+289,पलंग,palaṁga,ખાટલો,khāṭalō,খাট,khāṭa,ਮੰਜੀ,maṁjī,കട്ടിൽ,kaṭṭil,cot
+290,माणूस,māṇūsa,માણસ,māṇasa,মানুষ,mānuṣa,ਆਦਮੀ,ādamī,മനുഷ്യൻ,manuṣyan,man
+291,अपील,apīla,અપીલ,apīla,আবেদন,ābēdana,ਅਪੀਲ,apīl,അപ്പീൽ,appīl,appeal
+292,मुकुट,mukuṭa,તાજ,tāja,মুকুট,mukuṭa,ਤਾਜ,tāj,കിരീടം,kirīṭaṁ,crown
+293,मोर,mōra,મોર,mōra,ময়ূর,maẏūra,ਮੋਰ,mōr,മയിൽ,mayil,peacock
+294,यज्ञ,yajña,યજ્ઞ,yajña,যজ্ঞ,yagya,ਯੱਗ,yagg,യാഗം,yāgaṁ,ritual
+295,ऋषी,r̥ṣī,ઋષિ,r̥ṣi,ঋষি,r̥ṣi,ਰਿਸ਼ੀ,riśī,താപസി,tāpasi,sage
+296,रात्र,rātra,રાત,rāt,রাত,rāta,ਰਾਤ,rāt,രാത്രി,rātri,night
+297,यमुना,yamunā,યમુના,yamunā,যমুনা,jamunā,ਜਮੁਨਾ,jamunā,യമുന,yamuna,river Yamuna
+298,प्रयत्न,prayatna,પ્રયાસ,prayāsa,প্রচেষ্টা,prachēṣṭā,ਯਤਨ,yatan,പ്രയത്നം,prayatnaṁ,effort
+299,यंत्र,yantra,યંત્ર,yantra,যন্ত্র,yantra,ਯੰਤਰ,yaṁtar,യന്ത്രം,yantraṁ,machine
+300,मालक,mālaka,માલિક,mālika,মালিক,mālika,ਮਾਲਕ,mālak,യജമാനൻ,yajamānan,master
+301,सूर्य,sūrya,સૂર્ય,sūrya,সূর্য,sūrya,ਸੂਰਜ,sūraj,സൂര്യൻ,sūryan,sun
+302,राणी,rāṇī,રાણી,rāṇī,রাণী,rāṇī,ਰਾਣੀ,rāṇī,റാണി,rāṇi,queen
+303,राजा,rājā,રાજા,rājā,রাজা,rājā,ਰਾਜਾ,rājā,രാജാവ്,rājāvŭ,king
+304,युद्ध,yuddha,યુદ્ધ,yuddha,যুদ্ধ,yuddha,ਯੁੱਧ,yuddh,യുദ്ധം,yuddhaṁ,battle
+305,रस,rasa,રસ,rasa,রস,rasa,ਰਸ,ras,രസം,rasaṁ,juice
+306,महामार्ग,mahāmārga,રાજમાર્ગ,rājamārga,হাইওয়ে,hāi'ōẏē,ਹਾਈਵੇ,hāīvē,ഹൈവേ,haive,high way
+307,लवंग,lavaṁga,લવિંગ,laviṁga,লবঙ্গ,labanga,ਲੌਂਗ,lauṁg,ഗ്രാമ്പൂ,grāmpū,clove
+308,लाख,lākha,લાખ,lākha,লাখ,lākha,ਲਾਖ,lākh,ലക്ഷം,lakṣaṁ,lac
+309,लठ्ठ,laṭhṭha,ચરબીવાળું,charabīvāḷuṁ,মোটা,mōṭā,ਮੋਟਾ,mōṭā,തടിച്ച,taṭicca,fatty
+310,स्त्री,strī,સ્ત્રી,strī,নারী,nārī,ਔਰਤ,aurat,വനിത,vanita,woman
+311,लाच,lāca,લાંચ,lāṁca,ঘুষ,ghuṣa,ਰਿਸ਼ਵਤ,riśavat,കൈക്കൂലി,kaikkooli,bribe
+312,मीठ,mīṭha,મીઠું,mīṭhuṁ,লবণ,labaṇa,ਲੂਣ,lūṇ,ഉപ്പ്,uppŭ,salt
+313,अँकर,aँkara,લંગર,laṁgara,নোঙর,nōṅara,ਐਂਕਰ,aiṁkar,നങ്കൂരം,naṅkūraṁ,anchor
+314,वेळ,vēḷa,સમય,samaya,সময়,samaẏa,ਸਮਾਂ,samāṁ,സമയം,samayaṁ,time
+315,गळा,gaḷā,ગળું,gaḷuṁ,গলা,galā,ਗਲਾ,galā,കഴുത്ത്,kaḻuttŭ,throat
+316,प्लेट्स,plēṭsa,પ્લેટો,plēṭō,প্লেট,plēṭa,ਪਲੇਟਾਂ,palēṭāṁ,പ്ലേറ്റുകൾ,plēṟṟukaḷ,plates
+317,कला,kalā,લલિત કલાઓ,lalita kalā'ō,চারুকলা,cārukala,ਕਲਾਵਾਂ,kalāvāṁ,കലകൾ,kalakaḷ,fine arts
+318,नळी,naḷī,નળી,naḷī,নল,nala,ਟਿਊਬ,ṭi'ūb,കുഴൽ,kuḻal,tube
+319,किल्ली,killī,ચાવી,chāvī,চাবি,chābi,ਚਾਬੀ,cābī,താക്കോൽ,tākkōl,key
+320,सोपे,sōpe,સરળ,saraḷa,সরল,sarala,ਸਰਲ,saral,ലളിതമായ,ḷaḷitamāya,simple
+321,भात,bhāta,ધાન્ય,dhānya,ধান,dhāna,ਚੌਲ,caul,നെല്ല്,nellŭ,paddy
+322,पाऊस,pāūsa,વરસાદ,varasāda,বৃষ্টি,br̥ṣṭi,ਮੀਂਹ,mīṁh,മഴ,maḻa,rain
+323,वन,vana,જંગલ,jaṁgal,বন,bana,ਜੰਗਲ,jaṁgal,വനം,vanaṁ,forest
+324,हिरा,hirā,હીરા,hīrā,হীরা,hīrā,ਹੀਰਾ,hīrā,വജ്രം,vajraṁ,diamond
+325,वांगी,vāṁgī,રીંગણ,rīgaṇa,বেগুন,bēguna,ਬੈਂਗਣ,baiṁgaṇ,വഴുതനങ്ങ,vaḻutanāṅṅa,brinjal
+326,वसंत,vasaṁta,વસંત,vasaṁta,বসন্ত,basanta,ਬਸੰਤ,basaṁt,വസന്തം,vasantaṁ,spring
+327,डिश,ḍiśa,વાનગી,vāṇagī,থালা,thālā,ਪਕਵਾਨ,pakavān,വിഭവം,vibhavaṁ,dish
+328,शनि,śani,શનિ,śani,শনি,śani,ਸ਼ਨੀ,śanī,ശനി,śani,saturn
+329,बाण,bāṇa,તીર,tīra,তীর,tīra,ਤੀਰ,tīr,അമ്പ്,ampŭ,arrow
+330,चंद्र,caṁdra,ચંદ્ર,caṁdra,চাঁদ,cāṁda,ਚੰਨ,cann,ചന്ദ്രൻ,candran,moon
+331,युग,yuga,યુગ,yuga,যুগ,juga,ਯੁੱਗ,yugg,യുഗം,yugaṁ,era
+332,शरीर,śarīra,શરીર,śarīra,শরীর,śarīra,ਸਰੀਰ,sarīr,ശരീരം,śareeraṁ,body
+333,शतक,śataka,શતક,śataka,শতক,śataka,ਸੌ ਆਇਤਾਂ,sau āitāṁ,നൂറ് ശ്ലോകങ്ങൾ,nūṟŭ ślōkaṅṅaḷ,hundred verses
+334,षटकोन,ṣaṭakōna,ષટ્કોણ,ṣaṭkōṇa,ষড়ভুজ,ṣaṛabhuja,ਹੈਕਸਾਗਨ,haikasāgan,ഷഡ്ഭുജം,ṣaḍbhujaṁ,hexagon
+335,षष्ठी,ṣaṣṭhī,ષષ્ઠી,ṣaṣṭhī,ষষ্ঠী,ṣaṣṭhī,ਸੱਠ,satth,അറുപത്,aṟupatŭ,sixty
+336,सहापट,sahāpaṭa,છ ગણો,cha gaṇō,ছয় গুণ,chaẏa guṇa,ਛੇ ਗੁਣਾ,chē guṇā,ആറു മടങ്ങ്,āṟu maṭaṅṅŭ,six folded
+337,षण्मुख,ṣaṇmukha,ષણ્મુખ,ṣaṇmukha,ষণ্মুখ,ṣaṇmukha,ਛੇ-ਮੂੰਹ ਵਾਲਾ,chē-mūṁh vālā,ഷൺമുഖൻ,ṣaṇmukhan,six faced lord
+338,सह-भाऊ,saha-bhā'ū,સહ-ભાઈ,saha-bhā'ī,সহ-ভাই,saha-bhā'i,ਸਹਿ-ਭਰਾ,sahi-bharā,സഹോദരൻ,sahōdaran,co-brother
+339,कीटक,kīṭaka,જંતુ,jaṁtu,পোকামাকড়,pōkāmākaṛa,ਕੀਟ,kīṭ,പ്രാണി,prāṇi,insect
+340,न्यायालय,nyāyālaya,સભા,sabhā,সভা,sabhā,ਅਦਾਲਤ,adālat,സഭ,sabha,court
+341,समान,samāna,સમાન,samāna,সমান,samāna,ਬਰਾਬਰ,barābar,തുല്യം,tulyaṁ,equal
+342,अर्धा,ardhā,અડધો,aḍadhō,অর্ধেক,ardhēka,ਅੱਧਾ,addhā,പാതി,pāti,half
+343,बाजार,bājāra,બજાર,bajār,বাজার,bājāra,ਬਾਜ਼ਾਰ,bāzār,മാർക്കറ്റ്,mārkkaṟṟŭ,market
+344,युद्ध,yuddha,યુદ્ધ,yuddha,যুদ্ধ,yuddha,ਯੁੱਧ,yuddh,യുദ്ധം,yuddhaṁ,war
+345,नैसर्गिक,naisargika,કુદરતી,kudaratī,স্বাভাবিক,sbhābik,ਕੁਦਰਤੀ,kudaratī,സ്വാഭാവികമായ,svābhāvikamāya,natural
+346,समाज,samāja,સમાજ,samāja,সমাজ,samāja,ਸਮਾਜ,samāj,സമൂഹം,samūhaṁ,society
+347,नांगर,nāṁgara,હળ,haḷa,লাঙল,lāṅgala,ਹਲ,hal,കലപ്പ,kalappa,plough
+348,नुकसान,nukasāna,નુકસાન,nukasāna,ক্ষতি,kṣati,ਨੁਕਸਾਨ,nukasān,നഷ്ടം,naṣṭaṁ,harm
+349,हंस,haṁsa,હંસ,haṁsa,হংস,haṁsa,ਹੰਸ,haṁs,അരയന്നം,arayannaṁ,swan
+350,हरिणी,hariṇī,હરણી,haraṇī,হরিণী,hariṇī,ਹਿਰਨੀ,hiranī,മാൻ,mān,deer
+351,विनोद,vinōda,રમૂજ,ramūja,হাস্যরস,hāsyarasa,ਹਾਸਾ,hāsā,ഹാസ്യം,hāsyaṁ,humour
+352,हिरवा,hiravā,લીલો,līlō,সবুজ,sabuj,ਹਰਾ,harā,പച്ച,pacca,green
+353,सहनशीलता,sahanaśīlatā,ધીરજ,dhīraja,ধৈর্য,dhairya,ਸਬਰ,sabar,ക്ഷമ,kṣama,patience
+354,क्षण,kṣaṇa,ક્ષણ,kṣaṇa,মুহূর্ত,muhūrta,ਪਲ,pal,നിമിഷം,nimiṣaṁ,moment
+355,घट,ghaṭa,ઘટાડો,ghaṭāḍō,হ্রাস,hrāsa,ਘਟਣਾ,ghaṭaṇā,ക്ഷയം,kṣayaṁ,decrease
+356,जखमेमुळे,jakhamēmuḷe,ઘા,ghā,ক্ষত,kṣata,ਜ਼ਖ਼ਮ,zaḳẖam,മുറിവ്,muṟivŭ,wound
+357,भिकारी,bhikārī,ભિખારી,bhikhārī,ভিক্ষুক,bhikṣuka,ਭਿਖਾਰੀ,bhikhārī,ഭിക്ഷക്കാരൻ,bhikṣakkāran,beggar
+358,वड,vaḍa,વડનું વૃક્ષ,vaḍanuṁ vr̥kṣa,বট গাছ,baṭa gācha,ਬਰਗਦ ਦਾ ਰੁੱਖ,baragad dā rukkh,ആൽമരം,ālmaraṁ,banyan tree
+359,ज्ञान,jñāna,જ્ઞાન,jñāna,জ্ঞান,jñāna,ਗਿਆਨ,giān,അറിവ്,aṟivŭ,knowledge
+360,ऊस,ūsa,શેરડી,śēraḍī,আখ,ākha,ਗੰਨਾ,gannā,കരിമ്പ്,karimpŭ,sugarcane
+361,तलाव,talāva,તળાવ,taḷāva,পুকুর,pukura,ਤਾਲਾਬ,tālāb,കുളം,kuḷaṁ,pond
+362,लाल दगड,lāla dagaḍa,લાલ પથ્થર,lāla patthara,লাল পাথর,lāla pāthara,ਲਾਲ ਪੱਥਰ,lāl patthar,ചുവന്ന കല്ല്,cuvanna kallŭ,red stone
+363,मेंढीचे दूध,mēṁḍhīce dūdha,ઘેટાનું દૂધ,ghēṭānuṁ dūdha,ভেড়ার দুধ,bhēṛāra dudha,ਭੇਡ ਦਾ ਦੁੱਧ,bhēḍ dā dutth,ആടിന്റെ പാൽ,āṭinṟe pāl,ewe milk
+364,छळ,chaḷa,યાતના,yātanā,নির্যাতন,niryātana,ਤਸੀਹਾ,tasīhā,പീഡനം,peeḍanaṁ,torture
+365,घोडा,ghōḍā,ઘોડો,ghōḍō,ঘোড়া,ghōṛā,ਘੋੜਾ,ghōṛā,കുതിര,kutira,horse
+366,गंध,gaṁdha,ગંધ,gaṁdha,গন্ধ,gandha,ਗੰਧ,gaṁdh,മണം,maṇaṁ,smell
+367,भयंकर,bhayaṁkara,ભયંકર,bhayaṁkara,ভয়ানক,bhaẏānaka,ਭਿਆਨਕ,bhiānak,ഭയങ്കരമായ,bhayaṅkaramāya,awful
+368,तूप,tūpa,ઘી,ghī,ঘি,ghi,ਘਿਓ,ghi'ō,നെയ്യ്,neyyŭ,ghee
+369,तुरही वाजवणे,turahī vājavaṇe,ટ્રમ્પેટ,ṭrampaṭa,ট্রাম্পেট বাজানো,ṭrāmpēṭa bājānō,ਟਰੰਪੈਟ,ṭaraṁpaiṭ,ട്രമ്പറ്റ്,ṭrampeṟṟŭ,trumpet
+370,साहित्यिक,sāhityika,સાહિત્યકાર,sāhityakāra,সাহিত্যিক,sāhityika,ਸਾਹਿਤਕਾਰ,sāhitakār,സാഹിത്യകാരൻ,sāhityakāran,litterateur
+371,भगवान ब्रह्मा,bhagavān brahmā,ભગવાન બ્રહ્મા,bhagavān brahmā,ভগবান ব্রহ্মা,bhagavān brahmā,ਭਗਵਾਨ ਬ੍ਰਹਮਾ,bhagavān brahamā,ബ്രഹ്മാവ്,brahmāvŭ,Lord Brahma
+372,मोची,mōcī,મોચી,mōcī,মোচি,mōci,ਮੋਚੀ,mōcī,ചെരുപ്പുകുത്തി,ceruppukutti,cobler
+373,पावडर,pāvaḍara,પાવડર,pāvaḍara,পাউডার,pāuḍāra,ਪਾਊਡਰ,pāūḍar,പൊടി,poṭi,powder
+374,चातुर्य,cāturya,ચતુરાઈ,caturā'ī,চাতুর্য,cāturyē,ਚਤੁਰਾਈ,caturāī,പരിഹാസം,parihāsaṁ,repartee
+375,कापणे,kāpaṇe,કાપવું,kāpavavuṁ,কাটা,kāṭā,ਕੱਟਣਾ,kaṭṭaṇā,മുറിക്കൽ,muṟikkal,cutting
+376,अस्ताव्यस्त,astāvyasta,અસ્તવ્યસ્ત,astavyasta,ছিন্নভিন্ন,chinnabhinna,ਅਸਥਿਰ,asathir,ചിന്നിച്ചിതറിയ,cinniccittaṟiya,helter-skelter
+377,पचन,pacana,પાચન,pācana,হজম,hajama,ਪਾਚਨ,pācan,ദഹനം,dahanaṁ,digestion
+378,जन्मभूमी,janmabhūmī,જન્મભૂમિ,janmabhūmi,জন্মভূমি,janmabhūmi,ਜਨਮ ਭੂਮੀ,janam bhūmī,ജന്മഭൂമി,janmabhūmi,native place
+379,उपजीविका,upajīvikā,આજીવિકા,ājīvikā,জীবিকা,jībikā,ਰੋਜ਼ੀ-ਰੋਟੀ,rōzī-rōṭī,ജീവിതോപാധി,jīvitōpādhi,livelihood
+380,जीवशास्त्र,jīvaśāstra,જીવવિજ્ઞાન,jīvavijñāna,জীববিজ্ঞান,jībabijñāna,ਜੀਵ ਵਿਗਿਆਨ,jīv vigi'ān,ജീവശാസ്ത്രം,jeevaśāstraṁ,biology
+381,कामदेव,kāmadēva,કામદેવ,kāmadēva,কামদেব,kāmadēba,ਕਾਮਦੇਵ,kāmadēv,കാമദേവൻ,kāmadēvan,cupid
+382,वादळी वारा,vādaḷī vārā,તોફાની પવન,tōphānī pavana,ঝড় বাতাস,jhaṛa bātāsa,ਤੂਫ਼ਾਨੀ ਹਵਾ,tūfānī havā,കൊടുങ്കാറ്റ്,koṭuṅkāṟṟŭ,stormy wind
+383,शपथ,śapatha,શપથ,śapatha,শপথ,śapatha,ਕਸਮ,kasam,പ്രതിജ്ഞ,pratijña,vow
+384,विद्वान मनुष्य,vidvāna manuṣya,વિદ્વાન માણસ,vidvāna māṇasa,জ্ঞানী মানুষ,jñānī mānuṣa,ਸਿਆਣਾ ਆਦਮੀ,siāṇā ādamī,പണ്ഡിതൻ,paṇṭhitan,learned man
+385,राणी,rāṇī,રાણી,rāṇī,রাণী,rāṇī,ਰਾਣੀ,rāṇī,മഹാറാണി,mahārāṇi,queen
+386,आनंद,ānanda,આનંદ,ānanda,আনন্দ,ānanda,ਖੁਸ਼ੀ,khuśī,സന്തോഷം,santōṣaṁ,delight
+387,वाचणे,vācaṇe,વાંચવું,vāṁcavavuṁ,পড়া,paṛā,ਪੜ੍ਹਨਾ,paṛhanā,വായിക്കുക,vāyikkuka,read
+388,नारळ,nāraḷa,નાળિયેર,nāḷiyēra,নারকেল,nārakēla,ਨਾਰੀਅਲ,nārīal,തേങ്ങ,tēṅṅa,coconut
+389,धूर्त,dhūrta,ચાલાક,chālāk,ধূর্ত,dhūrta,ਚਲਾਕ,calāk,കുറുക്കൻ,kurukkan,cunning
+390,टिपू सुलतान,ṭipū sulatāna,ટીપુ સુલતાન,ṭīpu sulatāna,টিপু সুলতান,ṭipu sulatāna,ਟੀਪੂ ਸੁਲਤਾਨ,ṭīpū sulatān,ടിപ്പു സുൽത്താൻ,ṭippu sulttān,tippusultan
+391,टीप,ṭīpa,ટિપ્પણી,ṭippaṇī,মন্তব্য,mantabya,ਟਿੱਪਣੀ,ṭippaṇī,അഭിപ്രായം,abhiprāyaṁ,commentary
+392,कठोर,kaṭhōra,કઠોર,kaṭhōra,কঠিন,kaṭhina,ਸਖ਼ਤ,saḳẖat,കഠിനമായ,kaṭhinamāya,hard
+393,प्रतिष्ठा,pratiṣṭhā,પ્રતિષ્ઠા,pratiṣṭhā,খ্যাতি,khyāti,ਇੱਜ਼ਤ,izzat,പ്രശസ്തി,praśasti,reputation
+394,कागदाचा तुकडा,kāgadācā mukaḍā,કાગળની શીટ,kāgaḷanī śīṭa,কাগজের শীট,kāgajēra śīṭa,ਕਾਗਜ਼ ਦੀ ਸ਼ੀਟ,kāgaz dī śīṭ,കടലാസ് ഷീറ്റ്,kaṭalās śīṟṟŭ,sheet of paper
+395,निरुपयोगी,nirupayōgī,નિરૂપયોગી,nirūpayōgī,অকেজো,akējō,ਬੇਕਾਰ,bēkār,ഉപയോഗശൂന്യം,upayōgaśūnyaṁ,useless
+396,पोकळ,pōkaḷa,પોલું,pōluṁ,ফাঁপা,hām̐pā,ਖੋਖਲਾ,khōkhalā,പൊള്ളയായ,poḷḷayāya,hallow
+397,डमरू,ḍamarū,ડમરુ,ḍamaru,ডমরু,ḍamaru,ਡਮਰੂ,ḍamarū,ഡമരു,ḍamaru,drum
+398,अस्थिर,asthira,ચંચળ,caṁcaḷa,চঞ্চল,cañcala,ਡੋਲਦਾ,ḍōladā,ചാഞ്ചാട്ടം,cāñcāṭṭaṁ,wavering
+399,गाढ झोप,gāḍha jhōpa,ગાઢ નિદ્રા,gāḍha nidrā,গভীর ঘুম,gabhīra ghuma,ਗਾੜ੍ਹੀ ਨੀਂਦ,gāṛhī nīṁd,ഗാഢനിദ്ര,gāḍhanidra,sound sleep
+400,आषाढ,āṣāḍha,આષાઢ,āṣāḍha,আষাঢ়,āṣāṛha,ਅਸ਼ਾੜ੍ਹ,aśāṛh,ആഷാഢം,āṣāḍhaṁ,name of a month
+401,लपलेले,lapalēlē,છુપાયેલું,chupāyēluṁ,লুকানো,lukānō,ਲੁਕਿਆ ਹੋਇਆ,luki'ā hōi'ā,ഒളിഞ്ഞിരിക്കുന്ന,oḷiññirikkunna,hidden
+402,मजबूती,majabūtī,મજબૂતાઈ,majabūtā'ī,দৃঢ়তা,dr̥ṛhatā,ਮਜ਼ਬੂਤੀ,mazabūtī,ദൃഢത്വം,dr̥ḍhatvaṁ,sturdiness
+403,संरक्षण,saṁrakṣaṇa,રક્ષણ,rakṣaṇa,প্রতিরক্ষা,pratīrakṣā,ਰੱਖਿਆ,rakhi'ā,സംരക്ഷണം,saṁrakṣaṇaṁ,defence
+404,ग्रहण,grahaṇa,ગ્રહણ,grahaṇa,গ্রহণ,grahaṇa,ਗ੍ਰਹਿਣ,grahiṇ,ഗ്രഹണം,grahaṇaṁ,eclipse
+405,वाणिज्य,vāṇijya,વાણિજ્ય,vāṇijya,বাণিজ্য,bāṇijya,ਵਪਾਰ,vapār,വാണിജ്യം,vāṇijyaṁ,commerce
+406,क्षण,kṣaṇa,ક્ષણ,kṣaṇa,মুহূর্ত,muhūrta,ਪਲ,pal,നിമിഷം,nimiṣaṁ,moment
+407,नाकारणे,nākāraṇe,અસ્વીકાર,asvīkāra,প্রত্যাখ্যান,pratyākhyāna,ਰੱਦ,radd,നിരസിക്കൽ,nirasikkal,rejection
+408,तीर्थयात्रा,tīrthayātrā,તીર્થયાત્રા,tīrthayātrā,তীর্থযাত্রা,tīrthayātrā,ਤੀਰਥ ਯਾਤਰਾ,tīrath yātarā,തീർത്ഥയാത്ര,tīrthayātra,pilgrimage
+409,चूक,cūka,ભૂલ,bhūla,ভুল,bhula,ਗਲਤੀ,galatī,തെറ്റ്,teṟṟŭ,mistake
+410,तत्त्वज्ञान,tattvajñāna,તત્વજ્ઞાન,tatvajñāna,দর্শন,darśana,ਫ਼ਲਸਫ਼ਾ,falasafā,തത്ത്വചിന്ത,tattvacinta,philosophy
+411,जीर्ण,jīrṇa,ખંડિત,khaṁḍita,জরাজীর্ণ,jarājīrṇa,ਖੰਡਰ,khaṁḍar,തകർന്ന,takarnna,dilapidated
+412,भगवान बुद्ध,bhagavān buddha,ભગવાન બુદ્ધ,bhagavān buddha,ভগবান বুদ্ধ,bhagavān buddha,ਭਗਵਾਨ ਬੁੱਧ,bhagavān buddh,ബുദ്ധൻ,buddhan,Lord Buddha
+413,राशी,rāśī,રાશિચક્ર,rāśicakra,রাশিচক্র,rāśicakra,ਰਾਸ਼ੀ ਚੱਕਰ,rāśī cakkar,രാശിചക്രം,rāśicakraṁ,zodiac
+414,जसे आहे तसे,jase āhē tase,જેમ છે તેમ,jēma chē tēma,যেমন আছে তেমনই,jēmana āche tēmani,ਜਿਵੇਂ ਹੈ,jivēṁ hai,അതുപോലെ,atupōle,as it is
+415,औदार्य,audārya,ઉદારતા,udāratā,উদারতা,udāratā,ਉਦਾਰਤਾ,udāratā,ഔദാര്യം,audāryaṁ,generosity
+416,घेराव,ghērāva,ઘેરાબંધી,ghērābaṁdhī,বেলেগার্ডিং,bēlēgārḍiṁ,ਘੇਰਾਬੰਦੀ,ghērābāṁdī,വളയൽ,vaḷayal,beleaguering
+417,दीर्घायुष्य,dīrghāyuṣya,લાંબુ આયુષ્ય,lāṁbuṁ āyuṣya,দীর্ঘায়ু,dīrghāẏu,ਲੰਬੀ ਉਮਰ,laṁbī umar,ദീർഘായുസ്സ്,dīrghāyussŭ,long life
+418,दुर्दैव,durdaiva,દુર્ભાગ્ય,durbhāgya,দুর্ভাগ্য,durbhāgya,ਬਦਕਿਸਮਤੀ,badakisamatī,ദുर्दൈവം,durdaiōaṁ,misfortune
+419,धान्य,dhānya,અનાજ,anāja,শস্য,śaṣya,ਅਨਾਜ,anāj,ധാന്യം,dhānyaṁ,grain
+420,धर्मशाळा,dharmaśāḷā,ધર્મશાળા,dharmaśāḷā,সরাইখানা,sarāikhānā,ਧਰਮਸ਼ਾਲਾ,dharamśālā,ചോൾട്രി,cōḷṭri,choultry
+421,ध्यान,dhyāna,ધ્યાન,dhyāna,ধ্যান,dhyāna,ਧਿਆਨ,dhi'ān,ധ്യാനം,dhyānaṁ,meditation
+422,नकल,nakala,નકલ,nakala,নকল,nakala,ਨਕਲ,nakal,അനുകരണം,anukaraṇaṁ,mimicry
+423,अडथळा आणणे,aḍathaḷā āṇaṇe,અવરોધ,avarōdha,বাধা দেওয়া,bādhā dē'ōẏā,ਰੋਕਣਾ,rōkaṇā,തടസ്സപ്പെടുത്തുക,taṭassappeṭuttuka,obstruct
+424,नृत्य,nr̥tya,નૃત્ય,nr̥tya,নৃত্য,nr̥tya,ਨਾਚ,nāc,നൃത്തം,nr̥ttaṁ,dance
+425,नमस्कार,namaskāra,નમસ્કાર,namaskāra,নমস্কার,namaskāra,ਨਮਸਕਾਰ,namasakār,നമസ്കാരം,namaskāraṁ,salutation
+426,निर्णय,nirṇaya,નિર્ણય,nirṇaya,সিদ্ধান্ত,siddhānta,ਫ਼ੈਸਲਾ,faissalā,തീരുമാനം,teerumāanaṁ,decision
+427,परमात्मा,paramātma,પરમાત્મા,paramātmā,পরমাত্মা,paramātmā,ਪਰਮਾਤਮਾ,paramātamā,പരമാത്മാവ്,paramātmāvŭ,Supreme Spirit
+428,निराकरण,nirākaraṇa,નિરાકરણ,nirākaraṇa,বন্দোবস্ত,bandōbasta,ਸਮਝੌਤਾ,samajhautā,പരിഹാരം,parihāraṁ,settlement
+429,भगवान कृष्ण,bhagavān kr̥ṣṇa,ભગવાન કૃષ્ણ,bhagavān kr̥ṣṇa,ভগবান কৃষ্ণ,bhagavān kr̥ṣṇa,ਭਗਵਾਨ ਕ੍ਰਿਸ਼ਨ,bhagavān kariśan,ശ്രീകൃഷ്ണൻ,śreekr̥ṣṇan,Lord Krishna
+430,पश्चात्ताप,paścāttāpa,પશ્ચાત્તાપ,paścāttāpa,অনুশোচনা,anuśōcanā,ਪਛਤਾਵਾ,pachatāvā,പശ്ചാത്താപം,paścāttāpaṁ,repentance
+431,भगवान विष्णू,bhagavān viṣṇū,ભગવાન વિષ્ણુ,bhagavān viṣṇu,ভগবান বিষ্ণু,bhagavān biṣṇu,ਭਗਵਾਨ ਵਿਸ਼ਨੂੰ,bhagavān viśanūṁ,വിഷ്ണു,viṣṇu,Lord Viṣṇu
+432,कपाळावरील डोळा,kapāḷāvarīla ḍōḷā,કપાળ પરની આંખ,kapāḷa paranī āṁkha,কপালে চোখ,kapālē cōkha,ਮੱਥੇ 'ਤੇ ਅੱਖ,matthē 'tē akkh,നെറ്റിയിലെ കണ്ണ്,neṟṟiyile kaṇṇŭ,the eye on forehead
+433,फुलणे,phulaṇe,ખિલવું,khilavuṁ,ফুটে ওঠা,phuṭē ōṭhā,ਖਿੜਿਆ,khiṛi'ā,വിടരുക,viṭaruka,blossom
+434,निकाल,nikāla,પરિણામ,pariṇāma,ফলাফল,phalāphala,ਨਤੀਜਾ,natījā,ഫലം,phalaṁ,result
+435,ज्ञानी मनुष्य,jñānī manuṣya,બુદ્ધિશાળી વ્યક્તિ,buddhiśāḷī vyakti,জ্ঞানী ব্যক্তি,jñānī byakti,ਸਿਆਣਾ ਵਿਅਕਤੀ,si'āṇā viakatī,ബുദ്ധിമാൻ,buddhimān,wise person
+436,बौद्ध धर्म,bauddha dharma,બૌદ્ધ ધર્મ,bauddha dharma,বৌদ্ধধর্ম,bauddhadharma,ਬੁੱਧ ਧਰਮ,buddh dharam,ബുദ്ധമതം,buddhamataṁ,buddhism
+437,परमानंद,paramānanda,પરમાનંદ,paramānanda,পরমানন্দ,paramānanda,ਪਰਮਾਨੰਦ,paramānaṁd,ബ്രഹ്മാനന്ദം,brahmānandaṁ,ecstasy
+438,बहिष्करण,bahiṣkaraṇa,બહિષ્કાર,bahiṣkāra,বহিষ্কার,bahiṣkāra,ਬੇਦਖਲੀ,bēdakhalī,ബഹിഷ്കരണം,bahiṣkaraṇaṁ,expulsion
+439,अस्वल,asvala,રીંછ,rīṁcha,ভালুক,bhāluka,ਭਾਲੂ,bhālū,കരടി,karaṭi,bear
+440,सूर्य,sūrya,સૂર્ય,sūrya,সূর্য,sūrya,ਸੂਰਜ,sūraj,ഭാസ്കരൻ,bhāskaran,Sun
+441,खजिना,khajinā,ખજાનો,khajānō,কোষাগার,kōṣāgāra,ਖਜ਼ਾਨਾ,khazānā,ഖജനാവ്,khajanāvŭ,treasury
+442,श्रीमंत माणूस,śrīmaṁta māṇūsa,શ્રીમંત માણસ,śrīmaṁta māṇasa,ধনী ব্যক্তি,dhanī byakti,ਅਮੀਰ ਆਦਮੀ,amīr ādamī,ഭാഗ്യവാൻ,bhāgyavān,rich man
+443,मासा,māsā,માછલી,māchalī,মাছ,māch,ਮੱਛੀ,macchī,മത്സ്യം,matsyaṁ,fish
+444,मेंदू,mēṁdū,મગજ,magaja,মস্তিষ্ক,mastiṣka,ਦਿਮਾਗ,dimāg,മസ്തിഷ്കം,mastişkaṁ,brain
+445,भगवान इंद्र,bhagavān indra,ભગવાન ઇન્દ્ર,bhagavān indra,ভগবান ইন্দ্র,bhagavān indra,ਭਗਵਾਨ ਇੰਦਰ,bhagavān iṁdar,ഇന്ദ്രൻ,indran,Lord Indra
+446,दुपार,dupāra,બપોર,bapōra,দুপুর,dupura,ਦੁਪਹਿਰ,dupahir,ഉച്ച,ucca,midday
+447,तारुण्य,tāruṇya,યૌવન,yauvana,যৌবন,yauvana,ਜਵਾਨੀ,javānī,യൗവ്വനം,yauvvanaṁ,youth
+448,पात्रता,pātratā,યોગ્યતા,yōgyatā,যোগ্যতা,yōgyatā,ਯੋਗਤਾ,yōgatā,യോഗ്യത,yōgyata,eligibility
+449,नेहमीप्रमाणे,nēhamīpramāṇe,હંમેશની જેમ,hamēśanī jēma,যথারীতি,yathārīti,ਆਮ ਵਾਂਗ,ām vāṁg,പതിവുപോലെ,pativupōle,as usual
+450,यजुर्वेद,yajurvēda,યજુર્વેદ,yajurvēda,যজুর্বেদ,yajurbēda,ਯਜੁਰਵੇਦ,yajurvēd,യജുർവേദം,yajurvēdaṁ,one of the vēdās
+451,आजारा,ājārā,બીમારી,bīmārī,অসুস্থতা,asusthatā,ਬਿਮਾਰੀ,bimārī,രോഗം,rōgaṁ,illness
+452,रद्द करणे,radda karaṇe,રદ કરવું,rada karavuṁ,বাতিল করা,bātila karā,ਰੱਦ ਕਰਨਾ,radd karanā,റദ്ദാക്കുക,ṟaddākkuka,cancel
+453,कर्ण,karṇa,કર્ણ,karṇa,কর্ণ,karṇa,ਕਰਨ,karan,കർണ്ണൻ,karṇṇan,Karna
+454,राजवाडा,rājavāḍā,મહેલ,mahela,প্রাসাদ,prāsāda,ਮਹਿਲ,mahil,കൊട്ടാരം,koṭṭāraṁ,palace
+455,म्हण,mhaṇa,કહેવત,kahevat,প্রবাদ,prabāda,ਕਹਾਵਤ,kahāvat,പഴഞ്ചൊല്ല്,paḻañcollŭ,proverb
+456,काळजी घेणे,kāḷajī ghēṇe,કાળજી લેવી,kāḷajī lēvī,যত্ন নেওয়া,yatna nē'ōẏā,ਧਿਆਨ ਰੱਖਣਾ,dhi'ān rakkhaṇā,ശ്രദ്ധിക്കുക,śraddhikkuka,care
+457,भगवान विष्णू,bhagavān viṣṇū,ભગવાન વિષ્ણુ,bhagavān viṣṇu,ভগবান বিষ্ণু,bhagavān biṣṇu,ਭਗਵਾਨ ਵਿਸ਼ਨੂੰ,bhagavān viśanūṁ,വിഷ്ണു,viṣṇu,Lord Viṣṇu
+458,उत्कृष्ट वैशिष्ट्य,utkr̥ṣṭa vaiśiṣṭya,ભવ્ય લક્ષણ,bhavya lakṣaṇa,মার্জিত বৈশিষ্ট্য,mārjita baiśiṣṭya,ਸ਼ਾਨਦਾਰ ਵਿਸ਼ੇਸ਼ਤਾ,śāndār viśēśatā,വിശിഷ്ട സവിശേഷത,viśiṣṭa saviśēṣata,elegant feature
+459,बोल्ट,bōlṭa,બોલ્ટ,bōlṭa,বোল্ট,bōlṭa,ਬੋਲਟ,bōlaṭ,ബോൾട്ട്,bōḷṭṭŭ,bolt
+460,लगाम,lagāma,લગામ,lagāma,লগাম,lagāma,ਲਗਾਮ,lagām,കടിഞ്ഞാൺ,kaṭiññāṇ,rein
+461,सुगंध,sugaṁdha,સુગંધ,sugaṁdha,সুগন্ধ,sugandha,ਖੁਸ਼ਬੂ,khuśabū,സുഗന്ധം,sugandhaṁ,fragrance
+462,दुःस्वप्न,duḥsvapna,દુઃસ્વપ્ન,duḥsvapna,দুঃস্বপ্ন,duḥsbapna,ਬੁਰਾ ਸੁਪਨਾ,burā supnā,ദുസ്വപ്നം,dusvapnaṁ,nightmare
+463,सत्य,satya,સત્ય,satya,সত্য,satya,ਸੱਚ,sacc,സത്യം,satyaṁ,truth
+464,रागवणे,rāgavaṇe,ગુસ્સો કરવો,gussō karavō,ক্রোধ করা,krōdha karā,ਗੁੱਸਾ ਕਰਨਾ,gussā karanā,കോപിക്കുക,kōpikkuka,enrage
+465,वृद्धावस्था,vr̥ddhāvasthā,વૃદ્ધાવસ્થા,vr̥ddhāvasthā,বার্ধক্য,bārdhakya,ਬੁਢਾਪਾ,buḍhāpā,വാർദ്ധക്യം,vārddhakyaṁ,old age
+466,इंद्राचे शस्त्र,iṁdrāce śastra,ઇન્દ્રનું શસ્ત્ર,indra nuṁ śastra,ইন্দ্রের অস্ত্র,indrēra astra,ਇੰਦਰ ਦਾ ਹਥਿਆਰ,iṁdar dā hathiyār,ഇന്ദ്രന്റെ ആയുധം,indranṟe āyudhaṁ,indra's weapon
+467,शत्रू,śatrū,શત્રુ,śatru,শত্রু,śatru,ਦੁਸ਼ਮਣ,duśamaṇ,ശത്രു,śatru,enemy
+468,डोके,ḍōke,માથું,māthūṁ,মাথা,māthā,ਸਿਰ,sir,ശിരസ്സ്,śirassŭ,head
+469,शुद्धता,śuddhatā,શુદ્ધતા,śuddhatā,বিশুদ্ধতা,biśuddhatā,ਸ਼ੁੱਧਤਾ,śuddhatā,ശുദ്ധി,śuddhi,purity
+470,शरद ऋतू,śarada r̥tū,શરદ ઋતુ,śarada r̥tu,শরৎকাল,śaratkāla,ਪਤਝੜ,patjhaṛ,ശരത്കാലം,śaratkālaṁ,autumn
+471,फूल,phūla,ફૂલ,phūla,ফুল,phula,ਫੁੱਲ,phull,പുഷ്പം,puṣpaṁ,flower
+472,भगवान विष्णू,bhagavān viṣṇū,ભગવાન વિષ્ણુ,bhagavān viṣṇu,ভগবান বিষ্ণু,bhagavān biṣṇu,ਭਗਵਾਨ ਵਿਸ਼ਨੂੰ,bhagavān viśanūṁ,വിഷ്ണു,viṣṇu,Lord Viṣṇu
+473,भरपूर,bharapūra,પુષ્કળ,puṣkaḷa,প্রচুর,prōcura,ਭਰਪੂਰ,bharapūr,ധാരാളം,dhārāḷaṁ,plenty
+474,तलाव,talāva,તળાવ,taḷāva,পুকুর,pukura,ਤਾਲਾਬ,tālāb,കുളം,kuḷaṁ,pond
+475,समाज,samāja,સમાજ,samāja,সমাজ,samāja,ਸਮਾਜ,samāj,സമൂഹം,samūhaṁ,society
+476,युद्ध,yuddha,યુદ્ધ,yuddha,যুদ্ধ,yuddha,ਜੰਗ,jaṁg,യുദ്ധം,yuddhaṁ,war
+477,सन्मान करणे,sanmāna karaṇe,સન્માન કરવું,sanmāna karavuṁ,সম্মান করা,sammāna karā,ਆਦਰ ਕਰਨਾ,ādar karanā,ബഹുമാനിക്കുക,bahumānikkuka,honour
+478,निश्चय,niścaya,નિર્ધાર,nirdhāra,সংকল্প,saṁkalpa,ਦ੍ਰਿੜ ਇਰਾਦਾ,driṛa irādā,ദൃഢനിശ്ചയം,dr̥ḍhaniścayaṁ,determination
+479,आनंद,ānanda,આનંદ,ānanda,আনন্দ,ānanda,ਖੁਸ਼ੀ,khuśī,സന്തോഷം,santōṣaṁ,joy
+480,हृदय,hr̥daya,હૃદય,hr̥daya,হৃদয়,hr̥daẏa,ਦਿਲ,dil,ഹൃദയം,hr̥dayaṁ,heart
+481,हिमालय पर्वत,himālaya parvata,હિમાલય પર્વત,himālaya parvata,হিমালয় পর্বত,himālaẏa parbata,ਹਿਮਾਲੀਅਨ ਪਹਾੜ,himālīan pahāṛ,ഹിമാലയ പർവ്വതം,himālaya parvataṁ,Himalayan mountain
+482,सोने,sōnē,સોનું,sōnuṁ,সোনা,sōnā,ਸੋਨਾ,sōnā,സ്വർണ്ണം,svarṇṇaṁ,gold
+483,क्षेत्र,kṣētra,ક્ષેત્ર,kṣētra,ক্ষেত্র,kṣētra,ਖੇਤਰ,khētar,പാടം,pāṭaṁ,field
+484,दूध,dūdha,દૂધ,dūdha,দুধ,dudha,ਦੁੱਧ,duddh,പാൽ,pāl,milk
+485,सुरक्षित,surakṣita,સલામત,salāmata,নিরাপদ,nirāpada,ਸੁਰੱਖਿਅਤ,surakkhiat,സുരക്ഷിതം,surakṣitaṁ,safe
+486,रुंद मिश्या,ruṁda miśyā,વિશાળ મૂછો,viśāḷa mūchō,প্রশস্ত গোঁফ,praśasta gōṁpha,ਚੌੜੀਆਂ ਮੁੱਛਾਂ,cauṛīāṁ mutthāṁ,വലിയ മീശ,valiya meesha,broad moustaches
+487,वेडा माणूस,vēḍā māṇūsa,ગાંડો માણસ,gāṁḍō māṇasa,পাগল মানুষ,pāgala mānuṣa,ਪਾਗਲ ਆਦਮੀ,pāgal ādamī,ഭ്രാന്തൻ,bhrāntan,mad man
+488,गोड ऊस,gōḍa ūsa,મીઠી શેરડી,mīṭhī śēraḍī,মিষ্টি আখ,miṣṭi ākha,ਮਿੱਠਾ ਗੰਨਾ,mitthā gannā,മധുരമുള്ള കരിമ്പ്,madhuramuḷḷa karimpŭ,sweet sugarcane
+489,काठीने मार्शल आर्ट,kāṭhīne mārśala ārṭa,લાકડી વડે માર્શલ આર્ટ,lākaḍī vaḍē mārśala ārṭa,লাঠি দিয়ে মার্শাল আর্ট,lāṭhi diẏē mārśāla ārṭa,ਸਟਿੱਕ ਨਾਲ ਮਾਰਸ਼ਲ ਆਰਟ,saṭikk nāl mārśal āraṭ,വടിപ്പയറ്റ്,vaṭippayaṟṟŭ,martial art with stick
+490,लाल समुद्र,lāla samudra,લાલ સમુદ્ર,lāla samudra,লোহিত সাগর,lōhita sāgara,ਲਾਲ ਸਾਗਰ,lāl sāgar,ചെങ്കടൽ,ceṅkaṭal,red sea
+491,वड,vaḍa,વડનું વૃક્ષ,vaḍanuṁ vr̥kṣa,বট গাছ,baṭa gācha,ਬਰਗਦ ਦਾ ਰੁੱਖ,baragad dā rukkh,ആൽമരം,ālmaraṁ,banyan tree
+492,कनखजुरा,kanakhajurā,સેન્ટીપેડ,sēnṭīpēḍa,সেন্টিপেড,sēnṭipēḍa,ਸੈਂਟੀਪੀਡ,saiṁṭīpīḍ,തേരട്ട,tēraṭṭa,centeped
+493,याक,yāka,યાક,yāka,ইয়াক,iẏāka,ਯਾਕ,yāk,യാക്ക്,yākkŭ,yak
+494,दुसरा,dusarā,બીજો,bījō,দ্বিতীয়,dbitīẏa,ਦੂਜਾ,dūjā,രണ്ടാമത്തെ,raṇṭāmatte,second
+495,मिनिट,miniṭa,મિનિટ,miniṭa,মিনিট,miniṭa,ਮਿੰਟ,miṁṭ,മിനിറ്റ്,miniṟṟŭ,minute
+496,तास,tāsa,કલાક,kalāka,ঘণ্টা,ghaṇṭā,ਘੰਟਾ,ghaṁṭā,മണിക്കൂർ,maṇikkūr,hour
+497,पहाटे,pahāṭe,વહેલી સવાર,vahelī savār,ভোরবেলা,bhōrabelā,ਸਵੇਰ ਵੇਲਾ,savēr vēlā,അതിരാവിലെ,atirāvile,early morning
+498,सकाळ,sakāḷa,સવાર,savār,সকাল,sakāla,ਸਵੇਰ,savēr,രാവിലെ,rāvile,morning
+499,दुपार,dupāra,બપોર,bapōra,দুপুর,dupura,ਦੁਪਹਿਰ,dupahir,ഉച്ച,ucca,midday
+500,संध्याकाळ,saṁdhyākāḷa,સાંજ,sāṁja,সন্ধ্যা,sandhyā,ਸ਼ਾਮ,śām,വൈകുന്നേരം,vaikunnēraṁ,evening
+501,रात्र,rātra,રાત,rāt,রাত,rāta,ਰਾਤ,rāt,രാത്രി,rātri,night
+502,मध्यरात्र,madhyarātra,મધ્યરાત્રિ,madhyarātri,মধ্যরাত,madhyarāta,ਅੱਧੀ ਰਾਤ,addhī rāt,അർദ്ധരാത്രി,arddharātri,midnight
+503,दिवसवेळ,divasavēḷa,દિવસનો સમય,divasanō samaya,দিনের বেলা,dinēra bēlā,ਦਿਨ ਦਾ ਸਮਾਂ,din dā samāṁ,പകൽസമയം,pakalsamayaṁ,day time
+504,दिवस,divasa,દિવસ,divasa,দিন,dina,ਦਿਨ,din,ദിവസം,divasaṁ,day
+505,आठवडा,āṭhavaḍā,અઠવાડિયું,aṭhavāḍiyuṁ,সপ্তাহ,saptāha,ਹਫ਼ਤਾ,hafatā,ആഴ്ച,āḻca,week
+506,पंधरवडा,paṁdharavaḍā,પખવાડિયું,pakhavāḍiyuṁ,পনেরো দিন,panērō dina,ਪੰਦਰਵਾੜਾ,paṁdaravāṛā,രണ്ടാഴ്ച,raṇṭāḻca,fortnight
+507,महिना,mahinā,મહિનો,mahīṇō,মাস,māsa,ਮਹੀਨਾ,mahīnā,മാസം,māsaṁ,month
+508,सहा महिन्यांचा कालावधी,sahā mahinyāṁcā kālāvadhi,છ મહિનાનો સમયગાળો,cha mahīnānō samayagāḷō,ছয় মাসের সময়কাল,chaẏa māsera samaẏakāla,ਛੇ ਮਹੀਨਿਆਂ ਦੀ ਮਿਆਦ,chē mahīni'āṁ dī mi'ād,ആറുമാസം,āṟumāsaṁ,six month-period
+509,वर्ष,varṣa,વર્ષ,varṣa,বছর,bachara,ਸਾਲ,sāl,വർഷം,varṣaṁ,year
+510,12 वर्षांचा कालावधी,12 varṣāṁcā kālāvadhi,12 વર્ષનો સમયગાળો,12 varṣanō samayagāḷō,12 বছরের সময়কাল,12 bacharēra samaẏakāla,12 ਸਾਲਾਂ ਦੀ ਮਿਆਦ,12 sālāṁ dī mi'ād,12 വർഷം,12 varṣaṁ,12 year-period
+511,कृतयुग,kr̥tayuga,કૃતયુગ,kr̥tayuga,কৃতযুগ,kr̥tẏajuga,ਕ੍ਰਿਤ ਯੁਗ,karit yug,കൃതയുഗം,kr̥tāyugaṁ,Krita Yuga
+512,त्रेतायुग,trētāyuga,ત્રેતાયુગ,trētāyuga,ত্রেতাযুগ,trētāẏajuga,ਤ੍ਰੇਤਾ ਯੁਗ,tarētā yug,ത്രേതായുഗം,trētāyugaṁ,Treta Yuga
+513,द्वापारयुग,dvāpārayuga,દ્વાપરયુગ,dvāparayuga,দ্বাপরযুগ,dbāparayuga,ਦੁਆਪਰ ਯੁਗ,du'āpar yug,ദ്വാപരയുഗം,dvāparayugaṁ,Dwapara Yuga
+514,कलियुग,kaliyuga,કલિયુગ,kaliyuga,কলিযুগ,kaliẏajuga,ਕਲਿਯੁਗ,kaliyug,കലികാലം,kalikālaṁ,Kali Yuga
+515,वसंत ऋतू,vasaṁta r̥tū,વસંત ઋતુ,vasaṁta r̥tu,বসন্ত ঋতু,basanta r̥tu,ਬਸੰਤ ਰੁੱਤ,basaṁt rutt,വസന്തകാലം,vasantakālaṁ,spring
+516,उन्हाळा,unhāḷā,ઉનાળો,unāḷō,গ্রীষ্ম ঋতু,grīṣma r̥tu,ਗਰਮੀ,garamī,വേനൽക്കാലം,vēnalkkālaṁ,summer
+517,पावसाळा,pāvasāḷā,વરસાદની ઋતુ,varasādanī r̥tu,বর্ষা ঋতু,barṣā r̥tu,ਬਰਸਾਤੀ ਮੌਸਮ,barasātī mausama,മഴക്കാലം,maḻakkālaṁ,rainy season
+518,शरद ऋतू,śarada r̥tū,શરદ ઋતુ,śarada r̥tu,শরৎকাল,śaratkāla,ਸਰਦ ਰੁੱਤ,sarad rutt,ശരത്കാലം,śaratkālaṁ,begining of winter
+519,हिवाळा,hivāḷā,શિયાળો,śiyāḷō,শীতকাল,śītakāla,ਸਰਦੀ,saradī,ശീതകാലം,śītakālaṁ,winter
+520,शरद ऋतू,śarada r̥tū,શરદ ઋતુ,śarada r̥tu,শরৎকাল,śaratkāla,ਪਤਝੜ,patjhaṛ,ശരത്കാലം,śaratkālaṁ,autumn
+521,प्रभव,prabhava,પ્રભવ,prabhava,প্রভব,prabhaba,ਪ੍ਰਭਵ,prabhav,പ്രഭവ,prabhava,Year name
+522,विभव,vibhava,વિભવ,vibhava,বিভব,bibhaba,ਵਿਭਵ,vibhav,വിഭവ,vibhava,Year name
+523,शुक्ला,śuklā,શુક્લ,śukla,শুক্লা,śuklā,ਸ਼ੁਕਲਾ,śukalā,ശുക്ല,śukla,Year name
+524,प्रमोदूत,pramōdūta,પ્રમોદૂત,pramōdūta,প্রমোদূত,pramōdūta,ਪ੍ਰਮੋਦੂਤ,pramōdūt,പ്രമോദൂത,pramōdūta,Year name
+525,प्रजोत्पत्ती,prajōtpattī,પ્રજોત્પત્તિ,prajōtpatti,প্রজোৎপত্তি,prajōtpatti,ਪ੍ਰਜੋਤਪੱਤੀ,prajōtpatī,പ്രജോത്പത്തി,prajoṯpatti,Year name
+526,आंगिरस,āṁgirasa,આંગિરસ,āṁgirasa,আঙ্গিরস,āṅgirasa,ਅੰਗੀਰਸ,aṁgīras,ആംഗിരസ,āṅgirasa,Year name
+527,श्रीमुख,śrīmukha,શ્રીમુખ,śrīmukha,শ্রীমুখ,śrīmukha,ਸ਼੍ਰੀਮੁਖ,śrīmukh,ശ്രീമുഖ,śreemukha,Year name
+528,भाव,bhāva,ભાવ,bhāva,ভাব,bhāba,ਭਾਵ,bhāv,ഭാവ,bhāva,Year name
+529,युवा,yuvā,યુવા,yuvā,যুবা,jubā,ਯੁਵਾ,yuvā,യുവ,yuva,Year name
+530,धातू,dhātū,ધાતુ,dhātu,ধাতু,dhātu,ਧਾਤੂ,dhātū,ധാതു,dhātu,Year name
+531,ईश्वर,īśvara,ઈશ્વર,īśvara,ঈশ্বর,īśvara,ਈਸ਼ਵਰ,īśvar,ഈശ്വര,eeśvara,Year name
+532,बहुधान्य,bahudhānya,બહુધાન્ય,bahudhānya,বহুধান্য,bahudhānya,ਬਹੁਧੰਨ,bahudhaṁn,ബഹുധാന്യ,bahudhānya,Year name
+533,प्रमादी,pramādī,પ્રમાદી,pramādī,প্রমাদী,pramādī,ਪ੍ਰਮਾਦੀ,pramādī,പ്രമാദി,pramādi,Year name
+534,विक्रम,vikrama,વિક્રમ,vikrama,বিক্রম,bikrama,ਵਿਕਰਮ,vikaram,വിക്രമ,vikrama,Year name
+535,वृष,vr̥ṣa,વૃષ,vr̥ṣa,বৃষ,br̥ṣa,ਰਿਸ਼ੀ,riśī,വൃഷം,vr̥ṣaṁ,Year name
+536,चित्रभानू,citrabhānū,ચિત્રભાનુ,citrabhānu,চিত্রভানু,chitrabhanu,ਚਿੱਤਰਭਾਨੂ,cittarabhānū,ചിത്രഭാനു,citrabhānu,Year name
+537,स्वभानू,svabhānū,સ્વભાનુ,svabhānu,স্বভানু,sabhabhānu,ਸਵਭਾਨੂ,savabhānū,സ്വഭാനു,svabhānu,Year name
+538,तारण,tāraṇa,તારણ,tāraṇa,তারণ,tāraṇa,ਤਾਰਨ,tāran,താരണം,tāraṇaṁ,Year name
+539,पार्थिव,pārthiva,પાર્થિવ,pārthiva,পার্থিব,pārthiba,ਪਾਰਥੀਵ,pārathīv,പാർത്ഥിവ,pārttiva,Year name
+540,व्यय,vyaya,વ્યય,vyaya,ব্যয়,byaẏa,ਖਰਚ,kharac,വ്യയ,vyaya,Year name
+541,सर्वजीतू,sarvajītū,સર્વજીતુ,sarvajītu,সর্বজিৎ,sarabajit,ਸਰਬਜੀਤ,sarabajīt,സർവജിത്തു,sarvajittu,Year name
+542,सर्वधारी,sarvadhārī,સર્વધારી,sarvadhārī,সর্বধারী,sarabdhārī,ਸਰਵਧਾਰੀ,saravadhārī,സർവധാരി,sarvadhāri,Year name
+543,विरोधी,virōdhī,વિરોધી,virōdhī,বিরোধী,birōdhī,ਵਿਰੋਧੀ,virōdhī,വിരോധി,virōdhi,Year name
+544,विकृती,vikr̥tī,વિકૃતિ,vikr̥ti,বিকৃতি,bikr̥ti,ਵਿਗੜਨਾ,vigaṛanā,വികൃതി,vikr̥ti,Year name
+545,खर,khara,ખર,khara,খর,khara,ਖਾਰ,khār,ഖര,khara,Year name
+546,नंदन,naṁdana,નંદન,naṁdana,নন্দন,nandana,ਨੰਦਨ,naṁdan,നന്ദന,nandana,Year name
+547,विजय,vijaya,વિજય,vijaya,বিজয়,bijaya,ਵਿਜੇ,vijē,വിജയ,vijaya,Year name
+548,जय,jaya,જય,jaya,জয়,jaya,ਜੈ,jai,ജയ,jaya,Year name
+549,मन्मथ,manmatha,મન્મથ,manmatha,মন্মথ,manmatha,ਮਨਮਥ,manamath,മന്മഥ,manmatha,Year name
+550,दुर्मुखी,durmukhī,દુર્મુખી,durmukhī,দুর্মুখী,durmukhi,ਦੁਰਮੁਖੀ,duramukhī,ദുർമുഖി,durmukhi,Year name
+551,हेंबळी,hēṁbaḷī,હેવલંબી,hēvalaṁbī,হেবাম্বি,hēbāmbi,ਹੇਵਾਲਬੀ,hēvālabī,ഹേവളമ്പി,hēvaḷampi,Year name
+552,विळांबी,viḷāṁbī,વિલંબી,vilaṁbī,বিলম্বী,bilambī,ਵਿਲੰਬੀ,vilaṁbī,വിളമ്പി,viḷampi,Year name
+553,विकारी,vikārī,વિકારી,vikārī,বিকারী,bikārī,ਵਿਕਾਰੀ,vikārī,വികാരി,vikāri,Year name
+554,शार्वरी,śārvarī,શારવરી,śāravari,শার্বরী,śārabarī,ਸ਼ਾਰਵਰੀ,śāravaree,ശാർവരി,śārvari,Year name
+555,प्लव,plava,પ્લવ,plava,প্লব,plaba,ਪਲਵ,palav,പ്ലവ,plava,Year name
+556,शुभकृत्,śubhkr̥t,શુભકૃત,śubhkr̥t,শুভকৃত,śubhkr̥t,ਸ਼ੁਭਕ੍ਰਿਤੂ,śubhakritū,ശുഭകൃത്,śubhkr̥t,Year name
+557,शोभकृत्,śōbhkr̥t,શોભકૃત,śōbhkr̥t,শোভাকৃৎ,śōbhākr̥t,ਸ਼ੋਭਾਕ੍ਰਿਤੂ,śōbhākritū,ശോഭകൃത്,śōbhakr̥t,Year name
+558,क्रोधी,krōdhī,ક્રોધી,krōdhī,ক্রোধী,krōdhī,ਕ੍ਰੋਧੀ,krōdhī,ക്രോധി,krōdhi,Year name
+559,विश्ववसु,viśvavasu,વિશ્વવસુ,viśvavasu,বিশ্বাবসু,biśbābasu,ਵਿਸ਼ਵਵਸੂ,viśvavasū,വിശ്വവസു,viśvavasu,Year name
+560,पराभव,parābhava,પરાજય,parājaẏa,পরাভব,parābhab,ਪਰਾਭਵ,parābhav,പരാഭവ,parābhava,Year name
+561,प्लवंग,plavaṁga,પ્લવંગ,plavaṁga,প্লবংগ,plabaṁga,ਪਲਵੰਗ,palavaṁg,പ്ലവംഗ,plavaṁga,Year name
+562,कलिक,kalika,કિલાકા,kilākā,কিলক,kilaka,ਕੀਲਕ,kīlak,കീലക,kīlaka,Year name
+563,सौम्य,saumya,સૌમ્ય,saumya,সৌম্য,saumya,ਸੌਮਯਾ,saumayā,സൗമ്യ,saumya,Year name
+564,सामान्य,sāmānya,સામાન્ય,sāmānya,সাধারণ,sādhāraṇa,ਸਧਾਰਨ,sadharan,സാധാരണ,sādhāraṇa,Year name
+565,विरोधीकृत,virōdhīkr̥ta,વિરોધકૃત,virōdhakr̥ta,বিরোধীকৃত,birōdhīkr̥ta,ਵਿਰੋਧਾਕ੍ਰਿਤੂ,virōdhākritū,വിരോധകൃത്,virōdhakr̥t,Year name
+566,परीधवी,parīdhvī,પરીધાવી,parīdhāvī,পরিধাবি,paridhābi,ਪਰਿਧਾਵੀ,paridāvī,പരിധാവി,paridhāvi,Year name
+567,प्रमादिच,pramādica,પ્રમાદીચ,pramādīca,প্রমাদীচ,pramādīca,ਪ੍ਰਮਾਦੀਚਾ,pramādīcā,പ്രമാദിച,pramādica,Year name
+568,आनंद,ānanda,આનંદ,ānanda,আনন্দ,ānanda,ਅਨੰਦ,anaṁd,ആനന്ദ,ānanda,Year name
+569,राक्षस,rākṣasa,રાક્ષસ,rākṣasa,রাক্ষস,rākṣasa,ਰਾਖਸ਼,rākhash,രാക്ഷസ,rākṣasa,Year name
+570,नला,nalā,નલ,nala,নল,nala,ਨਲ,nal,നല,nala,Year name
+571,पिंगला,piṁgalā,પિંગલ,piṁgala,পিঙ্গলা,piṅgalā,ਪਿੰਗਲਾ,piṁgalā,പിംഗള,piṁgaḷa,Year name
+572,काळायुक्ती,kāḷāyukatī,કાલાયુક્તિ,kālāyukti,কালায়ুক্তি,kālāẏukti,ਕਾਲਯੁਕਤੀ,kālayukatī,കാളയുക്തി,kāḷayukti,Year name
+573,सिद्धार्थ,siddhārtha,સિદ્ધાર્થ,siddhārtha,সিদ্ধার্থি,siddhārthi,ਸਿਧਾਰਥੀ,sidhāratī,സിദ്ധാർത്ഥി,siddhārthi,Year name
+574,रौद्री,raudrī,રૌદ્રી,raudrī,রৌদ্রী,raudrī,ਰੌਦ੍ਰੀ,raudrī,രൗദ്രി,raudri,Year name
+575,दुर्मती,durmatī,દુર્મતિ,durmati,দুর্মতি,durmati,ਦੁਰਮਤੀ,duramatī,ദുർമതി,durmati,Year name
+576,दुंदुभी,duṁdubhī,દુંદુભી,duṁdubhī,দুন্দুভী,dundubhī,ਦੁੰਦੁਭੀ,duṁdubhī,ദുന്ദുഭി,dundubhi,Year name
+577,रुधिरागारी,rudhirāgārī,રુધિરોદગારી,rudhirōdagārī,রুধিরোদগারি,rudhirōdagāri,ਰੁਧਿਰੋਦਗਾਰੀ,rudhirōdagarī,രുധിരോദ്ഗാരി,rudhirōdgāri,Year name
+578,रक्ताक्षी,raktākṣī,રક્તાક્ષી,raktākṣī,রক্তাক্ষী,raktākṣī,ਰਕਤਾਕਸ਼ੀ,rakatākashī,രക്താക്ഷി,raktākṣi,Year name
+579,क्रोधना,krōdhanā,ક્રોધના,krōdhanā,ক্রোধনা,krōdhanā,ਕ੍ਰੋਧਨਾ,krōdhanā,ക്രോധന,krōdhana,Year name
+580,अक्षय,akṣaya,અક્ષય,akṣaya,অক্ষয়,akṣaẏa,ਅਕਸ਼ੈ,akashai,അക്ഷയ,akṣaya,Year name
+581,पौर्णिमेनंतरचा पहिला दिवस,paurṇimēnataracā pahilā divasa,પૂનમ પછીનો પહેલો દિવસ,pūnama pachīnō pahelō divasa,পূর্ণিমা পরের প্রথম দিন,purṇima parera prathama dina,ਪੂਰਨਮਾਸ਼ੀ ਤੋਂ ਬਾਅਦ ਪਹਿਲਾ ਦਿਨ,pūranamāśī tōṁ bād pahilā din,പൗർണ്ണമിക്ക് ശേഷമുള്ള ഒന്നാം ദിവസം,paurṇṇamikku śēṣamuḷḷa onnāṁ divasaṁ,1st day after full moonday
+582,दुसरा दिवस,dusarā divasa,બીજો દિવસ,bījō divasa,দ্বিতীয় দিন,dbitīẏa dina,ਦੂਜਾ ਦਿਨ,dūjā din,രണ്ടാം ദിവസം,raṇṭāṁ divasaṁ,2nd day
+583,तिसरा दिवस,tīsarā divasa,ત્રીજો દિવસ,trījō divasa,তৃতীয় দিন,tr̥tīẏa dina,ਤੀਜਾ ਦਿਨ,tījā din,മൂന്നാം ദിവസം,mūnnāṁ divasaṁ,3rd day
+584,चौथा दिवस,cauthā divasa,ચોથો દિવસ,cauthō divasa,চতুর্থ দিন,caturtha dina,ਚੌਥਾ ਦਿਨ,cauthā din,നാലാം ദിവസം,nālāṁ divasaṁ,4th day
+585,पाचवा दिवस,pācavā divasa,પાંચમો દિવસ,pāṁchamō divasa,পঞ্চম দিন,pañcama dina,ਪੰਜਵਾਂ ਦਿਨ,paṁjavāṁ din,അഞ്ചാം ദിവസം,añcāṁ divasaṁ,5th day
+586,सहावा दिवस,sahāvā divasa,છઠ્ઠો દિવસ,chaṭhṭhō divasa,ষষ্ঠ দিন,ṣaṣṭha dina,ਛੇਵਾਂ ਦਿਨ,chēvāṁ din,ആറാം ദിവസം,āṟāṁ divasaṁ,6th day
+587,सातवा दिवस,sātavā divasa,સાતમો દિવસ,sātamō divasa,সপ্তম দিন,saptama dina,ਸੱਤਵਾਂ ਦਿਨ,sattavāṁ din,ഏഴാം ദിവസം,ēḻāṁ divasaṁ,7th day
+588,आठवा दिवस,āṭhavā divasa,આઠમો દિવસ,āṭhamō divasa,অষ্টম দিন,aṣṭama dina,ਅੱਠਵਾਂ ਦਿਨ,aṭṭhavāṁ din,എട്ടാം ദിവസം,eṭṭāṁ divasaṁ,8th day
+589,नववा दिवस,navavā divasa,નવમો દિવસ,navamō divasa,নবম দিন,nabama dina,ਨੌਵਾਂ ਦਿਨ,nauṁvāṁ din,ഒമ്പതാം ദിവസം,ompatāṁ divasaṁ,9th day
+590,दहावा दिवस,dahāvā divasa,દસમો દિવસ,dasamō divasa,দশম দিন,daśama dina,ਦਸਵਾਂ ਦਿਨ,dasavāṁ din,പത്താം ദിവസം,pattāṁ divasaṁ,10th day
+591,अकरावा दिवस,akarāvā divasa,અગિયારમો દિવસ,agiyāramō divasa,একাদশ দিন,ēkādaśa dina,ਗਿਆਰ੍ਹਵਾਂ ਦਿਨ,gi'ārhavāṁ din,പതിനൊന്നാം ദിവസം,patinonnāṁ divasaṁ,11th day
+592,बारावा दिवस,bārāvā divasa,બારમો દિવસ,bāramō divasa,দ্বাদশ দিন,dbādaśa dina,ਬਾਰ੍ਹਵਾਂ ਦਿਨ,bārhavāṁ din,പന്ത്രണ്ടാം ദിവസം,pantiraṇṭāṁ divasaṁ,12th day
+593,तेरावा दिवस,tērāvā divasa,તેરમો દિવસ,tēramō divasa,ত্রয়োদশ দিন,traẏōdaśa dina,ਤੇਰ੍ਹਵਾਂ ਦਿਨ,tērahavāṁ din,പതിമൂന്നാം ദിവസം,patimūnnāṁ divasaṁ,13th day
+594,चौदावा दिवस,caudāvā divasa,ચૌદમો દિવસ,caudamō divasa,চতুর্দশ দিন,caturdaśa dina,ਚੌਦ੍ਹਵਾਂ ਦਿਨ,caudhavāṁ din,പതിനാലാം ദിവസം,patinālāṁ divasaṁ,14th day
+595,पौर्णिमा,paurṇimā,પૂનમ,pūnama,পূর্ণিমা,purṇima,ਪੂਰਨਮਾਸ਼ੀ,pūranamāśī,പൗർണ്ണമി,paurṇṇami,fullmoon day
+596,अमावस्येनंतरचा पहिला दिवस,amāvasyēnataracā pahilā divasa,અમાસ પછીનો પહેલો દિવસ,amāsa pachīnō pahelō divasa,অমাবস্যার পরের প্রথম দিন,amābasyāra parera prathama dina,ਅਮੱਸਿਆ ਤੋਂ ਬਾਅਦ ਪਹਿਲਾ ਦਿਨ,amassi'ā tōṁ bād pahilā din,അമാവാസിക്കു ശേഷമുള്ള ഒന്നാം ദിവസം,amāvāsikku śēṣamuḷḷa onnāṁ divasaṁ,1st day after newmoon day
+597,दुसरा दिवस,dusarā divasa,બીજો દિવસ,bījō divasa,দ্বিতীয় দিন,dbitīẏa dina,ਦੂਜਾ ਦਿਨ,dūjā din,രണ്ടാം ദിവസം,raṇṭāṁ divasaṁ,2nd day
+598,तिसरा दिवस,tīsarā divasa,ત્રીજો દિવસ,trījō divasa,তৃতীয় দিন,tr̥tīẏa dina,ਤੀਜਾ ਦਿਨ,tījā din,മൂന്നാം ദിവസം,mūnnāṁ divasaṁ,3rd day
+599,चौथा दिवस,cauthā divasa,ચોથો દિવસ,cauthō divasa,চতুর্থ দিন,caturtha dina,ਚੌਥਾ ਦਿਨ,cauthā din,നാലാം ദിവസം,nālāṁ divasaṁ,4th day
+600,पाचवा दिवस,pācavā divasa,પાંચમો દિવસ,pāṁchamō divasa,পঞ্চম দিন,pañcama dina,ਪੰਜਵਾਂ ਦਿਨ,paṁjavāṁ din,അഞ്ചാം ദിവസം,añcāṁ divasaṁ,5th day
+601,सहावा दिवस,sahāvā divasa,છઠ્ઠો દિવસ,chaṭhṭhō divasa,ষষ্ঠ দিন,ṣaṣṭha dina,ਛੇਵਾਂ ਦਿਨ,chēvāṁ din,ആറാം ദിവസം,āṟāṁ divasaṁ,6th day
+602,सातवा दिवस,sātavā divasa,સાતમો દિવસ,sātamō divasa,সপ্তম দিন,saptama dina,ਸੱਤਵਾਂ ਦਿਨ,sattavāṁ din,ഏഴാം ദിവസം,ēḻāṁ divasaṁ,7th day
+603,आठवा दिवस,āṭhavā divasa,આઠમો દિવસ,āṭhamō divasa,অষ্টম দিন,aṣṭama dina,ਅੱਠਵਾਂ ਦਿਨ,aṭṭhavāṁ din,എട്ടാം ദിവസം,eṭṭāṁ divasaṁ,8th day
+604,नववा दिवस,navavā divasa,નવમો દિવસ,navamō divasa,নবম দিন,nabama dina,ਨੌਵਾਂ ਦਿਨ,nauṁvāṁ din,ഒമ്പതാം ദിവസം,ompatāṁ divasaṁ,9th day
+605,दहावा दिवस,dahāvā divasa,દસમો દિવસ,dasamō divasa,দশম দিন,daśama dina,ਦਸਵਾਂ ਦਿਨ,dasavāṁ din,പത്താം ദിവസം,pattāṁ divasaṁ,10th day
+606,अकरावा दिवस,akarāvā divasa,અગિયારમો દિવસ,agiyāramō divasa,একাদশ দিন,ēkādaśa dina,ਗਿਆਰ੍ਹਵਾਂ ਦਿਨ,gi'ārhavāṁ din,പതിനൊന്നാം ദിവസം,patinonnāṁ divasaṁ,11th day
+607,बारावा दिवस,bārāvā divasa,બારમો દિવસ,bāramō divasa,দ্বাদশ দিন,dbādaśa dina,ਬਾਰ੍ਹਵਾਂ ਦਿਨ,bārhavāṁ din,പന്ത്രണ്ടാം ദിവസം,pantiraṇṭāṁ divasaṁ,12th day
+608,तेरावा दिवस,tērāvā divasa,તેરમો દિવસ,tēramō divasa,ত্রয়োদশ দিন,traẏōdaśa dina,ਤੇਰ੍ਹਵਾਂ ਦਿਨ,tērahavāṁ din,പതിമൂന്നാം ദിവസം,patimūnnāṁ divasaṁ,13th day
+609,चौदावा दिवस,caudāvā divasa,ચૌદમો દિવસ,caudamō divasa,চতুর্দশ দিন,caturdaśa dina,ਚੌਦ੍ਹਵਾਂ ਦਿਨ,caudhavāṁ din,പതിനാലാം ദിവസം,patinālāṁ divasaṁ,14th day
+610,अमावस्या,amāvasyā,અમાસ,amāsa,অমাবস্যা,amābasya,ਅਮੱਸਿਆ,amassi'ā,അമാവാസി,amāvāsi,newmoon day
+611,जानेवारी,jānēvārī,જાન્યુઆરી,jānyu'ārī,জানুয়ারি,jānuyāri,ਜਨਵਰੀ,janavarī,ജനുവരി,januvari,january
+612,फेब्रुवारी,phēbruvārī,ફેબ્રુઆરી,phēbru'ārī,ফেব্রুয়ারি,phēbruẏāri,ਫਰਵਰੀ,pharavarī,ഫെബ്രുവരി,phebruvari,february
+613,मार्च,mārca,માર્ચ,mārcha,মার্চ,mārcha,ਮਾਰਚ,mārac,മാർച്ച്,māṟṟŭ,march
+614,एप्रिल,ēprila,એપ્રિલ,ēprila,এপ্রিল,ēprila,ਅਪ੍ਰੈਲ,aparail,ഏപ്രിൽ,ēpril,april
+615,मे,mē,મે,mē,মে,mē,ਮਈ,maī,മേയ്,mēy,may
+616,जून,jūna,જૂન,jūna,জুন,juna,ਜੂਨ,jūn,ജൂൺ,jūṇ,june
+617,जुलै,julā'ī,જુલાઈ,julā'ī,জুলাই,julāi,ਜੁਲਾਈ,julāī,ജൂലൈ,jūlai,july
+618,ऑगस्ट,ôgasṭa,ઓગસ્ટ,ōgasṭa,আগস্ট,āgasṭa,ਅਗਸਤ,agast,ഓഗസ്റ്റ്,ōgasṭŭ,august
+619,सप्टेंबर,sapṭembara,સપ્ટેમ્બર,sapṭēmbara,সেপ্টেম্বর,sēpṭembara,ਸਤੰਬਰ,sataṁbar,സെപ്റ്റംബർ,septambar,september
+620,ऑक्टोबर,ôkaṭōbara,ઓક્ટોબર,ōkaṭōbara,অক্টোবর,akṭōbara,ਅਕਤੂਬਰ,akatūbar,ഒക്ടോബർ,oktōbar,october
+621,नोव्हेंबर,nōvhēmbara,નવેમ્બર,navēmbara,নভেম্বর,nabhembara,ਨਵੰਬਰ,navaṁbar,നവംബർ,navambar,november
+622,डिसेंबर,ḍisembara,ડિસેમ્બર,ḍisembara,ডিসেম্বর,ḍisembara,ਦਸੰਬਰ,dasaṁbar,ഡിസംബർ,ḍisambar,december
+623,रविवार,ravivāra,રવિવાર,ravivāra,রবিবার,rabibāra,ਐਤਵਾਰ,aitavār,ഞായറാഴ്ച,ñāyaṟāḻca,Sunday
+624,सोमवार,sōmavāra,સોમવાર,sōmavāra,সোমবার,sōmabāra,ਸੋਮਵਾਰ,sōmavār,തിങ്കളാഴ്ച,tiṅkaḷāḻca,Monday
+625,मंगळवार,maṁgaḷavāra,મંગળવાર,maṁgaḷavāra,মঙ্গলবার,maṅgalabāra,ਮੰਗਲਵਾਰ,maṁgalavār,ചൊവ്വാഴ്ച,covvāḻca,Tuesday
+626,बुधवार,budhavāra,બુધવાર,budhavāra,বুধবার,budhabāra,ਬੁੱਧਵਾਰ,buddhavār,ബുധനാഴ്ച,budhanāḻca,Wednesday
+627,गुरुवार,guruvāra,ગુરુવાર,guruvāra,বৃহস্পতিবার,br̥haspatibāra,ਵੀਰਵਾਰ,vīravar,വ്യാഴാഴ്ച,vyāḻāḻca,Thursday
+628,शुक्रवार,śukravāra,શુક્રવાર,śukravāra,শুক্রবার,śukrabāra,ਸ਼ੁੱਕਰਵਾਰ,śukkaravār,വെള്ളിയാഴ്ച,veḷḷiyāḻca,Friday
+629,शनिवार,śanivāra,શનિવાર,śanivāra,শনিবার,śanibāra,ਸ਼ਨੀਵਾਰ,śanīvār,ശനിയാഴ്ച,śaniyāḻca,Saturday
+630,मेष,mēṣa,મેષ,mēṣa,মেষ,mēṣa,ਮੇਖ,mēkh,മേടം,mēṭaṁ,Aries
+631,वृषभ,vr̥ṣabha,વૃષભ,vr̥ṣabha,বৃষভ,br̥ṣabha,ਵ੍ਰਿਸ਼ਭ,vriśabh,ഇടവം,iṭavaṁ,Taurus
+632,मिथुन,mithuna,મિથુન,mithuna,মিথুন,mithuna,ਮਿਥੁਨ,mithun,മിഥുനം,mithunaṁ,Gemini
+633,कर्क,karka,કર્ક,karka,কর্কট,karkaṭa,ਕਰਕ,karak,കർക്കിടകം,karkkiṭakaṁ,Cancer
+634,सिंह,siṁha,સિંહ,siṁha,সিংহ,siṁha,ਸਿੰਘ,siṁgh,ചിങ്ങം,ciṅṅaṁ,Leo
+635,कन्या,kanyā,કન્યા,kanyā,কন্যা,kanyā,ਕੰਨਿਆ,kanniā,കന്നി,kanni,Virgo
+636,तुला,tulā,તુલા,tulā,তুলা,tulā,ਤੁਲਾ,tulā,തുലാം,tulāṁ,Libra
+637,वृश्चिक,vr̥ścika,વૃશ્ચિક,vr̥ścika,বৃশ্চিক,br̥ścika,ਵ੍ਰਿਸ਼ਚਿਕ,vriśacik,വൃശ്ചികം,vr̥ścikaṁ,Scorpio
+638,धनुष्य,dhanuṣya,ધનુષ,dhanuṣa,ধনু,dhanu,ਧਨੁਸ਼,dhanuś,ധനു,dhanu,Sagittarius
+639,मकर,makara,મકર,makara,মকর,makara,ਮਕਰ,makar,മകരം,makaraṁ,Capricorn
+640,कुंभ,kuṁbha,કુંભ,kuṁbha,কুম্ভ,kumbha,ਕੁੰਭ,kuṁbh,കുംഭം,kumbhaṁ,Aquarius
+641,मीन,mīna,મીન,mīna,মীন,mīna,ਮੀਨ,mīn,മീനം,meenaṁ,Pisces
+642,पूर्व,poorva,પૂર્વ,pūrva,পূর্ব,pūrba,ਪੂਰਬ,pūrab,കിഴക്ക്,kiḻakkŭ,east
+643,पश्चिम,paścima,પશ્ચિમ,paścima,পশ্চিম,paścima,ਪੱਛਮ,pacchaṁ,പടിഞ്ഞാറ്,paṭiññāṟŭ,west
+644,उत्तर,uttara,ઉત્તર,uttara,উত্তর,uttara,ਉੱਤਰ,uttar,വടക്ക്,vaṭakkŭ,north
+645,दक्षिण,dakṣiṇa,દક્ષિણ,dakṣiṇa,দক্ষিণ,dakṣiṇa,ਦੱਖਣ,dakkhaṇ,തെക്ക്,tekkŭ,south
+646,आग्नेय,āgnēya,આગ્નેય,āgnēya,আগ্নেয়,āgnēẏa,ਅਗਨੀ,aganī,ആഗ്നേയം,āgnēyaṁ,southeast
+647,नैऋत्य,nair̥tya,નૈઋત્ય,nair̥tya,নৈঋত,naihr̥ta,ਨੈਰੁਤਿਆ,nairuti'ā,നൈരൂതി,nairūti,southwest
+648,वायव्य,vāyavya,વાયવ્ય,vāyavya,বায়ব্য,bāẏabya,ਵਾਇਵਯਾ,vāivayā,വായവ്യം,vāyavyaṁ,northwest
+649,ईशान्य,īśānya,ઈશાન,īśāna,ঈশান,īśāna,ਈਸ਼ਾਨ,īśān,ഈശാന,īśāna,northeast
+650,काळा,kāḷā,કાળો,kāḷō,কালো,kālō,ਕਾਲਾ,kālā,കറുപ്പ്,kaṟuppŭ,black
+651,पांढरा,pāṁḍharā,સફેદ,sapheda,সাদা,sādā,ਚਿੱਟਾ,ciṭṭā,വെളുപ്പ്,veḷuppŭ,white
+652,लाल,lāla,લાલ,lāla,লাল,lāl,ਲਾਲ,lāl,ചുവപ്പ്,cuvappŭ,red
+653,पिवळा,pivaḷā,પીળો,pīḷō,হলুদ,haluda,ਪੀਲਾ,pīlā,മഞ്ഞ,mañña,yellow
+654,नीळ,nīḷa,વાદળી,vādalī,নীল,nīla,ਨੀਲਾ,nīlā,നീല,neela,blue
+655,हिरवा,hiravā,લીલો,līlō,সবুজ,sabuj,ਹਰਾ,harā,പച്ച,pacca,green
+656,पोपट हिरवा,pōpaṭa hiravā,પોપટ લીલો,pōpaṭa līlō,টিয়া সবুজ,ṭiẏā sabuja,ਤੋਤਾ ਹਰਾ,tōtā harā,കിളിപ്പച്ച,kiḷippacca,parrot green
+657,राख,rākha,રાખ,rākh,ছাই,chāi,ਸਵਾਹ,savāh,ചാരം,cāraṁ,ash
+658,गुलाबी,gulābī,ગુલાબી,gulābī,গোলাপি,gōlāpi,ਗੁਲਾਬੀ,gulābī,പിങ്ക്,piṁk,pink
+659,केशरी,kēśarī,કેસરી,kēsarī,গেরুয়া,gēruẏā,ਕੇਸਰੀ,kēsarī,കുങ്കുമം,kuṅkumaṁ,saffron
+660,जांभळा,jāṁbhaḷā,જાંબલી,jāṁbalī,বেগুনি,bēguni,ਜਾਮਨੀ,jāmanī,വയലറ്റ്,vayalaṟṟŭ,violet
+661,नारंगी,nāraṁgī,નારંગી,nāraṁgī,কমলা,kamalā,ਸੰਤਰੀ,saṁtarī,ഓറഞ്ച്,ōrañcŭ,orange
+662,अश्विनी,aśvinī,અશ્વિની,aśvinī,অশ্বিনী,aśbinī,ਅਸ਼ਵਿਨੀ,aśvinī,അശ്വതി,aśvati,Lunar Star
+663,भरणी,bharaṇī,ભરણી,bharaṇī, ভরণী,bharaṇī,ਭਰਨੀ,bharanī,ഭരണി,bharaṇi,Lunar Star
+664,कृतिका,kr̥tikā,કૃતિકા,kr̥tikā,কৃত্তিকা,kr̥ttikā,ਕ੍ਰਿਤਿਕਾ,karitikā,കാർത്തിക,kārttika,Lunar Star
+665,रोहिणी,rōhiṇī,રોહિણી,rōhiṇī,রোহিণী,rōhiṇī,ਰੋਹਿਣੀ,rōhiṇī,രോഹിണി,rōhiṇi,Lunar Star
+666,मृगशिरा,mr̥gaśirā,મૃગશિરા,mr̥gaśirā,মৃগশিরা,mr̥gaśirā,ਮ੍ਰਿਗਸ਼ਿਰਾ,mriġaśirā,മകയിരം,makayiraṁ,Lunar Star
+667,आर्द्रा,ārdrā,આર્દ્રા,ārdrā,আর্দ্রা,ārdra,ਆਰਦ੍ਰਾ,āradrā,തിരുവാതിര,tiruvātira,Lunar Star
+668,पुनर्वसू,punarvasū,પુનર્વસુ,punarvasu,পুনর্বসু,punarbāsu,ਪੁਨਰਵਸੂ,punaravasū,പുണർതം,puṇartaṁ,Lunar Star
+669,पुष्यमी,puṣyamī,પુષ્યમી,puṣyamī, পুষ্যামী,puṣyāmī,ਪੁਸ਼ਮੀ,puśamī,പൂയം,pūyaṁ,Lunar Star
+670,आश्लेषा,āślēṣā,આશ્લેષા,āślēṣā,আশ্লেষা,āślēṣā,ਆਸ਼ਲੇਸ਼ਾ,āśalēśā,ആയില്യം,āyilyaṁ,Lunar Star
+671,मघा,maghā,મઘા,maghā,মঘা,maghā,ਮਾਘਾ,māghā,മകം,makaṁ,Lunar Star
+672,पुब्बा,pubbā,પૂર્વા,pūrvā,পূর্বা,pūrbā,ਪੂਰਬਾ,pūrabā,പൂരം,pūraṁ,Lunar Star
+673,उत्तरा,uttarā,ઉત્તરા,uttarā,উত্তরা,uttarā,ਉੱਤਰਾ,uttarā,ഉത്രം,utraṁ,Lunar Star
+674,हस्त,hasta,હસ્ત,hasta,হস্ত,hasta,ਹਸਤਾ,hasatā,അത്തം,attaṁ,Lunar Star
+675,चित्त,citta,ચિત્ત,citta,চিত্তা,cittā,ਚਿੱਤ,citt,ചിത്തിര,cittira,Lunar Star
+676,स्वाती,svātī,સ્વાતિ,svāti,স্বাতী,svātī,ਸਵਾਤੀ,savātī,ചോതി,cōti,Lunar Star
+677,विशाखा,viśākhā,વિશાખા,viśākhā,বিশাখা,biśākhā,ਵਿਸ਼ਾਖਾ,viśākhā,വിശാഖം,viśākhaṁ,Lunar Star
+678,अनुराधा,anurādhā,અનુરાધા,anurādhā,অনুরাধা,anurādhā,ਅਨੁਰਾਧਾ,anurādhā,അനിഴം,aniḻaṁ,Lunar Star
+679,ज्येष्ठा,jyēṣṭhā,જ્યેષ્ઠા,jyēṣṭhā,জ্যেষ্ঠা,jyēṣṭhā,ਜੇਸ਼ਠਾ,jēśaṭhā,തൃക്കേട്ട,tr̥kkēṭṭa,Lunar Star
+680,मूळ,mūḷa,મૂળ,mūḷa,মূল,mūla,ਮੂਲ,mūl,മൂലം,mūlaṁ,Lunar Star
+681,पूर्वाषाढा,pūrvāṣāḍhā,પૂર્વાષાઢા,pūrvāṣāḍhā,পূর্বাষাঢ়া,pūrbāṣāṛhā,ਪੂਰਵਾਸ਼ਾਦਾ,pūravāśādā,പൂരാടം,pūrāṭaṁ,Lunar Star
+682,उत्तराषाढा,uttarāṣāḍhā,ઉત્તરાષાઢા,uttarāṣāḍhā,উত্তরষাঢ়া,uttaraṣāṛhā,ਉੱਤਰਾਸ਼ਾਦਾ,uttarāśādā,ഉത്രാടം,utrāṭaṁ,Lunar Star
+683,श्रवण,śravaṇa,শ্রবণ,śravaṇa,শ্রবণ,śrabaṇa,ਸਰਵਣ,saravaṇ,തിരുവോണം,tiruvōṇaṁ,Lunar Star
+684,धनिष्ठा,dhaniṣṭhā,ધનિષ્ઠા,dhaniṣṭhā,ধনিষ্ঠা,dhaniṣṭhā,ਧਨਿਸ਼ਟਾ,dhaniśaṭā,അവിട്ടം,aviṭṭaṁ,Lunar Star
+685,शतभिषा,śatabhiṣā,શતભિષા,śatabhiṣā,শতভিষা,śatabhiṣā,ਸ਼ਤਭੀਸ਼ਾ,śatabhīśā,ചതയം,catayaṁ,Lunar Star
+686,पूर्वाभाद्र,pūrvābhādra,પૂર્વભાદ્ર,pūrvabhādra,পূর্বভাদ্র,pūrbabhādra,ਪੂਰਬਾਭਾਦ੍ਰ,pūrabābhādra,പൂരുരുട്ടാതി,pūruṟuṭṭāti,Lunar Star
+687,उत्तराभाद्र,uttarābhādra,ઉત્તરાભાદ્ર,uttarābhādra,উত্তরভাদ্র,uttarabhādra,ਉੱਤਰਾਭਾਦ੍ਰ,uttarābhādra,ഉത്തൃട്ടാതി,uttṛṭṭāti,Lunar Star
+688,रेवती,rēvatī,રેવતી,rēvatī,রেবতী,rēbatī,ਰੇਵਤੀ,rēvatī,രേവതി,rēvati,Lunar Star
+689,कश्यप,kaśyapa,કશ્યપ,kaśyapa,কাশ্যপ,kāśyapa,ਕਸ਼ਿਅਪ,kaśi'ap,കാശ്യപൻ,kāśyapan,Sage
+690,अत्री,atrī,અત્રી,atrī,অত্রি,atri,ਅਤ੍ਰੀ,atrī,അത്രി,atri,Sage
+691,भारद्वाज,bhāradvāja,ભરદ્વાજ,bharadvāja,ভরদ্বাজ,bharadbāja,ਭਾਰਦਵਾਜ,bhāradavāj,ഭരദ്വാജൻ,bharadvājan,Sage
+692,विश्वामित्र,viśvāmitra,વિશ્વામિત્ર,viśvāmitra,বিশ্বামিত্র,biśbāmitra,ਵਿਸ਼ਵਾਮਿੱਤਰ,viśavāmīttar,വിശ്വാമിത്രൻ,viśvāmitran,Sage
+693,गौतम,gautama,ગૌતમ,gautama,গৌতম,gautama,ਗੌਤਮ,gautam,ഗൗതമൻ,gautaman,Sage
+694,जमदग्नी,jamadagnī,જમદગ્નિ,jamadagni,জমদগ্নি,jamadagni,ਜਮਦਗਨੀ,jamadaganī,ജമദഗ്നി,jamadagni,Sage
+695,वसिष्ठ,vasiṣṭha,વસિષ્ઠ,vasiṣṭha,বশিষ্ট,baśiṣṭa,ਵਸਿਸ਼ਠ,vasiśaṭh,വസിഷ്ഠൻ,vasiṣṭhan,Sage
+696,सूर्य,sūrya,સૂર્ય,sūrya,সূর্য,sūrya,ਸੂਰਜ,sūraj,സൂര്യൻ,sūryan,Sun
+697,चंद्र,caṁdra,ચંદ્ર,caṁdra,চাঁদ,cāṁda,ਚੰਨ,cann,ചന്ദ്രൻ,candran,Moon
+698,मंगळ,maṁgaḷa,મંગળ,maṁgaḷa,মঙ্গল,maṅgala,ਮੰਗਲ,maṁgal,ചൊവ്വ,covva,Mars
+699,बुध,budha,બુધ,budha,বুধ,budha,ਬੁੱਧ,buddh,ബുധൻ,budhan,Mercury
+700,गुरु,guru,ગુરુ,guru,বৃহস্পতি,br̥haspati,ਬ੍ਰਿਹਸਪਤੀ,birihasapatī,വ്യാഴം,vyāḻaṁ,Jupiter
+701,शुक्र,śukra,શુક્ર,śukra,শুক্র,śukra,ਸ਼ੁਕਰ,śukar,ശുക്രൻ,śukran,Venus
+702,शनिश्चर,śaniścara,શનિશ્ચર,śaniścara,শনৈশ্চর,śanaiścara,ਸ਼ਨੀ,śanī,ശനി,śani,Saturn
+703,राहु,rāhu,રાહુ,rāhu,রাহু,rāhu,ਰਾਹੂ,rāhū,രാഹു,rāhu,Dragon's head
+704,केतू,kētū,કેતુ,kētu,কেতু,kētu,ਕੇਤੂ,kētū,കേതു,kētu,Dragon's tail
+705,हिरा,hirā,હીરા,hīrā,হীরা,hīrā,ਹੀਰਾ,hīrā,വജ്രം,vajraṁ,diamond
+706,वैडूर्य,vaiḍūrya,વૈદુર્ય,vaidurya,বৈদুর্য,baidurya,ਵੈਡੂਰਿਆ,vaiḍūri'ā,വൈഡൂര്യം,vaiḍooryaṁ,cat's eye
+707,गोमेद,gōmēda,ગોમેદ,gōmēda,গোমেদ,gōmēda,ਗੋਮੇਧ,gōmēdh,ഗോമേധകം,gōmēdhakaṁ,zirconium
+708,पुष्कराज,puṣkarāja,પુષ્પરાજ,puṣparāja,পুষ্পরাগ,puṣparāga,ਪੁਸ਼ਰਾਜ,puśarāj,പുഷ്യരാഗം,puṣyarāgaṁ,topaz
+709,पाचू,pācū,પન્ના,pannā,পান্না,pānnā,ਪੰਨਾ,pannā,മരതകം,maratakaṁ,emerald
+710,माणिक,māṇika,માણિક,māṇika,মাণিক,māṇika,ਮਾਣਿਕ,māṇik,മാണിക്യം,māṇikyaṁ,ruby
+711,नीळ,nīḷa,નીલ,nīla,নীল,nīla,ਨੀਲਾ,nīlā,നീല,neela,sapphire
+712,पोवळे,pōvaḷe,પ્રવાલ,pravāla,প্রবাল,prabāla,ਮੂੰਗਾ,mūṁgā,പവിഴം,paviḻaṁ,coral
+713,मोती,mōtī,મોતી,mōtī,মুক্তা,muktā,ਮੋਤੀ,mōtī,മുത്ത്,muttŭ,pearl
+714,भात,bhāta,ધાન્ય,dhānya,ধান,dhāna,ਚੌਲ,caul,നെല്ല്,nellŭ,paddy
+715,कुळीथ,kuḷītha,કુલથી,kulathī,কুলথী,kulathī,ਕੁਲਥੀ,kulathī,മുതിര,mutira,horsegram
+716,हिरवे हरभरे,hiravē harabhare,મગ,mag,মুগ ডাল,muga ḍāla,ਮੂੰਗ ਦਾਲ,mūṁg dāl,ചെറുപയർ,ceṟupayaṟŭ,greengram
+717,उडीद,uḍīda,અડદ,aḍada,উড়দ,uṛada,ਮਾਹ,māh,ഉഴുന്ന്,uḻunnŭ,blackgram
+718,गहू,gahū,ઘઉં,ghauṁ,গম,gama,ਕਣਕ,kaṇak,ഗോതമ്പ്,gōtampŭ,wheat
+719,राजमा,rājamā,રાજમા,rājamā,রাজমা,rājamā,ਰਾਜਮਾ,rājamā,രാജ്മ,rājma,rajmagram
+720,तूर डाळ,tūra ḍāḷa,તુર દાળ,tura dāḷa,তোর ডাল,tōra ḍāla,ਅਰਹਰ ਦਾਲ,arahar dāl,തുവരപ്പരിപ്പ്,tuvarapparippŭ,redgram
+721,हरभरे,harabhare,ચણા,chaṇā,ছোলা,chōlā,ਛੋਲੇ,chōlē,കടല,kaṭala,bengalgram
+722,तीळ,tīḷa,તલ,tala,তিল,tila,ਤਿਲ,til,എള്ള്,eḷḷŭ,gingili
+723,आनंद,ānanda,આનંદ,ānanda,আনন্দ,ānanda,ਖੁਸ਼ੀ,khuśī,സന്തോഷം,santōṣaṁ,pleasure
+724,दुःख,duḥkha,દુઃખ,duḥkha,দুঃখ,duḥkha,ਦੁੱਖ,dukh,ദുഃഖം,duḥkhaṁ,sorrow
+725,ईर्ष्या,īrṣyā,ઈર્ષ્યા,īrṣyā,হিংসা,hiṁsā,ਈਰਖਾ,īrakhā,അസൂയ,asūya,jealousy
+726,द्वेष,dvēṣa,દ્વેષ,dvēṣa,ঘৃণা,ghr̥ṇā,ਨਫ਼ਰਤ,nafarat,വെറുപ്പ്,veṟuppŭ,hatred
+727,संशय,saṁśaya,શંકા,śaṁkā,সন্দেহ,sandēha,ਸ਼ੱਕ,śakk,സംശയം,saṁśayaṁ,suspicion
+728,राग,rāga,ગુસ્સો,gussō,রাগ,rāga,ਗੁੱਸਾ,gussā,ദേഷ്യം,dēṣyaṁ,anger
+729,इच्छा,icchā,આશા,āśā,আশা,āśā,ਆਸ,ās,ആഗ്രഹം,āgrahaṁ,ambition
+730,दया,dayā,દયા,dayā,দয়া,daẏā,ਦਇਆ,da'iā,ദയ,daya,kindness
+731,शांतता,śāṁtatā,મૌન,mauna,নীরবতা,nīrabatā,ਚੁੱਪ,cupp,മൗനം,maunaṁ,silence
+732,तिरस्कार,tiraskāra,ઉત્તેજના,uttējanā,বিরক্তি,birakti,ਚਿੜਚਿੜਾਪਨ,ciṛaciri'āpan,വെറുപ്പ്,veṟuppŭ,vexation
+733,असह्य,asahya,અસહ્ય,asahya,অসহ্য,asahya,ਅਸਹਿ,asahi,അസഹ്യം,asahyaṁ,unbearable
+734,अहंकार,ahaṁkāra,અહંકાર,ahaṁkāra,অহংকার,ahaṁkāra,ਹੰਕਾਰ,haṁkār,അഹങ്കാരം,ahaṅkāraṁ,ego
+735,तुलना,tulanā,સરખામણી,sarakhāmaṇī,তুলনা,tulanā,ਤੁਲਨਾ,tulanā,സാമ്യം,sāmyaṁ,comparison
+736,प्रेरणा,prēraṇā,પ્રેરણા,prēraṇā,অনুপ্রেরণা,anuprēraṇā,ਪ੍ਰੇਰਨਾ,prēranā,പ്രചോദനം,pracōdanaṁ,inspiration
+737,उत्साह,utsāha,ઉત્સાહ,utsāha,উৎসাহ,utsāha,ਉਤਸ਼ਾਹ,utaśāh,ഉത്സാഹം,utsāhaṁ,spirit
+738,शरीर,śarīra,શરીર,śarīra,শরীর,śarīra,ਸਰੀਰ,sarīr,ശരീരം,śareeraṁ,body
+739,डोके,ḍōke,માથું,māthūṁ,মাথা,māthā,ਸਿਰ,sir,തല,tala,head
+740,चेहरा,ceharā,ચહેરો,cahērō,মুখ,mukha,ਚਿਹਰਾ,ciharā,മുഖം,mukhaṁ,face
+741,डोळा,ḍōḷā,આંખ,āṁkha,চোখ,cōkha,ਅੱਖ,akkh,കണ്ണ്,kaṇṇŭ,eye
+742,नाक,nāka,નાક,nāka,নাক,nāka,ਨੱਕ,nakk,മൂക്ക്,mūkkŭ,nose
+743,तोंड,tōṁḍa,મોં,mōṁ,মুখ,mukha,ਮੂੰਹ,mūṁh,വായ,vāya,mouth
+744,कान,kāna,કાન,kāna,কান,kāna,ਕੰਨ,kann,ചെവി,cevi,ear
+745,मान,māna,ગળું,gaḷuṁ,গলা,galā,ਗਰਦਨ,garadan,കഴുത്ത്,kaḻuttŭ,neck
+746,गळा,gaḷā,ગળું,gaḷuṁ,গলা,galā,ਗਲਾ,galā,തൊണ്ട,toṇṭa,throat
+747,छाती,chātī,છાતી,chātī,বুক,buka,ਛਾਤੀ,chātī,നെഞ്ച്,neñcŭ,chest
+748,जीभ,jībha,જીભ,jībha,জিহ্বা,jihbā,ਜੀਭ,jībh,നാവ്,nāvŭ,tongue
+749,कंबर,kaṁbara,કમર,kamara,কোমর,kōmara,ਕਮਰ,kamar,അരക്കെട്ട്,arakkeṭṭŭ,waist
+750,नाभी,nābhī,નાભિ,nābhi,নাভি,nābhi,ਨਾਭੀ,nābhī,പൊക്കിൾ,pokkiḷ,navel point
+751,हृदय,hr̥daya,હૃદય,hr̥daya,হৃদয়,hr̥daẏa,ਦਿਲ,dil,ഹൃദയം,hr̥dayaṁ,heart
+752,हात,hāta,હાથ,hāth,হাত,hāta,ਹੱਥ,hatth,കൈ,kai,hand
+753,पोट,pōṭa,પેટ,pēṭa,পেট,pēṭa,ਢਿੱਡ,ḍhiḍḍ,വയറ്,vayaṟŭ,stomach
+754,मांडी,māṁḍī,જાંઘ,jāṁgha,উর,ura,ਪੱਟ,paṭṭ,തുട,tuṭa,thigh
+755,पाठ,pāṭha,પીઠ,pīṭh,পিঠ,piṭha,ਪਿੱਠ,pitth,പുറം,puṟaṁ,back
+756,पाय,pāya,પગ,paga,পা,pā,ਲੱਤ,latt,കാൽ,kāl,leg
+757,पाय,pāya,પગ,paga,পা,pā,ਪੈਰ,pair,പാദം,pādaṁ,foot
+758,बोट,bōṭa,આંગળી,āṁgaḷī,আঙুল,āṁgula,ਉਂਗਲ,uṁgal,വിരൽ,viral,finger
+759,नखे,nakhe,નખ,nakha,নখ,nakha,ਨਹੁੰ,nahuṁ,നഖം,nakhaṁ,nail
+760,आई,ā'ī,માતા,mātā,মা,mā,ਮਾਂ,māṁ,അമ്മ,amma,mother
+761,वडील,vaḍīla,પિતા,pitā,বাবা,bābā,ਪਿਤਾ,pitā,അച്ഛൻ,acchan,father
+762,आजी,ājī,નાની,nānī,ঠাকুমা,ṭhāku mā,ਦਾਦੀ,dādī,അമ്മൂമ്മ,ammūmma,grand mother (maternal)
+763,आजोबा,ājōbā,દાદા,dādā,দাদা,dādā,ਦਾਦਾ,dādā,മുത്തച്ഛൻ,muttacchan,grandfather
+764,मामा,māmā,મામા,māmā,মামা,māmā,ਮਾਮਾ,māmā,അമ്മാവൻ,ammāvan,maternal uncle
+765,काकू,kākū,ફોઈ,phō'ī,পিসি,pisi,ਭੂਆ,bhū'ā,അമ്മായി,ammāyi,aunt (father's sister)
+766,काका,kākā,કાકા,kākā,কাকা,kākā,ਚਾਚਾ,cācā,ചിറ്റപ്പൻ,ciṭṭappan,uncle (father's younger brother)
+767,काकू,kākū,માસી,māsī,মাসি,māsi,ਮਾਸੀ,māsī,ചിറ്റമ്മ,ciṭṭamma,aunt (mother's younger sister)
+768,मोठे वडील,mōṭhe vaḍīla,મોટા પિતા,mōṭā pitā,বড় বাবা,baṛa bābā,ਵੱਡੇ ਪਿਤਾ,vadḍē pitā,വല്യപ്പൻ,valyappan,uncle (father's elder brother)
+769,मोठी आई,mōṭhī ā'ī,મોટી માતા,mōṭī mātā,বড় মা,baṛa mā,ਵੱਡੀ ਮਾਂ,vadḍī māṁ,വല്യമ്മ,valyamma,aunt (mother's elder sister)
+770,मोठी बहीण,mōṭhī bahīṇa,મોટી બહેન,mōṭī bahena,দিদি,didi,ਵੱਡੀ ਭੈਣ,vadḍī bhaiṇ,ചേച്ചി,cēcci,elder sister
+771,मेहुणा,mēhuṇā,જીજાજી,jījājī,দুলাভাই,dulābhai,ਜੀਜਾ,jījā,ചേട്ടൻ,cēṭṭan,brother-in-law
+772,मोठा भाऊ,mōṭhā bhā'ū,મોટો ભાઈ,mōṭō bhā'ī,বড় ভাই,baṛa bhāi,ਵੱਡਾ ਭਰਾ,vadḍā bharā,ചേട്ടൻ,cēṭṭan,elder brother
+773,वहिनी,vahinī,ભાભી,bhābhī,বৌদি,baudi,ਭਾਬੀ,bhābī,നാത്തൂൻ,nāttūn,sister-in-law (elder brother's wife)
+774,जाऊ,jā'ū,સાથી બહેન,sāthī bahena,সহ বোন,saha bōna,ਸਹਿ-ਭੈਣ,sahi-bhaiṇ,കൂട്ടുകാരി,kūṭṭukāri,co-sister
+775,मुलगा,mulagā,પુત્ર,putra,ছেলে,chelē,ਪੁੱਤਰ,puttar,മകൻ,makan,son
+776,सून,sūna,પુત્રવધૂ,putravadhū,পুত্রবধূ,putrabadhū,ਨੂੰਹ,nūṁh,മരുമകൾ,marumakaḷ,daughter-in-law
+777,भाऊ,bhā'ū,ભાઈ,bhā'ī,ভাই,bhāi,ਭਰਾ,bharā,മരുമകൻ,marumakan,brother-in-law (husband's younger brother)
+778,बहीण,bahīṇa,બહેન,bahena,বোন,bōna,ਭੈਣ,bhaiṇ,മരുമകൾ,marumakaḷ,sister-in-law (husband's younger sister)
+779,नातू,nātū,પૌત્ર,pautra,নাতি,nāti,ਪੋਤਾ,pōtā,പേരക്കുട്ടി,pērakkuṭṭi,grandson
+780,नात,nāta,પૌત્રી,pautrī,নাতনি,nātani,ਪੋਤੀ,pōtī,പേരക്കുട്ടി,pērakkuṭṭi,grand daughter
+781,भाची,bhācī,ભત્રીજી,bhartrībhakti,ভাগ্নি,bhāgni,ਭਤੀਜੀ,bhatījī,മരുമകൾ,marumakaḷ,niece
+782,सह-भाऊ,saha-bhā'ū,સહ-ભાઈ,saha-bhā'ī,সহ-ভাই,saha-bhā'i,ਸਹਿ-ਭਰਾ,sahi-bharā,സഹോദരൻ,sahōdaran,co-brother
+783,भाचा,bhācā,ભત્રીજો,bhatrījō,ভাগ্নে,bhāgnē,ਭਤੀਜਾ,bhatījā,മരുമകൻ,marumakan,nephew
+784,सासरे,sāsare,સાસુ,sāsu,শাশুড়ি,śāśuṛi,ਸੱਸ,sass,അമ്മായിഅമ്മ,ammāyi'amma,son's/daughter's mother-in-law
+785,जावई,jāva'ī,સસુર,sasur,শ্বশুর,śbaśura,ਸਹੁਰਾ,sahaura,അമ്മായിഅപ്പൻ,ammāyi'appan,son's/daughter's father-in-law
+786,शेतकरी,śetakarī,ખેડૂત,khēḍūta,কৃষক,kr̥ṣaka,ਕਿਸਾਨ,kisān,കർഷകൻ,karṣakan,farmer
+787,कुंभार,kuṁbhāra,કુંભાર,kuṁbhāra,কুমোর,kumōra,ਕੁਮਾਰ,kumār,കുംഭകാരൻ,kumbhakāran,potter
+788,लोहार,lōhāra,લુહાર,luhāra,কামার,kāmāra,ਲੁਹਾਰ,luhār,കമ്മാരൻ,kammāran,black smith
+789,मजूर,majūra,મજૂર,majūra,শ্রমিক,śramika,ਮਜ਼ਦੂਰ,mazadūr,കൂലിപ്പണിക്കാരൻ,koolippaṇikkāran,hired worker
+790,दूधवाला,dūdhavālā,દૂધવાળો,dūdhavāḷō,গোয়ালা,gōẏālā,ਦੁੱਧ ਵਾਲਾ,duddh vālā,പാൽക്കാരൻ,pālkkāran,milkman
+791,विणकर,viṇakara,વણકર,vaṇakara,তাঁতি,tāṁti,ਬੁਣਕਰ,buṇakar,നെയ്ത്തുകാരൻ,neyttukāran,weaver
+792,तेलबिया,tēlabiyā,તેલ પીસનાર,tēla pīsanāra,তেল-কলওয়ালা,tēla-kal'ōẏālā,ਤੇਲ ਪੀੜਨ ਵਾਲਾ,tēl pīṛan vālā,എണ്ണയാട്ടുകാരൻ,eṇṇayāṭṭukāran,oilpresser
+793,न्हावी,nhāvī,નાઈ,nā'ī,নাপিত,nāpita,ਨਾਈ,nāī,ക്ഷുരകൻ,kṣurakan,barber
+794,लेखापाल,lēkhāpāla,હિસાબનીશ,hisābanīśa,হিসাবরক্ষক,hisābarakṣaka,ਲੇਖਾਕਾਰ,lēkhākār,അക്കൗണ്ടന്റ്,akkauṇṭanṟŭ,accountant
+795,शिकारी,śikārī,શિકારી,śikārī,শিকারী,śikārī,ਸ਼ਿਕਾਰੀ,śikārī,വേട്ടക്കാരൻ,vēṭṭakkāran,hunter
+796,सुतार,sutāra,સુથાર,suthāra,ছুতার,chutāra,ਤਰਖਾਣ,tarakhāṇ,മരപ്പണിക്കാരൻ,marappaṇikkāran,carpenter
+797,सोनार,sōnāra,સોની,sōnī,স্বর্ণকার,svarṇakāra,ਸੁਨਿਆਰ,suni'ār,സ്വർണ്ണപ്പണിക്കാരൻ,svarṇṇappaṇikkāran,goldsmith
+798,डॉक्टर,ḍôkaṭara,ડોક્ટર,ḍōkaṭara,ডাক্তার,ḍākṭāra,ਡਾਕਟਰ,ḍākaṭar,ഡോക്ടർ,ḍōkṭar,doctor
+799,पूजारी,pūjārī,પૂજારી,pūjārī,পূজারী,pūjārī,ਪੁਜਾਰੀ,pujārī,പൂജാരി,pūjāri,priest
+800,नोकर,nōkara,નોકર,nōkara,চাকর,cākara,ਨੌਕਰ,naukar,വേലക്കാരൻ,vēlakkāran,servant
+801,कामगार,kāmagāra,કામદાર,kāmadāra,শ্রমিক,śramika,ਮਜ਼ਦੂਰ,mazadūr,തൊഴിലാളി,toḻilāḷi,labourer
+802,धोबी,dhōbī,ધોબી,dhōbī,ধোপা,dhōpā,ਧੋਬੀ,dhōbī,അലക്കുകാരൻ,alakkukāran,washerman
+803,रंगारी,raṁgārī,પેઇન્ટર,pē'inṭara,চিত্রশিল্পী,citraśilpī,ਪੇਂਟਰ,pēṁṭar,ചിത്രകാരൻ,citrakāran,painter
+804,कच्चे केळ,kaccē kēḷa,કાચું કેળું,kāchuṁ kēḷuṁ,কাঁচা কলা,kāṁcā kalā,ਕੱਚਾ ਕੇਲਾ,kaccā kēlā,വാഴക്കായ,vāḻakkāya,plantain (raw banana)
+805,बटाटा,baṭāṭā,બટાટા,baṭāṭā,আলু,ālu,ਆਲੂ,ālū,ഉരുളക്കിഴങ്ങ്,uruḷakkīḻaṅṅŭ,potato
+806,हिरव्या भाज्या,hiravyā bhājyā,લીલા શાકભાજી,līlā śākabhājī,সবুজ শাকসবজি,sabuj śākasabaji,ਹਰੀਆਂ ਸਬਜ਼ੀਆਂ,harīāṁ sabazīāṁ,ഇലക്കറികൾ,ilakkaṟikaḷ,greens
+807,कांदा,kāṁdā,ડુંગળી,ḍuṁgaḷī,পেঁয়াজ,pēm̐ẏāja,ਪਿਆਜ਼,pi'āz,സവാള,savāḷa,onion
+808,कारले,kāralē,કારેલું,kārēluṁ,করলা,karalā,ਕਰੇਲਾ,karēlā,കയ്പ്പക്ക,kayppakka,bitter gourd
+809,भोपळा,bhōpaḷā,કોળું,kōḷuṁ,কুমড়ো,kumaṛō,ਕੱਦੂ,kaddū,മത്തങ്ങ,mattāṅṅa,pumpkin
+810,सर्प कोबी,sarpa kōbī,સાપ ગોળ,sāpa gōḷa,সাপ লাউ,sāpa lāu,ਸੱਪ ਦੀ ਲੌਕੀ,sapp dī laukī,പടവലം,paṭavalaṁ,snake gourd
+811,स्थानिक शेंगा,sthānika śēṁgā,સ્થાનિક કઠોળ,sthānika kaṭhōḷa,স্থানীয় মটরশুঁটি,sthānīẏa maṭaraśuṁṭi,ਸਥਾਨਕ ਫਲੀਆਂ,sathānak phalīāṁ,നാടൻ ബീൻസ്,nāṭan bīns,local beans
+812,शेंगा,śēṁgā,કઠોળ,kaṭhōḷa,মটরশুঁটি,maṭaraśuṁṭi,ਫਲੀਆਂ,phalīāṁ,ബീൻസ്,beens,beans
+813,काकडी,kākaḍī,કાકડી,kākaḍī,শসা,śaśā,ਖੀਰਾ,khīrā,വെള്ളരി,veḷḷari,cucumber
+814,भेंडी,bhēṁḍī,ભીંડા,bhīṁḍā,ঢেঁড়স,ḍhēm̐ṛasa,ਭਿੰਡੀ,bhiṁḍī,വെണ്ടയ്ക്ക,veṇṭaykka,lady's finger (okra)
+815,तोंडले,tōṁḍalē,ટીંડોરા,ṭīṁḍōrā,ঢেঁড়স,ḍhēṁṛasa,ਟਿੰਡੋਰਾ,ṭiṁḍōrā,കോവയ്ക്ക,kōvaykka,gherkins (tindora)
+816,वांगी,vāṁgī,રીંગણ,rīgaṇa,বেগুন,bēguna,ਬੈਂਗਣ,baiṁgaṇ,വഴുതനങ്ങ,vaḻutanāṅṅa,brinjal (eggplant)
+817,टोमॅटो,ṭōmyāṭō,ટામેટા,ṭāmēṭā,টমেটো,ṭamēṭō,ਟਮਾਟਰ,ṭamāṭar,തക്കാളി,takkāḷi,tomato
+818,अरबी,arabī,આરવી,āravī,কলোকাসিয়া,kalōkāsiẏā,ਕੋਲੋਕੇਸੀਆ,kōlōkēsīā,ചേമ്പ്,cēmpŭ,colocacia (taro root)
+819,शेवग्याची शेंग,śēvagīcī śēṁga,સરગવાની શીંગ,saragavānī śīṁga,সজনে ডাঁটা,sajanē ḍāṁṭā,ਡ੍ਰਮਸਟਿਕ,ḍaramasaṭik,മുരിങ്ങക്കായ,muriṅṅakkāya,drumstick
+820,मुळा,muḷā,મૂળો,mūḷō,মূলা,mūlā,ਮੂਲੀ,mūlī,മുള്ളങ്കി,muḷḷaṅki,radish
+821,सुरण,suraṇa,યામ,yāma,ইয়াম,iẏāma,ਹਾਲ,hāl,ചേന,cēna,elephant foot (yam)
+822,दोडका,dōḍakā,તુરીયા,turīyā,লাউ,lāu,ਰਿਜ ਲੌਕੀ,rij laukī,പീച്ചങ്ങാ,peeccāṅṅa,ridge gourd
+823,भोपळा,bhōpaḷā,દૂધી,dūdhī,লাউ,lāu,ਬੋਤਲ ਲੌਕੀ,bōtal laukī,ചുരയ്ക്ക,curaykka,bottle gourd
+824,केळ,kēḷa,કેળું,kēḷuṁ,কলা,kalā,ਕੇਲਾ,kēlā,വാഴപ്പഴം,vāḻappaḻaṁ,banana
+825,द्राक्ष,drākṣa,દ્રાક્ષ,drākṣa,আঙুর,āṅgura,ਅੰਗੂਰ,aṁgūr,മുന്തിരി,muntiri,grapes
+826,आंबा,āṁbā,કેરી,kērī,আম,āma,ਅੰਬ,aṁb,മാമ്പഴം,māṁpaḻaṁ,mango
+827,पेरू,pērū,જામફળ,jāmaphaḷa,পেয়ারা,pēẏārā,ਅਮਰੂਦ,amarūd,പേരക്ക,pērakka,guava
+828,जांभूळ,jāṁbhūḷa,જાંબુ,jāṁbu,জামুন,jāmuna,ਜਾਮੁਨ,jāmun,ഞാവൽ,ñāval,cherry (jamun)
+829,सपोता,sapōtā,સપોટા,sapōṭā,সাপোটা,sāpōṭā,ਸਪੋਟਾ,sapōṭā,സപ്പോട്ട,sapoṭṭa,sapota
+830,संत्रे,saṁtre,નારંગી,nāraṁgī,কমলা,kamalā,ਸੰਤਰਾ,saṁtarā,ഓറഞ്ച്,ōrañcŭ,orange
+831,पपई,papaī,પપૈયા,papēiyā,পেঁপে,pēm̐pē,ਪਪੀਤਾ,papītā,പപ്പായ,pappāya,papaya
+832,टरबूज,ṭarabūja,તરબૂચ,tarabūca,তরমুজ,taramuja,ਤਰਬੂਜ਼,tarabūz,തണ്ണിമത്തൻ,taṇṇimattan,water melon
+833,डाळिंब,ḍāḷiṁba,દાડમ,dāḍama,ডালিম,ḍālima,ਅਨਾਰ,anār,മാതളനാരങ്ങ,mātaḷanāraṅṅa,pomegranate
+834,बेल,bēla,બેલ,bēla,বেল,bēla,ਬੇਲ,bēl,വിളഞ്ഞപഴം,viḷaññapaḻaṁ,wood apple
+835,खजूर,khajūra,ખજૂર,khajūra,খেজুর,khējura,ਖਜੂਰ,khajūr,ഈന്തപ്പഴം,īntappazhaṁ,date
+836,फणस,phaṇasa,ફણસ,phaṇasa,কাঁঠাল,kāṁṭhāla,ਕੱਠਲ,kaṭṭhal,ചക്കപ്പഴം,cakkappazhaṁ,jackfruit
+837,बोर,bōra,બોર,bōra,কুল,kula,ਅੰਬੀ,aṁbī,ഇലഞ്ഞിപ്പഴം,ilaññippaḻaṁ,pear (jujube fruit)
+838,अननस,ananas,અનાનસ,anānas,আনারস,ānāras,ਅਨਾਨਾਸ,anānās,കൈതച്ചക്ക,kaitaccakka,pineapple
+839,सीताफळ,sītāphaḷa,સીતાફળ,sītāphaḷa,সীতাফল,sītāphala,ਸੀਤਾਫਲ,sītāphal,സീതപ്പഴം,seetappazhaṁ,custard apple
+840,सफरचंद,sapharacaṁda,સફરજન,sapharajana,আপেল,āpēla,ਸੇਬ,sēb,ആപ്പിൾ,āppiḷ,apple
+841,पिंपळ वृक्ष,piṁpaḷa vr̥kṣa,પીપળનું વૃક્ષ,pīpaḷanuṁ vr̥kṣa,পিপল গাছ,pipala gācha,ਪਿੱਪਲ ਦਾ ਰੁੱਖ,pittaphal dā rukkh,അരയാൽ,arayāl,fig tree (peepal)
+842,बदामाचे झाड,badāmāce jhāḍa,બદામનું વૃક્ષ,badāmanuṁ vr̥kṣa,বাদাম গাছ,bādāma gācha,ਬਦਾਮ ਦਾ ਰੁੱਖ,badām dā rukkh,ബദാം മരം,badāṁ maraṁ,almond tree
+843,पोंगामिया वृक्ष,pōṁgāmiyā vr̥kṣa,પોંગામિયા વૃક્ષ,pōṁgāmiyā vr̥kṣa,পোঙ্গামিয়া গাছ,pōṅgāmiẏā gācha,ਪੋਂਗਾਮੀਆ ਦਾ ਰੁੱਖ,pōṁgāmīā dā rukkh,പൊങ്ങാമിയ മരം,poṅṅāmiya maraṁ,Indian bunch tree (pongamia)
+844,वड,vaḍa,વડનું વૃક્ષ,vaḍanuṁ vr̥kṣa,বট গাছ,baṭa gācha,ਬਰਗਦ ਦਾ ਰੁੱਖ,baragad dā rukkh,ആൽമരം,ālmaraṁ,banyan tree
+845,कडू निंब,kaḍū niṁba,લીમડો,līmaḍō,নিম গাছ,nima gācha,ਨਿੰਮ ਦਾ ਰੁੱਖ,niṁm dā rukkh,വേപ്പ്,vēppŭ,neem tree
+846,चिंच,ciṁca,આંબલીનું વૃક્ષ,āṁbalīnuṁ vr̥kṣa,তেঁতুল গাছ,tēm̐tula gācha,ਇਮਲੀ ਦਾ ਰੁੱਖ,imalī dā rukkh,പുളിമരം,puḷimaraṁ,tamarind tree
+847,बाभूळ,bābhūḷa,બાવળનું વૃક્ષ,bāvaḷanuṁ vr̥kṣa,বাবুল গাছ,bābula gācha,ਬਬੂਲ ਦਾ ਰੁੱਖ,babūl dā rukkh,കരിവേലം,karivēlaṁ,babool tree
+848,केळीचे झाड,kēḷīce jhāḍa,કેળાનું વૃક્ષ,kēḷānuṁ vr̥kṣa,কলা গাছ,kalā gācha,ਕੇਲੇ ਦਾ ਰੁੱਖ,kēlē dā rukkh,വാഴ,vāḻa,banana tree
+849,पेरूचे झाड,pērūce jhāḍa,જામફળનું વૃક્ષ,jāmaphaḷanuṁ vr̥kṣa,পেয়ারা গাছ,pēẏārā gācha,ਅਮਰੂਦ ਦਾ ਰੁੱਖ,amarūd dā rukkh,പേരമരം,pēramaraṁ,guava tree
+850,आंब्याचे झाड,āṁbyāce jhāḍa,આંબાનું વૃક્ષ,āṁbānuṁ vr̥kṣa,আম গাছ,āma gācha,ਅੰਬ ਦਾ ਰੁੱਖ,aṁb dā rukkh,മാവ്,māvŭ,mango tree
+851,अशोक वृक्ष,aśōka vr̥kṣa,અશોક વૃક્ષ,aśōka vr̥kṣa,অশোক গাছ,aśōka gācha,ਅਸ਼ੋਕ ਦਾ ਰੁੱਖ,aśōk dā rukkh,അശോകമരം,aśōkamaraṁ,asoka tree
+852,मोगरा,mōgarā,મોગરાનું ફૂલ,mōgarānuṁ phūla,জুঁই,jũi,ਚਮੇਲੀ,camēlī,മുല്ലപ്പൂ,mullappū,jasmine
+853,कमल,kamala,કમળ,kamaḷa,পদ্ম,padma,ਕਮਲ,kamal,താമരപ്പൂവ്,tāmarappūvŭ,lotus
+854,पाणकणीस,pāṇakaṇīsa,પાણી લીલી,pāṇī līlī,শাপলা,śāpalā,ਵਾਟਰ ਲਿਲੀ,vāṭar lilī,ആമ്പൽ,āmpal,water lily
+855,शेवंती,śēvaṁtī,ક્રાયસੈਂથમમ,krāyasaiṁthama,ক্রিসান্থেমাম,krisānthēmāma,ਗੁਲਦਾਉਦੀ,guladā'ūdī,ചാമന്തി,cāmanti,chrysanthemum
+856,गुलाब,gulāba,ગુલાબ,gulāba,গোলাপ,gōlāpa,ਗੁਲਾਬ,gulāb,റോസ്,rōs,rose
+857,झेंडूची फुले,jhēṁḍūcī phulē,ગલગોટા,galagōṭā,গাঁদা ফুল,gāṁdā phula,ਗੈਂਦੇ ਦੇ ਫੁੱਲ,gaiṁdē dē phull,ചെണ്ടുമല്ലി,ceṇṭumalli,marigold
+858,मोगरीचे फूल,mōgarīce phūla,પાંડુরাস,pāṁḍurāsa,পাণ্ডারাস,pāṇḍārāsa,ਪੰਡਾਰਸ,paṁḍāras,താഴമ്പൂ,tāḻampū,pandarus
+859,दवणा,davaṇā,મધરવોર્ટ,madharavōrṭa,মাদারওয়ার্ট,mādār'ōẏārṭa,ਮਦਰਵਰਟ,madaravaraṭ,ദവന,davana,motherwort (artemisia)
+860,मिरवेन,miravēna,માર્જોરમ,mārjōrama,মারজোরাম,mārjōrāma,ਮਾਰਜੋਰਮ,mārajōram,മരുവം,maruvaṁ,cowhage (marjoram)
+861,कबूतर,kabūtara,કબૂતર,kabūtara,কবুতর,kabutara,ਕਬੂਤਰ,kabūtar,പ്രാവ്,prāvŭ,pigeon
+862,घुबड,ghubaḍa,ઘુવડ,ghuvaḍa,পেঁচা,pēm̐cā,ਉੱਲੂ,ullū,മൂങ്ങ,mūṅṅa,owl
+863,बगळा,bagaḷā,બગલો,bagalō,সারস,sārasa,ਕ੍ਰੇਨ,krēn,കൊക്ക്,kokkŭ,crane
+864,कावळा,kāvaḷā,કાગડો,kāgaḍō,কাগ,kāga,ਕਾਂ,kāṁ,കാക്ക,kākka,crow
+865,कोकिळा,kōkiḷā,કોયલ,kōyala,কোকিল পাখি,kōkila pākhi,ਕੋਇਲ,kōil,കുയിൽ,kuyil,cuckoo bird
+866,चिमणी,cimaṇī,ચકલી,cakalī,চড়ুই,caṛu'i,ਚਿੜੀ,ciṛī,കുരുവി,kuruvi,sparrow
+867,गरुड,garuḍa,ગરુડ,garuḍa,ঈগল,īgl,ਉਕਾਬ,ukāb,കഴുകൻ,kaḻukan,eagle
+868,चमगाड,camagāḍa,ચામાચીડિયું,chāmācīḍiyuṁ,বাদুড়,bāduṛa,ਚਮਗਿੱਦੜ,camagiddāṛ,വവ്വാൽ,vavvāl,bat
+869,मोर,mōra,મોર,mōra,ময়ূর,maẏūra,ਮੋਰ,mōr,മയിൽ,mayil,peacock
+870,बदक,badaka,બતક,bataka,হাঁস,hāṁsa,ਬਤਖ,batakh,താറാവ്,tāṟāvŭ,duck
+871,हंस,haṁsa,હંસ,haṁsa,হংস,haṁsa,ਹੰਸ,haṁs,അരയന്നം,arayannaṁ,swan
+872,कुत्रा,kutrā,કૂતરો,kūtarō,কুকুর,kukura,ਕੁੱਤਾ,kuttā,നായ,nāya,dog
+873,कोल्हा,kōlhā,શિયાળ,śiyāḷa,শিয়াল,śiẏāla,ਲੂੰਬੜੀ,lūṁbaṛī,കുറുക്കൻ,kurukkan,fox
+874,मांजर,māṁjara,બિલાડી,bilāḍī,বিড়াল,biṛāla,ਬਿੱਲੀ,billī,പൂച്ച,pūcca,cat
+875,गाय,gāy,ગાય,gāy,গরু,goru,ਗਾਂ,gāṁ,പശു,paśu,cow
+876,म्हस,mhasa,ભેંસ,bhēṁsa,মহিষ,mahiṣa,ਮੱਝ,majjh,എരുമ,eruma,buffalo
+877,बकरी,bakrī,બકરી,bakrī,ছাগল,chāgala,ਬੱਕਰੀ,bakkarī,ആട്,āṭŭ,goat
+878,मेंढी,mēṁḍhī,ઘેટાં,ghēṭāṁ,ভেড়া,bhēṛā,ਭੇਡ,bhēḍ,ചെമ്മരിയാട്,cemmari'āṭŭ,sheep
+879,गाढव,gāḍhava,ગધેડો,gadhēḍō,গাধা,gādhā,ਗਧਾ,gadhā,കഴുത,kaḻuta,donkey
+880,हत्ती,hattī,હાથી,hāthī,হাতি,hāti,ਹਾਥੀ,hāthī,ആന,āna,elephant
+881,वाघ,vāgha,વાઘ,vāgha,বাঘ,bāgha,ਸ਼ੇਰ,śēr,കടുവ,kaṭuva,tiger
+882,सिंह,siṁha,સિંહ,siṁha,সিংহ,siṁha,ਸ਼ੇਰ,śēr,സിംഹം,siṁhaṁ,lion
+883,माकड,mākaḍa,વાંદરો,vāṁdarō,বাঁদর,bāṁdara,ਬਾਂਦਰ,bāṁdar,കുരങ്ങൻ,kurāṅṅan,monkey
+884,हरीण,harīṇa,હરણ,haraṇa,হরিণ,hariṇa,ਹਿਰਨ,hiran,മാൻ,mān,deer
+885,चूल,cūla,ચુલો,culō,উনুন,ununa,ਚੁੱਲ੍ਹਾ,cullhā,അടുപ്പ്,aṭuppŭ,hearth
+886,पळी,paḷī,લાડલ,lāḍala,ল্যাডেল,lyāḍēla,ਲੈਂਡਲ,laiṁḍal,തവി,tavi,ladle
+887,चाळणी,cāḷaṇī,ચાળણી,cāḷaṇī,ছাঁকনি,chāṁkani,ਛਾਣਨੀ,chāṇanī,അരിപ്പ,arippa,sieve
+888,चिमटा,cimaṭā,ચપટી,capaṭī,চিমটা,chimaṭā,ਚਿਮਟਾ,cimaṭā,ചവണ,cavaṇa,tongs
+889,खिसरट,khisaraṭa,ખમણવું,khamaṇavuṁ,কুড়কুড়ে,kuṛakuṛē,ਕੱਦੂਕਸ,kaddūkash,ചുരണ്ടുക,curaṇṭuka,grate
+890,वाटी,vāṭī,વાટકો,vāṭakō,বাটি,bāṭi,ਕਟੋਰਾ,kaṭōrā,പാത്രം,pātraṁ,bowl
+891,भांडे,bhāṁḍe,પાત્ર,pātra,পাত্র,pātra,ਬਰਤਨ,baratan,പാത്രം,pātraṁ,vessel
+892,काडेपेटी,kāḍepēṭī,માચીસની પેટી,mācīsanī pēṭī,দেশলাই বাক্স,dēśalāi bākṣa,ਮਾਚਿਸ,mācis,തീപ്പെട്ടി,tīppeṭṭi,match box
+893,खल,khala,ખાંડણી,khāṁḍaṇī,মর্টার,marṭāra,ਮੋਰਟਾਰ,mōraṭār,ഉരൽ,ural,mortar
+894,काटा चमचा,kāṭā camacā,કાંટો ચમચો,kāṁṭō camacō,কাঁটা চামচ,kāṁṭā cāmaca,ਕਾਂਟਾ,kāṁṭā,മുൾച്ചാമ്പ്,muḷccāmpŭ,fork
+895,बर्णी,barṇī,બરણી,baraṇī,জার,jāra,ਜਾਰ,jār,ഭരണി,bharaṇi,jar
+896,चमचा,camacā,ચમચો,camacō,চামচ,cāmaca,ਚਮਚ,camac,സ്പൂൺ,spūṇ,spoon
+897,धुराडे,dhurāḍe,ચિમની,cimanī,চিমনির,ciminira,ਚਿਮਨੀ,cimanī,ചിമ്മിനി,cimmini,chimney
+898,झाडू,jhāḍū,ઝાડુ,jhāḍu,ঝাড়ু,jhāṛu,ਝਾੜੂ,jhāṛū,ചൂല്,cūlŭ,broom
+899,प्लेट,plēṭa,પ્લેટ,plēṭa,থালা,thālā,ਪਲੇਟ,palēṭ,പ്ലേറ്റ്,plēṟṟŭ,plate
+900,नळ,naḷa,નળ,naḷa,কল,kala,ਨਲ,nal,ടാപ്പ്,ṭāppŭ,tap
+901,ओनके,ōnakē,પાઉન્ડર,pā'uṁḍara,পাউডার,pāuḍāra,ਪਾਊਂਡਰ,pā'ūṁḍar,ഉരൽ,ural,pounder
+902,कुजा,kujā,ફ્લાગોન,phlāgōna,ফ্ল্যাগন,phlyāgan,ਫਲੈਗਨ,phalaigaan,ഫ്ലാഗൺ,phlāgaṇ,flagon
+903,पुरी लाटणे,purī lāṭaṇe,રોલિંગ પિન,rōliṁga pina,রোলিং পিন,rōliṁ pēna,ਰੋਲਿੰਗ ਪਿੰਨ,rōliṁg piṁn,റോളിംഗ് പിൻ,rōḷiṁg pin,rolling pin
+904,मंथन,maṁthana,મંથન,maṁthana,মন্থন,manthana,ਚਰਨਰ,caranar,മത്ത്,mattŭ,churner
+905,टेबल,ṭēbala,ટેબલ,ṭēbala,টেবিল,ṭēbila,ਮੇਜ਼,mēz,മേശ,mēśa,table
+906,कचरापेटी,kacarāpēṭī,કચરાપેટી,kacarāpēṭī,আবর্জনা বাক্স,ābarjanā bākṣa,ਕੂੜਾਦਾਨ,kūṛādān,ചവറ്റുകുട്ട,cavaṟṟukuṭṭa,dustbin
+907,सोने,sōnē,સોનું,sōnuṁ,সোনা,sōnā,ਸੋਨਾ,sōnā,സ്വർണ്ണം,svarṇṇaṁ,gold
+908,चांदी,cāṁdī,ચાંદી,cāṁdī,রূপা,rupā,ਚਾਂਦੀ,cāṁdī,വെള്ളി,veḷḷi,silver
+909,पितळ,pitaḷa,પિત્તળ,pittaḷa,পিতল,pitala,ਪਿੱਤਲ,pittal,പിച്ചള,piccaḷa,brass
+910,तांबे,tāṁbe,તાંબુ,tāṁbu,তামা,tāmā,ਤਾਂਬਾ,tāṁbā,ചെമ്പ്,cempŭ,copper
+911,पोलाद,pōlāda,સ્ટીલ,sṭīla,ইস্পাত,ispāta,ਸਟੀਲ,saṭīl,ഉരുക്ക്,urukkŭ,steel
+912,लोखंड,lōkhaṁḍa,લોખંડ,lōkhaṁḍa,লোহা,lōhā,ਲੋਹਾ,lōhā,ഇരുമ്പ്,irumpŭ,iron
+913,टीन,ṭīna,ટીન,ṭīna,টিন,ṭina,ਟਿਨ,ṭin,ടിൻ,ṭin,tin
+914,सीसा,sīsā,સીસું,sīsuṁ,সীসা,sīsā,ਸਿੱਕਾ,sikkā,ഈയം,eeyaṁ,lead
+915,हळद,haḷada,હળદર,haḷadara,হলুদ,haluda,ਹਲਦੀ,haladī,മഞ്ഞൾ,maññaḷ,turmeric
+916,मिरची,miracī,મરચું,marachuṁ,লঙ্কা,laṅkā,ਮਿਰਚ,mirac,മുളക്,muḷakŭ,chilli
+917,धने,dhane,ધાણા,dhāṇā,ধনে,dhanē,ਧਨੀਆ,dhanīā,മല്ലി,malli,coriander
+918,मोहरी,mōharī,રાઈ,rā'ī,সর্ষে,sarṣē,ਸਰ੍ਹੋਂ,sarhaṁ,കടുക്,kaṭukŭ,mustard
+919,जिरे,jire,જીરું,jīruṁ,জিরা,jirā,ਜੀਰਾ,jīrā,ജീരകം,jeerakaṁ,cummin seeds
+920,खसखस,khasakhasa,ખસખસ,khasakhasa,পোস্ত দানা,pōsta dānā,ਖਸਖਸ,khasakhas,കസ്കസ്,kaskas,poppy plant seeds
+921,हिंग,hiṁga,હિંગ,hiṁga,হিং,hiṁ,ਹੀੰਗ,hīṁg,കായം,kāyaṁ,assafoetida
+922,मेथी,mēthī,મેથી,mēthī,মেথি,mēthi,ਮੇਥੀ,mēthī,ഉലുവ,uluva,fenugreek
+923,लवंग,lavaṁga,લવિંગ,laviṁga,লবঙ্গ,labanga,ਲੌਂਗ,lauṁg,ഗ്രാമ്പൂ,grāmpū,cloves
+924,वेलची,vēlacī,એલચી,ēlacī,এলাচ,ēlāca,ਇਲਾਇਚੀ,ilāichī,ഏലക്കായ്,ēlakkāy,cardomum
+925,मिरी,mirī,મરી,marī,গোলমরিচ,gōlamarica,ਮਿਰਚ,mirac,കുരുമുളക്,kurumuḷakŭ,pepper
+926,चिंच,ciṁca,આંબલી,āṁbalī,তেঁতুল,tēm̐tula,ਇਮਲੀ,imalī,പുളി,puḷi,tamarind
+927,मीठ,mīṭha,મીઠું,mīṭhuṁ,লবণ,labaṇa,ਲੂਣ,lūṇ,ഉപ്പ്,uppŭ,salt
+928,मिरची पावडर,miracī pāvaḍara,મરચાં પાવડર,maracāṁ pāvaḍara,লঙ্কার গুঁড়ো,laṅkāra guṁṛō,ਮਿਰਚ ਪਾਊਡਰ,mirac pāūḍar,മുളകുപൊടി,muḷakupōṭi,mirchi powder
+929,गुळ,guḷa,ગોળ,gōḷa,গুড়,guṛa,ਗੁੜ,guṛ,ശർക്കര,śarkkara,jaggery
+930,साखर,sākhara,ખાંડ,khāṁḍa,চিনি,cini,ਚੀਨੀ,cīnī,പഞ്ചസാര,pañcasāra,sugar
+931,तूर डाळ,tūra ḍāḷa,તુવેર દાળ,tuvēra dāḷa,তোর ডাল,tōra ḍāla,ਤੂਰ ਦਾਲ,tūr dāl,തുവരപ്പരിപ്പ്,tuvarapparippŭ,redgram
+932,उडद डाळ,uḍada ḍāḷa,અડદ દાળ,aḍada dāḷa,উড়দ ডাল,uṛada ḍāla,ਉੜਦ ਦਾਲ,uṛad dāl,ഉഴുന്നു പരിപ്പ്,uḻunnu parippŭ,blackgram
+933,चना डाळ,canā ḍāḷa,ચણા દાળ,chaṇā dāḷa,ছোলা ডাল,chōlā ḍāla,ਛੋਲੇ ਦਾਲ,chōlē dāl,കടലപ്പരിപ്പ്,kaṭalapparippŭ,bengalgram
+934,मुगाची डाळ,mugācī ḍāḷa,મગ દાળ,mag dāḷa,মুগ ডাল,muga ḍāla,ਮੂੰਗ ਦਾਲ,mūṁg dāl,ചെറുപയർ പരിപ്പ്,ceṟupayaṟ parippŭ,greengram
+935,अंगठी,aṁgaṭhī,વીંટી,vīṁṭī,আংটি,āṁṭi,ਅੰਗੂਠੀ,aṁgūṭhī,മോതിരം,mōtiraṁ,ring
+936,बांगडी,bāṁgaḍī,કંકણ,kaṁkaṇa,কঙ্কণ,kaṁkaṇa,ਕੰਕਣ,kaṁkaṇ,വള,vaḷa,bracelet
+937,साखळी,sākhaḷī,સાંકળ,sāṁkaḷa,শৃঙ্খল,śr̥ṅkhala,ਚੇਨ,cēn,മാല,māla,chain
+938,पॅलेट पिन,pyālēṭa pina,ব্রোচ,brōca,ব্রোচ,brōca,ਬਰੋਚ,barōc,ബ്രൂച്ച്,brūccŭ,brooch
+939,नथ,natha,નથ,natha,নাকছাবি,nākachābi,ਨੱਥ,natth,മൂക്കുത്തി,mūkkutti,nose-ring
+940,कानटोप,kānaṭōpa,કાનના ટોપ્સ,kānanā ṭōpsa,কানের দুল,kānēra dula,ਕੰਨਾਂ ਦੇ ਟੌਪਸ,kannāṁ dē ṭôpas,കമ്മലുകൾ,kammalukaḷ,tops
+941,केस क्लिप,kēsa klipa,વાળની ​​ક્લિપ,vāḷanī ​​klipa,হেয়ার ক্লিপ,hēẏāra klipa,ਹੇਅਰ ਕਲਿੱਪ,hē'ar kalitt,ഹെയർ ക്ലിപ്പ്,heyar klippŭ,hair clip
+942,साइड पिन,sā'īḍa pina,બાજુ પિન,bāju pina,পাশে পিন,pāśe pina,ਸਾਈਡ ਪਿੰਨ,sāīḍ piṁn,സൈഡ് പിൻ,said pin,side pin
+943,बांगड्या,bāṁgaḍyā,બંગડી,baṁgaḍī,চুড়ি,cuṛi,ਚੂੜੀਆਂ,cūṛīāṁ,വളകൾ,vaḷakaḷ,bangle
+944,दागिने,dāgine,ઝવેરાત,jhavērāta,গয়না,gaẏanā,ਗਹਿਣੇ,gaihiṇe,ആഭരണങ്ങൾ,ābhaṇaṅṅaḷ,jewelry
+945,डोक्याचे लॉकेट,ḍōkyāce lâkēṭa,હેડલોકેટ,hēḍalōkēṭa,হেডলকেট,hēḍalōkēṭa,ਹੈੱਡਲੋਕਿਟ,haiḍalōkiṭ,തലക്കഴുത്താരം,talakkaḻuttāraṁ,headlocket
+946,पदक,padaka,મેડલ,mēḍala,পদক,padaka,ਮੈਡਲ,maiḍal,മെഡൽ,meḍal,medal
+947,कानफुले,kānaphulē,કપાળ,kapāḷa,কানের দুল,kānēra dula,ਕੰਨਾਂ ਦੀਆਂ ਵਾਲੀਆਂ,kannāṁ dīāṁ vālīāṁ,കമ്മലുകൾ,kammalukaḷ,earstuds
+948,मुकुट,mukuṭa,તાજ,tāja,মুকুট,mukuṭa,ਤਾਜ,tāj,കിരീടം,kirīṭaṁ,crown
+949,आर्मलेट,āramalēṭa,બાજુબંધ,bājuṁbandha,আর্মলেট,ārmalēṭa,ਆਰਮਲੈਟ,āramalaiṭ,കൈവള,kaivaḷa,armlet
+950,हार,hāra,માળા,māḷā,নেকলেস,nēkalēsa,ਹਾਰ,hār,മാല,māla,necklace
+951,पैंजण,paiṁjaṇa,પાયલ,pāyala,পায়েল,pāẏēla,ਪਾਇਲ,pāil,കാൽത്തളകൾ,kāltthaḷakaḷ,anklets
+952,मिसरी,misarī,નાકની પીન,nākanī pīna,নাকছাবি,nākachābi,ਨੱਕ ਦਾ ਕੀਲ,nakk dā kīl,മൂക്കുത്തി,mūkkutti,nosestud
+953,हँगिंग्ज,haṁgiṁgja,હેંગિંગ્સ,hēṁgiṁgsa,ঝুলন্ত,jhulanta,ਹੈਂਗਿੰਗਜ਼,haiṁgiṁgaz,തൂങ്ങിക്കിടക്കുന്നവ,tūṅṅikkiṭakkunnav,hangings
+954,कंबरपट्टा,kaṁbarapaṭṭā,કમરનું આભૂષણ,kamaranuṁ ābhūṣaṇa,কোমর অলঙ্কার,kōmara alaṅkāra,ਕਮਰ ਦਾ ਗਹਿਣਾ,kamar dā gaihiṇā,അരഞ്ഞാണം,araññāṇaṁ,waist ornament
+955,रुंदी,ruṁdī,પહોળાઈ,pahōḷā'ī,প্রস্থ,prastha,ਚੌੜਾਈ,cauṛāī,വീതി,veeti,width
+956,लांबी,lāṁbī,લંબાઈ,laṁbā'ī,দৈর্ঘ্য,dairghya,ਲੰਬਾਈ,laṁbāī,നീളം,neeḷaṁ,length
+957,उंची,uṁcī,ઊંચાઈ,ūṁcā'ī,উচ্চতা,uccatā,ਉਚਾਈ,ucāī,ഉയരം,uyaraṁ,height
+958,लहान,lahāna,ટૂંકું,ṭūṁkuṁ,ছোটো,chōṭō,ਛੋਟਾ,chōṭā,കുറിയ,kuriya,short
+959,मोठा,mōṭhā,મોટો,mōṭō,বড়ো,baṛō,ਵੱਡਾ,vadḍā,വലിയ,valiya,big
+960,लहान,lahāna,નાનું,nānuṁ,ছোটো,chōṭō,ਛੋਟਾ,chōṭā,ചെറിയ,ceriya,small
+961,जड,jaḍa,ભારે,bhārē,ভারী,bhārī,ਭਾਰੀ,bhārī,ഭാരം,bhāraṁ,heavy
+962,गोल,gōla,ગોળાકાર,gōḷākāra,গোলাকার,gōlākāra,ਗੋਲ,gōl,വൃത്താകൃതിയിലുള്ള,vr̥ttākr̥tiyiluḷḷa,round
+963,दारे,dāre,દરવાજા,daravājā,দরজা,darajā,ਦਰਵਾਜ਼ੇ,daravāzē,വാതിലുകൾ,vātiḷukaḷ,doors
+964,प्रवेशद्वार,pravēśadvāra,પ્રવેશ દ્વાર,pravēśa dvāra,প্রবেশদ্বার,prabēśadvāra,ਦਾਖਲਾ ਦਰਵਾਜ਼ਾ,dākhalā daravāzā,പ്രവേശന കവാടം,pravēśana kavāṭaṁ,entrance
+965,खिडक्या,khiḍakyā,બારીઓ,bārī'ō,জানালা,jānālā,ਖਿੜਕੀਆਂ,khiṛakīāṁ,ജനലുകൾ,janāḷukaḷ,windows
+966,खोली,khōlī,રૂમ,rūma,ঘর,ghara,ਕਮਰਾ,kamarā,മുറി,muṟi,room
+967,व्हरांडा,varāṁḍā,વરંડા,varaṁḍā,বারান্দা,bārāndā,ਵਰਾਂਡਾ,varāṁḍā,വരാന്ത,varānta,verandah
+968,अलमारी,alamārī,અલમારી,alamārī,আলমারি,ālamāri,ਅਲਮਾਰੀ,alamārī,അലമാര,alamāra,almirah
+969,उंबरठा,uṁbaraṭhā,ઉંબર,uṁbara,প্রবেশদ্বার,prabēśadvāra,ਦਹਿਲੀਜ਼,dahalīz,ഉമ്മറപ്പടി,ummarappaṭi,threshold
+970,छप्पर,chappara,છત,chat,ছাদ,chāda,ਛੱਤ,chatt,മേൽക്കൂര,mēlkkoora,roof
+971,व्हेंटिलेटर,vhēṁṭilēṭara,વેન્ટિલેટર,vēṇṭilēṭara,ভেন্টিলেটর,bhēnṭilēṭara,ਵੈਂਟੀਲੇਟਰ,vaiṁṭīlēṭar,വായുസഞ്ചാരകണി,vāyusañcārakkaṇi,ventilator
+972,पायऱ्या,pāyaryā,પગથિયાં,pagathiyāṁ,সিঁড়ি,sĩṛi,ਪੌੜੀਆਂ,pauṛīāṁ,പടി,paṭi,steps

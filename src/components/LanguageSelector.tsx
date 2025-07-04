@@ -9,6 +9,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
+import { useIsMobile } from '@/hooks/use-mobile';
 
 interface LanguageSelectorProps {
   currentLanguage: string;
@@ -21,6 +22,7 @@ const LanguageSelector: React.FC<LanguageSelectorProps> = ({
   onLanguageChange,
   isDarkMode = false
 }) => {
+  const isMobile = useIsMobile();
   const availableLanguages = getAvailableLanguages();
   const filteredLanguages = supportedLanguages.filter(lang =>
     availableLanguages.includes(lang.code)
@@ -33,27 +35,27 @@ const LanguageSelector: React.FC<LanguageSelectorProps> = ({
       <DropdownMenuTrigger asChild>
         <Button
           variant="outline"
-          className={`flex items-center gap-1 ${isDarkMode
-              ? 'bg-gray-800 border-gray-600 text-white hover:bg-gray-700'
-              : 'bg-white border-gray-300 text-gray-800 hover:bg-gray-50'
+          className={`flex items-center gap-1 px-2 sm:px-3 py-1 sm:py-2 text-xs sm:text-sm ${isDarkMode
+            ? 'bg-gray-800 border-gray-600 text-white hover:bg-gray-700'
+            : 'bg-white border-gray-300 text-gray-800 hover:bg-gray-50'
             }`}
         >
           <span>{currentLang?.nativeName || 'Select'}</span>
-          <ChevronDown size={16} />
+          <ChevronDown size={isMobile ? 14 : 16} />
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end" className={isDarkMode ? 'bg-gray-800 text-white border-gray-700' : ''}>
+      <DropdownMenuContent align="end" className={`${isDarkMode ? 'bg-gray-800 text-white border-gray-700' : ''} max-h-60 overflow-y-auto`}>
         {filteredLanguages.map((language) => (
           <DropdownMenuItem
             key={language.code}
             onClick={() => onLanguageChange(language.code)}
-            className={`flex flex-col items-start ${currentLanguage === language.code
-                ? (isDarkMode ? 'bg-gray-700' : 'bg-gray-100')
-                : ''
+            className={`flex flex-col items-start py-2 ${currentLanguage === language.code
+              ? (isDarkMode ? 'bg-gray-700' : 'bg-gray-100')
+              : ''
               } ${isDarkMode ? 'hover:bg-gray-700' : 'hover:bg-gray-100'
               }`}
           >
-            <div className="font-medium">{language.nativeName}</div>
+            <div className="font-medium text-sm sm:text-base">{language.nativeName}</div>
             <div className="text-xs opacity-75">{language.name}</div>
           </DropdownMenuItem>
         ))}
