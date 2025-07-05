@@ -8,6 +8,7 @@ export interface Language {
 export const supportedLanguages: Language[] = [
   { code: 'te', name: 'Telugu', nativeName: 'తెలుగు' },
   { code: 'kn', name: 'Kannada', nativeName: 'ಕನ್ನಡ' },
+  { code: 'ta', name: 'Tamil', nativeName: 'தமிழ்' },
   { code: 'hi', name: 'Hindi', nativeName: 'हिन्दी' },
   { code: 'mr', name: 'Marathi', nativeName: 'मराठी' },
   { code: 'gu', name: 'Gujarati', nativeName: 'ગુજરાતી' },
